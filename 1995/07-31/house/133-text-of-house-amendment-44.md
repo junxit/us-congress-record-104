@@ -1,0 +1,23 @@
+---
+granule: CREC-1995-07-31-pt1-PgH8067-14
+date: 1995-07-31
+edition: CREC
+section: HOUSE
+page: H8067
+citation: 141 Cong. Rec. H8067
+---
+
+# Text of House Amendment 44
+
+**Speaking:** Obey, David R. (O000007) [D-WI]
+
+**Measures:** H.R. 2127
+
+```
+H.R. 2127
+
+                          Offered By: Mr. Obey
+
+       Amendment No. 44: on page 35 line 15 strike $1,000,000,000 
+     and insert $100,000,000.
+```
