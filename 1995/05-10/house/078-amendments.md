@@ -1,0 +1,170 @@
+---
+granule: CREC-1995-05-10-pt1-PgH4796
+date: 1995-05-10
+edition: CREC
+section: HOUSE
+page: H4796
+citation: 141 Cong. Rec. H4796
+---
+
+# AMENDMENTS
+
+**Measures:** H.R. 961
+
+```
+                               AMENDMENTS
+
+  Under clause 6 of rule XXIII, proposed amendments were submitted as 
+follows:
+                                H.R. 961
+
+                        Offered By: Mr. Bateman
+
+       Amendment No. 57: Pages 231 and 232, strike the table and 
+     insert the following:
+
+------------------------------------------------------------------------
+                                Percentage of Sums Authorized for Fiscal
+                                                  Year                  
+            State             ------------------------------------------
+                                 1996      1997      1998    1999 & 2000
+------------------------------------------------------------------------
+Alabama......................    1.0693    1.0110    0.9504     0.8896  
+Alaska.......................    0.5723    0.5411    0.5087     0.4761  
+Arizona......................    0.7139    0.7464    0.7767     0.8060  
+Arkansas.....................    0.6255    0.5914    0.5560     0.5204  
+California...................    7.5590    7.9031    8.2244     8.5345  
+Colorado.....................    0.7649    0.7232    0.6885     0.6847  
+Connecticut..................    1.2948    1.3537    1.3718     1.3643  
+Delaware.....................    0.4694    0.4438    0.4173     0.3905  
+District of Columbia.........    0.4694    0.4438    0.4173     0.3905  
+Florida......................    3.4532    3.4462    3.4304     3.4115  
+Georgia......................    1.7870    1.8683    1.9443     1.9993  
+Hawaii.......................    0.7406    0.7002    0.6583     0.6161  
+Idaho........................    0.4694    0.4438    0.4173     0.3905  
+Illinois.....................    4.7801    4.9976    5.2008     5.3970  
+Indiana......................    2.5472    2.6631    2.7714     2.8759  
+Iowa.........................    1.2942    1.2236    1.1503     1.0767  
+Kansas.......................    0.8708    0.8690    0.8650     0.8602  
+Kentucky.....................    1.3452    1.3570    1.3508     1.3433  
+Louisiana....................    1.0512    1.0060    1.0014     0.9958  
+Maine........................    0.7402    0.6999    0.6666     0.6629  
+Maryland.....................    2.3128    2.1867    2.0557     1.9241  
+Massachusetts................    3.5884    3.7518    3.9043     4.0515  
+Michigan.....................    4.1117    3.8875    3.8061     3.7850  
+Minnesota....................    1.7576    1.6618    1.5622     1.4622  
+Mississippi..................    0.8615    0.8146    0.7658     0.7167  
+Missouri.....................    2.6509    2.5063    2.3562     2.2054  
+Montana......................    0.4694    0.4438    0.4173     0.3905  
+Nebraska.....................    0.4891    0.4624    0.4347     0.4069  
+Nevada.......................    0.4694    0.4438    0.4173     0.3905  
+New Hampshire................    0.9556    0.9035    0.8494     0.7950  
+New Jersey...................    4.3190    4.5156    4.6686     4.6428  
+New Mexico...................    0.4694    0.4438    0.4173     0.3905  
+New York.....................   11.6659   12.1969   12.6928    13.1714  
+North Carolina...............    1.9075    1.9943    2.0754     2.1537  
+North Dakota.................    0.4694    0.4438    0.4173     0.3905  
+Ohio.........................    5.3833    5.0898    4.9266     4.8993  
+Oklahoma.....................    0.7726    0.7304    0.6867     0.6427  
+Oregon.......................    1.1939    1.2399    1.2342     1.2274  
+Pennsylvania.................    4.1866    4.2145    4.1952     4.1720  
+Rhode Island.................    0.6421    0.6071    0.5707     0.5342  
+South Carolina...............    0.9796    0.9262    0.8707     0.8150  
+South Dakota.................    0.4694    0.4438    0.4173     0.3905  
+Tennessee....................    1.4697    1.4668    1.4600     1.4520  
+Texas........................    4.6552    4.6458    4.6245     4.5989  
+Utah.........................    0.5039    0.4764    0.4479     0.4192  
+Vermont......................    0.4694    0.4438    0.4173     0.3905  
+Virginia.....................    2.1630    2.2615    2.3534     2.4379  
+Washington...................    1.8380    1.9217    1.9998     2.0752  
+West Virginia................    1.4907    1.4249    1.4184     1.4106  
+Wisconsin....................    2.5852    2.4442    2.2978     2.1507  
+Wyoming......................    0.4694    0.4438    0.4173     0.3905  
+Puerto Rico..................    1.2472    1.1792    1.1185     1.1123  
+Northern Marianas............    0.0399    0.0377    0.0355     0.0332  
+American Somoa...............    0.0859    0.0812    0.0763     0.0714  
+Guam.........................    0.0621    0.0587    0.0552     0.0517  
+Palau........................    0.1224    0.1158    0.1088     0.1019  
+Virgin Islands...............    0.0551    0.0576    0.0599   0.0599.''.
+------------------------------------------------------------------------
+
+                                H.R. 961
+
+                         Offered by: Mr. Cooley
+
+       Amendment No. 58: Page 181, after line 16, insert the 
+     following:
+
+     SEC. 401. GRAZING OF LIVESTOCK
+
+       Section 401(a)(1) (33 U.S.C. 1341(a)(1)) strike ``Federal 
+     license or permit'' and insert ``Federal license or permit 
+     (other than a lease or permit to authorize the grazing of 
+     livestock on any lands owned or under the control of the 
+     United States)''.
+       Redesignate subsequent sections of title IV of the bill and 
+     conform the table of contents accordingly.
+
+                                H.R. 961
+
+                         Offered by: Mr. Cooley
+
+       Amendment No. 59: Page 209, strike line 1 and insert ``SEC. 
+     503. POINT SOURCE DEFINED.''.
+       Conform the table of contents of the bill accordingly.
+       Page 209, at the beginning of line 2, insert ``(a) CAFO 
+     Definition Clarification.--''.
+       Page 209, after line 17, insert the following:
+       (b) Agricultural Stormwater Discharges.--Section 502(14) is 
+     further amended by inserting ``, including discharges from 
+     cropland, pasture land, rangeland, any grazing lands used 
+     pursuant to a Federal grazing permit or lease, and forest 
+     lands,'' after ``agricultural stormwater discharges''.
+
+                                H.R. 961
+
+                        Offered by: Mr. DeFazio
+
+       Amendment No. 60: Page 92, line 2, strike ``or other 
+     facility'', as inserted on page 14 of the committee amendment 
+     offered by Mr. Shuster.
+                                H.R. 961
+
+                         Offered By: Mr. Minge
+
+       Amendment No. 61: Page 243, after line 8, insert the 
+     following:
+       ``(3) Agricultural permit authority.--The Secretary of 
+     Agriculture is authorized to issue permits in accordance with 
+     this section for any activity resulting from normal farming, 
+     silviculture, aquaculture, and ranching activities and 
+     practices carried out on agricultural land or for any 
+     activity incidental thereto carried out on the agricultural 
+     land if the agricultural land is not subject to sections 
+     1221-1223 of the Food Security Act of 1985 (16 U.S.C. 3821-
+     3823). Any activity allowed by the Secretary of Agriculture 
+     under such sections 1221-1223 shall be treated as having a 
+     permit issued under this section and no individual request 
+     for or granting of a permit shall be required under this 
+     section.
+       Page 274, after line 19, add the following:
+       ``(10) Mitigation of agricultural lands.--Any mitigation 
+     approved by the Secretary of Agriculture for agricultural 
+     lands shall be accepted by the Secretary as mitigation under 
+     this section.
+       Page 276, line 7, after ``ditches'' insert ``(including 
+     resloping of drainage ditches to control bank erosion)''.
+
+                                H.R. 961
+
+                         Offered By: Mr. Riggs
+
+       Amendment No. 62: On page 276, strike lines 3 through 7 and 
+     insert in lieu thereof the following:
+
+     ``ponds, wastewater retention or management facilities 
+     (including pipelines, dikes and berms) that are used by 
+     concentrated animal feeding operations or advanced treatment 
+     municipal wastewater reuse operations, or irrigation canals 
+     and ditches or the maintenance of drainage ditches;''.
+```
