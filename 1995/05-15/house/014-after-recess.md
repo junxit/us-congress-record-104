@@ -1,0 +1,21 @@
+---
+granule: CREC-1995-05-15-pt1-PgH4918-9
+date: 1995-05-15
+edition: CREC
+section: HOUSE
+page: H4918
+citation: 141 Cong. Rec. H4918
+---
+
+# AFTER RECESS
+
+```
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Young of Alaska) at 12 o'clock and 23 minutes 
+p.m.
+
+
+                          ____________________
+```
