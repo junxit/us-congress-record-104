@@ -1,0 +1,56 @@
+---
+granule: CREC-1995-02-22-pt1-PgS2964-4
+date: 1995-02-22
+edition: CREC
+section: SENATE
+page: S2964
+citation: 141 Cong. Rec. S2964
+---
+
+# WORKING WAGE INCREASE ACT--MESSAGE FROM THE PRESIDENT--PM 22
+
+```
+      WORKING WAGE INCREASE ACT--MESSAGE FROM THE PRESIDENT--PM 22
+
+  The PRESIDING OFFICER laid before the Senate a message from the 
+President of the United States, a draft of proposed legislation to 
+amend the Fair Labor Standards Act of 1938 to increase the minimum wage 
+rate under that act; which was referred to the Committee on Labor and 
+Human Resources; as follows:
+
+To the Congress of the United States:
+  I am pleased to transmit for your immediate consideration and 
+enactment the ``Working Wage Increase Act of 1995.''
+  This draft bill would amend the Fair Labor Standards Act to increase 
+the minimum wage in two 45 cents steps--from the current rate of $4.25 
+an hour to $4.70 an hour on July 4, 1995, and to $5.15 an hour after 
+July 3, 1996. The pattern of the proposed increase is identical to that 
+of the last increase, which passed the Congress with a broad bipartisan 
+majority and was signed by President Bush in 1989. The first increment 
+of the proposal simply restores the minimum wage to its real value 
+following the change enacted in 1989.
+  If the Congress does not act now, the minimum wage will fall to its 
+lowest real level in 40 years. That would dishonor one of the great 
+promises of American life--that everyone who works hard can earn a 
+living wage.
+[[Page S2965]] More than 11 million workers would benefit under this 
+proposal, and a full-time, year-round worker at the minimum wage would 
+get a $1,800 raise--the equivalent of 7 months of groceries for the 
+average family.
+  To reform the Nation's welfare system, we should make work pay, and 
+this legislation would help achieve that result. It would offer a raise 
+to families that are working hard, but struggling to make ends meet. 
+Most individuals earning the minimum wage are adults, and the average 
+worker affected by this proposal brings home half of the family's 
+earnings. Numerous empirical studies indicate that an increase in the 
+minimum wage of the magnitude proposed would not have a significant 
+impact on employment. The legislation would ensure that those who work 
+hard and play by the rules can live with the dignity they have earned.
+  I urge the Congress to take prompt and favorable action on this 
+legislation.
+                                                  William J. Clinton.  
+  The White House, February 13, 1995.
+  
+
+                          ____________________
+```
