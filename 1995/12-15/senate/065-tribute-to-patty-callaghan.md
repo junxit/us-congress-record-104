@@ -1,0 +1,50 @@
+---
+granule: CREC-1995-12-15-pt1-PgS18745-2
+date: 1995-12-15
+edition: CREC
+section: SENATE
+page: S18745
+citation: 141 Cong. Rec. S18745
+---
+
+# TRIBUTE TO PATTY CALLAGHAN
+
+**Speaking:** Baucus, Max (B000243) [D-MT]
+
+```
+                       TRIBUTE TO PATTY CALLAGHAN
+
+● Mr. BAUCUS. Mr. President, I wish today to give tribute to one 
+of Eastern Montanan's treasures, Patty Callaghan. Patty recently 
+retired after 20 years with Action for Eastern Montana.
+  Patty retired as executive director to attend Luther Seminary in St. 
+Paul MN. She hopes to return to eastern Montana as a lay leader with 
+rural churches.
+  Montana needs more leaders like Patty Callaghan. Rural Montana needs 
+the love for and knowledge of our state that people like Patty have.
+  Patty's work with action actually led to here decision to choose the 
+seminary. When funding cutbacks in the programs that she administers 
+forced her to look to other resources, Patty found the churches 
+responding generously. She found the needs of rural communities to be 
+much the same as the congregations--energy, leadership for change, 
+accountability, respect and compassion.
+  Patty has dealt with many family issues that will serve her will in 
+her new life. She found the work at Action for Eastern Montana 
+rewarding and the Glendive community generous when a need was 
+identified.
+  In a recent tribute to Patty, family members, coworkers, friends and 
+many 
+
+[[Page S18746]]
+others including Montana's Governor Marc Racicot expressed their 
+respect and appreciation for her life's work.
+  I would also like to express my profound respect and admiration for 
+Patty Callaghan and what she has done for eastern Montana. Public 
+service can bring out the best and worst in people. With Patty, her 
+compassion and caring has only deepened. Eastern Montana desperately 
+needs this commitment to its communities.
+  Thank you, Patty. We wish you the best and look forward to seeing you 
+again soon.●
+
+                          ____________________
+```
