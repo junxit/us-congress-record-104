@@ -1,0 +1,50 @@
+---
+granule: CREC-1996-03-11-pt1-PgS1679-2
+date: 1996-03-11
+edition: CREC
+section: SENATE
+page: S1679
+citation: 142 Cong. Rec. S1679
+---
+
+# REPORT CONCERNING THE CONTINUATION OF NATIONAL EMERGENCY WITH RESPECT TO IRAN--MESSAGE FROM THE PRESIDENT RECEIVED DURING ADJOURNMENT--PM 129
+
+```
+ REPORT CONCERNING THE CONTINUATION OF NATIONAL EMERGENCY WITH RESPECT 
+TO IRAN--MESSAGE FROM THE PRESIDENT RECEIVED DURING ADJOURNMENT--PM 129
+
+  Under the authority of the order of the Senate of January 4, 1995, 
+the Secretary of the Senate, on March 8, 1996, during the adjournment 
+of the Senate, received the following message from the President of the 
+United States, together with an accompanying report; which was referred 
+to the Committee on Banking, Housing, and Urban Affairs:
+
+To the Congress of the United States:
+  Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)) 
+provides for the automatic termination of a national emergency unless, 
+prior to the anniversary date of its declaration, the President 
+publishes in the Federal Register and transmits to the Congress a 
+notice stating that the emergency is to continue in effect beyond the 
+anniversary date. In accordance with this provision, I have sent the 
+enclosed notice, stating that the Iran emergency declared on March 15, 
+1995, pursuant to the International Emergency Economic Powers Act (50 
+U.S.C. 1701-1706) is to continue in effect beyond March 15, 1996, to 
+the Federal Register for publication. This emergency is separate from 
+that declared on November 14, 1979, in connection with the Iranian 
+hostage crisis and therefore requires separate renewal of emergency 
+authorities.
+  The factors that led me to declare a national emergency with respect 
+to Iran on March 15, 1995, have not been resolved. The actions and 
+policies of the Government of Iran, including its support for 
+international terrorism, efforts to undermine the Middle East peace 
+process, and its acquisition of weapons of mass destruction and the 
+means to deliver them, continue to threaten the national security, 
+foreign policy, and economy of the United States. Accordingly, I have 
+determined that it is necessary to maintain in force the broad 
+authorities that are in place by virtue of the March 15, 1995, 
+declaration of emergency.
+                                                  William J. Clinton.  
+  The White House, March 8, 1996.
+
+                          ____________________
+```
