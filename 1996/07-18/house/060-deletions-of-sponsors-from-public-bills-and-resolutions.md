@@ -1,0 +1,23 @@
+---
+granule: CREC-1996-07-18-pt1-PgH8030-3
+date: 1996-07-18
+edition: CREC
+section: HOUSE
+page: H8030
+citation: 142 Cong. Rec. H8030
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 1462
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 4 of rule XXII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 1462: Mr. Stearns.
+
+                          ____________________
+```
