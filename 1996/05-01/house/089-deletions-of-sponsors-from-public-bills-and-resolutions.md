@@ -1,0 +1,21 @@
+---
+granule: CREC-1996-05-01-pt1-PgH4397-4
+date: 1996-05-01
+edition: CREC
+section: HOUSE
+page: H4397
+citation: 142 Cong. Rec. H4397
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 2796
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 4 of rule XXII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 2796: Mr. Gordon.
+```
