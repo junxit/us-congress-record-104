@@ -1,0 +1,165 @@
+---
+granule: CREC-1996-04-23-pt1-PgH3731
+date: 1996-04-23
+edition: CREC
+section: HOUSE
+page: H3731
+citation: 142 Cong. Rec. H3731
+---
+
+# AMENDMENTS
+
+**Measures:** H.J.Res. 175, H.R. 1675
+
+```
+                               AMENDMENTS
+
+  Under clause 6 of the rule XXIII, proposed amendments were submitted 
+as follows:
+
+                               H.R. 1675
+
+                         Offered By: Mr. Nadler
+
+        (Page and line number references are to Amendment No. 1)
+
+       Amendment No. 3: Strike section 10 (page 23, lines 3 
+     through 10).
+                                 ______
+
+
+                             H.J. Res. 175
+
+                         Offered By: Mr. Gekas
+
+       Amendment No. 1: At the appropriate place, insert the 
+     following new section:
+
+     SEC.  . AUTOMATIC CONTINUING RESOLUTION.
+
+       (a) In General.--Chapter 13 of title 31, United States 
+     Code, is amended by inserting after section 1310 the 
+     following new section:
+
+     ``Sec. 1311. Continuing appropriations
+
+       ``(a)(1) If any regular appropriation bill for a fiscal 
+     year does not become law prior to the beginning of such 
+     fiscal year or a joint resolution making continuing 
+     appropriations is not in effect, there is appropriated, out 
+     of any moneys in the Treasury not otherwise appropriated, and 
+     out of applicable corporate or other revenues, receipts, and 
+     funds, such sums as may be necessary to continue any project 
+     or activity for which funds were provided in the preceding 
+     fiscal year--
+       ``(A) in the corresponding regular appropriation Act for 
+     such preceding fiscal year; or
+       ``(B) if the corresponding regular appropriation bill for 
+     such preceding fiscal year did not become law, then in a 
+     joint resolution making continuing appropriations for such 
+     preceding fiscal year.
+       ``(2) Appropriations and funds made available, and 
+     authority granted, for a project or activity for any fiscal 
+     year pursuant to this section shall be at a rate of 
+     operations not in excess of the lower of--
+       ``(A) the rate of operations provided for in the regular 
+     appropriation Act providing for such project or activity for 
+     the preceding fiscal year.
+       ``(B) in the absence of such an Act, the rate of operations 
+     provided for such project or activity pursuant to a joint 
+     resolution making continuing appropriations for such 
+     preceding fiscal year,
+       ``(C) the rate of operations provided for in the House or 
+     Senate passed appropriation bill for the fiscal year in 
+     question, except that the lower of these two versions shall 
+     be ignored for any project or activity for which there is a 
+     budget request if no funding is provided for that project or 
+     activity in neither version,
+       ``(D) the rate provided in the budget submission of the 
+     President under section 1105(a) of title 31, United States 
+     Code, for the fiscal year in question, or
+       ``(E) the annualized rate of operations provided for in the 
+     most recently enacted joint resolution making continuing 
+     appropriations for part of that fiscal year.
+       ``(3) Appropriations and funds made available, and 
+     authority granted, for any fiscal year pursuant to this 
+     section for a project or activity shall be available for the 
+     period beginning with the first day of a lapse in 
+     appropriations and ending with the earlier of--
+       ``(A) the date on which the applicable regular 
+     appropriation bill for such fiscal year becomes law (whether 
+     or not such law provides for such project or activity) or a 
+     continuing resolution making appropriations becomes law, as 
+     the case may be, or
+       ``(B) the last day of such fiscal year.
+       ``(b) An appropriation or funds made available, or 
+     authority granted, for a project or activity for any fiscal 
+     year pursuant to this section shall be subject to the terms 
+     and conditions imposed with respect to the appropriation made 
+     or funds made available for the preceding fiscal year, or 
+     authority granted for such project or activity under current 
+     law.
+       ``(c) Appropriations and funds made available, and 
+     authority granted, for any project or activity for any fiscal 
+     year pursuant to this section shall cover all obligations or 
+     expenditures incurred for such project or activity during the 
+     portion of such fiscal year for which this section applies to 
+     such project or activity.
+       ``(d) Expenditures made for a project or activity for any 
+     fiscal ear pursuant to this section shall be charged to the 
+     applicable appropriation, fund, or authorization whenever a 
+     regular appropriation bill or a joint resolution making 
+     continuing appropriations until the end of a fiscal year 
+     providing for such project or activity for such period 
+     becomes law.
+       ``(e) No appropriation is made by this section for a fiscal 
+     year for any project or activity for which there is no 
+     authorization of appropriations for such fiscal year.
+       ``(f) This section shall not apply to a project or activity 
+     during a fiscal year if any other provision of law (other 
+     than an authorization of appropriations)--
+       ``(1) makes an appropriation, makes funds available, or 
+     grants authority for such project or activity to continue for 
+     such period, or
+       ``(2) specifically provides that no appropriation shall be 
+     made, no funds shall be made available, or no authority shall 
+     be granted for such project or activity to continue for such 
+     period.
+       ``(g) For purposes of this section, the term `regular 
+     appropriation bill' means any annual appropriation bill 
+     making appropriations, otherwise making funds available, or 
+     granting authority, for any of the following categories of 
+     projects and activities:
+       ``(1) Agriculture, rural development, and related agencies 
+     programs.
+       ``(2) The Departments of Commerce, Justice, and State, the 
+     judiciary, and related agencies.
+       ``(3) The Department of Defense.
+       ``(4) The government of the District of Columbia and other 
+     activities chargeable in whole or in part against the 
+     revenues of the District.
+       ``(5) The Departments of Labor, Health and Human Services, 
+     and Education, and related agencies.
+       ``(6) The Department of Housing and Urban Development, and 
+     sundry independent agencies, boards, commissions, 
+     corporations, and offices.
+       ``(7) Energy and water development.
+       ``(8) Foreign assistance and related programs.
+       ``(9) The Department of the Interior and related agencies.
+       ``(10) Military construction.
+       ``(11) The Department of Transportation and related 
+     agencies.
+       ``(12) The Treasury Department, the U.S. Postal Service, 
+     the Executive Office of the President, and certain 
+     independent agencies.
+       ``(13) The legislative branch.''.
+       (b) Conforming Amendment.--The analysis of chapter 13 of 
+     title 31, United States Code, is amended by inserting after 
+     the item relating to section 1310 the following new item:
+
+``1311. Continuing appropriations.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply with respect to fiscal years beginning after 
+     September 30, 1995.
+```
