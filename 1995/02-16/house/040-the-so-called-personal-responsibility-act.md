@@ -1,0 +1,124 @@
+---
+granule: CREC-1995-02-16-pt1-PgH1896-6
+date: 1995-02-16
+edition: CREC
+section: HOUSE
+page: H1896
+citation: 141 Cong. Rec. H1896
+---
+
+# THE SO-CALLED PERSONAL RESPONSIBILITY ACT
+
+**Speaking:** Tucker, Walter R., III (T000405) [D-CA]
+
+```
+               THE SO-CALLED PERSONAL RESPONSIBILITY ACT
+
+  The SPEAKER per tempore. Under a previous order of the House, the 
+gentleman from California [Mr. Tucker] is recognized for 5 minutes.
+  Mr. TUCKER. Mr. Speaker, I rise in strong opposition to the so-called 
+Personal Responsibility Act.
+  For years now, Mr. Speaker, Democrats, Republicans, welfare 
+recipients, and Americans on opposite ends of the political spectrum 
+have all agreed on two things; No. 1: The welfare system is broken, and 
+No. 2: We as Americans must change welfare as we know it.
+  This bill as I read it, Mr. Speaker, fails in several ways to address 
+the problem.
+  First, the bill erroneously assumes that the problem with welfare is 
+that these people just do not want to work.
+  The reality, however, is that 70 percent of those who receive welfare 
+benefits are children. The remaining 30 percent are the mothers of 
+these children and disabled persons.
+  Second, and most importantly--this body, as it has done in the past, 
+is attempting to base new public policy on the same false premise--that 
+these people just do not want to work! Therefore, to encourage them to 
+work--cut them off.
+  The reality, Mr. Speaker, is that the problem with welfare is this 
+body's total abdication of its responsibility to deal openly and 
+forthrightly with the cause of welfare--the lack of a real job paying a 
+livable wage.
+  If we did address this problem openly, Mr. Speaker, we would find 
+that what 
+[[Page H1897]] most welfare recipients want is an opportunity to work--
+not a welfare check!
+  This bill, Mr. Speaker, does nothing to empower people. It does 
+nothing to address those very important secondary impediments to 
+welfare mothers going to work, the need for day care for their children 
+so they can go to work, and the need for health care for their 
+children.
+  Further, Mr. Speaker, the bill fails to invest the resources in job 
+training and education necessary to equip welfare mothers to compete 
+for the jobs that are available.
+  In fact, Mr. Speaker, the only thing this bill guarantees to our 
+children, is that once their parents have used their allotted 
+benefits--that's it! There is no other safety net for these families or 
+their children.
+  So no matter what happens to the Nation's economy or the economy of 
+your State, no matter what happens with your personal circumstances, 
+regardless of your efforts to secure employment, that is it--no more 
+benefits.
+  Mr. Speaker, this bill would abolish the entitlement status of those 
+essential programs that protect our children from hunger and 
+homelessness.
+  What this means, Mr. Speaker, is that no longer are poor children 
+guaranteed that they will grow up with a roof over their head and food 
+in their mouths.
+  In fact what our children are guaranteed, Mr. Speaker, is that their 
+basic health and nutrition needs will now be subject to individual 
+State priorities and each new Congress views about their mothers and 
+their willingness to work.
+  What we have done in this bill, Mr. Speaker, is to decide that 
+welfare and single mothers and their children are the root of all evil 
+in this society and if we are to ever balance the budget we must get 
+these pariahs off the rolls.
+  The reality, Mr. Speaker, is that 70 percent of all welfare 
+recipients are off welfare
+ in 2 years and only 12 percent of all welfare recipients stay on 
+welfare more than 5 years. So why this body would base welfare policy 
+on the 12 percent of people who have not, will not or cannot get off 
+welfare is beyond me.
+
+  This bill would require, or as we like to say in Washington--
+mandate--that States deny AFDC permanently to families where the 
+children were born after this bills passage to unmarried mothers 
+younger than 18. States would also have the option to deny assistance 
+to children born to unmarried mothers younger than 21.
+  Mr. Speaker, this bill would allow States to eliminate all cash 
+benefits to families who have received aid for 2 years and--
+permanently--bar such families from any future aid if the parent had 
+participated in the work program for at least 1 year. After 5 years, 
+States would be required/or mandated to terminate permanently the 
+family from cash assistance.
+  The State even if it wanted to continue cash payments would be 
+directed by Washington to deny this benefit.
+  In both of these cases, Mr. Speaker, the Contract on Americans would 
+allow children and families to be left without any cash help or a 
+public service job even when the parent was willing to work but unable 
+to find private sector employment.
+  An even more ominous provision in this assault on America's children, 
+Mr. Speaker, would take the savings generated by denying assistance to 
+unmarried teens and their children, and use those same funds to build 
+orphanages for those children or group homes for those children and 
+their teen parents rendered destitute by this bill.
+  Mr. Speaker, it is open season on poor American children and the 
+people sent here to protect them are running roughshod over them with 
+careless indifference or conscious disregard.
+  My district, Mr. Speaker, has 61,000 children living below the 
+poverty line. I am not interested in orphanages and group homes, I am 
+interested in jobs that will employ the parents of these children.
+  What is required, Mr. Speaker, is an honest appraisal, free of finger 
+pointing, free of race baiting, free of vitriolic attacks on lobbyless 
+women and children, and most important, Mr. Speaker, a real commitment 
+to creating jobs.
+
+                              {time}  1520
+
+  An even more ominous provision in this assault on America's children 
+is that it would take the savings generated by denying assistance to 
+the unmarried teens and their children. As we debate this issue coming 
+up next week on the floor of the House, let's take a hard look at the 
+Personal Responsibility Act and hold it responsible.
+
+
+                          ____________________
+```

@@ -1,0 +1,60 @@
+---
+granule: CREC-1995-02-16-pt1-PgH1891-2
+date: 1995-02-16
+edition: CREC
+section: HOUSE
+page: H1891
+citation: 141 Cong. Rec. H1891
+---
+
+# RESIGNATION AS MEMBER AND ELECTION OF MEMBER OF COMMITTEE ON VETERANS' AFFAIRS
+
+**Speaking:** Armey, Richard K. (A000217) [R-TX]
+
+**Measures:** H.Res. 89
+
+```
+RESIGNATION AS MEMBER AND ELECTION OF MEMBER OF COMMITTEE ON VETERANS' 
+                                AFFAIRS
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Veterans' Affairs:
+                                     [[Page H1892]] U.S. Congress,
+
+
+                                     House of Representatives,
+                                Washington, DC, February 15, 1995.
+     Hon. Newt Gingrich,
+     Speaker of the House, Capitol Building, Washington, DC.
+       Dear Mr. Speaker: As of this date, I hereby submit my 
+     resignation as a member of the Veterans' Affairs Committee 
+     for the following reason.
+       Due to the time restraints and heavy work load associated 
+     with Banking and Financial Services, along with the Science 
+     Committees, I do not have adequate time to meet the demanding 
+     work load associated with the duties required of the 
+     Veterans' Affairs Committee in a satisfactory manner.
+       Thank you, Mr. Speaker, for your time and consideration of 
+     my request.
+           Sincerely,
+                                                   Steve Stockman,
+                                               Member of Congress.
+
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+  Mr. ARMEY. Mr. Speaker, by direction of the Republican Conference, I 
+offer a privileged resolution, House Resolution 89, and ask for its 
+immediate consideration.
+  The Clerk read the resolution, as follows:
+
+       Resolved, That the following named Member be, and is 
+     hereby, elected to the Committee on Veterans' Affairs of the 
+     House of Representatives: Representative Dan Schaefer of 
+     Colorado.
+
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
