@@ -1,0 +1,20 @@
+---
+granule: CREC-1995-09-19-pt1-PgH9223-3
+date: 1995-09-19
+edition: CREC
+section: HOUSE
+page: H9223
+citation: 141 Cong. Rec. H9223
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentlewoman from New Jersey [Mrs. Roukema] is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from New Jersey [Mrs. Roukema] is recognized for 5 minutes.
+
+  [Mrs. ROUKEMA addressed the House. Her remarks will appear hereafter 
+in the Extensions of Remarks.]
+
+                          ____________________
+```
