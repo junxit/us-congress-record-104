@@ -1,0 +1,102 @@
+---
+granule: CREC-1996-09-17-pt1-PgS10690
+date: 1996-09-17
+edition: CREC
+section: SENATE
+page: S10690
+citation: 142 Cong. Rec. S10690
+---
+
+# SENATE CONCURRENT RESOLUTION 71--RELATIVE TO THE PERSECUTION OF CHRISTIANS WORLDWIDE
+
+**Measures:** S. 71, S.Con.Res. 71
+
+```
+    SENATE CONCURRENT RESOLUTION 71--RELATIVE TO THE PERSECUTION OF 
+                          CHRISTIANS WORLDWIDE
+
+  Mr. NICKLES (for himself, Mr. Nunn, Mr. Coats, Mr. Ashcroft, and Mr. 
+Helms) submitted the following concurrent resolution; which was 
+considered and agreed to:
+
+                            S. Con. Res. 71
+
+       Whereas oppression and persecution of religious minorities 
+     around the world has emerged as one of the most compelling 
+     human rights issues of the day. In particular, the worldwide 
+     persecution and martyrdom of Christians persists at alarming 
+     levels. This is an affront to the international moral 
+     community and to all people of conscience.
+       Whereas in many places throughout the world, Christians are 
+     restricted in or forbidden from practicing their faith, 
+     victimized by a ``religious apartheid'' that subjects them to 
+     inhumane, humiliating treatment, and in certain cases are 
+     imprisoned, tortured, enslaved, or killed;
+       Whereas severe persecution of Christians is also occurring 
+     in such countries as Sudan, Cuba, Morocco, Saudi Arabia, 
+     China, Pakistan, North Korea, Egypt, Laos, Vietnam, and 
+     certain countries in the former Soviet Union, to name merely 
+     a few;
+       Whereas religious liberty is a universal right explicitly 
+     recognized in numerous international agreements, including 
+     the Universal Declaration of Human Rights and the 
+     International Covenant on Civil and Political Rights;
+       Whereas Pope John Paul II recently sounded a call against 
+     regimes that ``practice discrimination against Jews, 
+     Christians, and other religious groups, going even so far as 
+     to refuse them the right to meet in private for prayer,'' 
+     declaring that ``this is an intolerable and unjustifiable 
+     violation not only of all the norms of current international 
+     law, but of the most fundamental human freedom, that of 
+     practicing one's faith openly,'' stating that this is for 
+     human beings ``their reason for living'';
+       Whereas the National Association of Evangelicals in January 
+     1996 issued a ``Statement of Conscience and Call to Action,'' 
+     subsequently commended or endorsed by the Southern Baptist 
+     Convention, the Executive Council of the Episcopal Church, 
+     and the General Assembly of the Presbyterian Church, U.S.A. 
+     They pledged to end their ``silence in the face of the 
+     suffering of all those persecuted for their religious faith'' 
+     and ``to do what is in our power to the end that the 
+     government of the United States will take appropriate action 
+     to combat the intolerable religious persecution now 
+     victimizing fellow believers and those of other faiths'';
+       Whereas the World Evangelical Fellowship has declared 
+     September 29, 1996, and each annual last Sunday in September, 
+     as an international day of prayer on behalf of persecuted 
+     Christians. That day will be observed by numerous churches 
+     and human rights groups around the world;
+       Whereas the United States of America since its founding has 
+     been a harbor of refuge and freedom to worship for believers 
+     from John Winthrop to Roger Williams to William Penn, and a 
+     haven for the oppressed. To this day, the United States 
+     continues to guarantee freedom of worship in this country for 
+     people of all faiths;
+       Whereas as a part of its commitment to human rights around 
+     the world, in the past the United States has used its 
+     international leadership to vigorously take up the cause of 
+     other persecuted religious minorities. Unfortunately, the 
+     United States has in many instances failed to raise 
+     forcefully the issue of anti-Christian persecution at 
+     international conventions and in bilateral relations with 
+     offering countries; now, therefore, be it
+       Resolved, That the Senate, the House of Representatives 
+     concurring--
+       (1) unequivocally condemns the egregious human rights 
+     abuses and denials of religious liberty to Christians around 
+     the world, and calls upon the responsible regimes to cease 
+     such abuses; and
+       (2) strongly recommends that the President expand and 
+     invigorate the United States' international advocacy on 
+     behalf of persecuted Christians, and initiate a thorough 
+     examination of all United States' policies that affect 
+     persecuted Christians; and
+       (3) encourages the President to proceed forward as 
+     expeditiously as possible in appointing a White House Special 
+     Advisor on religious persecution; and
+       (4) recognizes and applauds a day of prayer on Sunday, 
+     September 29, 1996, recognizing the plight of persecuted 
+     Christians worldwide.
+
+                          ____________________
+```
