@@ -1,0 +1,27 @@
+---
+granule: CREC-1995-11-13-pt1-PgH12145
+date: 1995-11-13
+edition: CREC
+section: HOUSE
+page: H12145
+citation: 141 Cong. Rec. H12145
+---
+
+# GENERAL LEAVE
+
+**Speaking:** Hansen, James V. (H000172) [R-UT]
+
+**Measures:** H.R. 924
+
+```
+                             GENERAL LEAVE
+
+  Mr. HANSEN. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks and 
+include extraneous material on H.R. 924, the bill just passed.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Utah?
+  There was no objection.
+
+                          ____________________
+```
