@@ -1,0 +1,241 @@
+---
+granule: CREC-1995-04-03-pt1-PgS5084-2
+date: 1995-04-03
+edition: CREC
+section: SENATE
+page: S5084
+citation: 141 Cong. Rec. S5084
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate April 3, 1995:
+                        marine mammal commission
+
+       Vera Alexander, of Alaska, to be a Member of the Marine 
+     Mammal Commission for a term expiring May 13, 1997, vice Jack 
+     Warren Lentfer, term expired.
+
+
+                            in the air force
+
+       THE FOLLOWING AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICERS FOR PROMOTION IN THE RESERVE OF THE AIR FORCE UNDER 
+     THE PROVISIONS OF SECTIONS 12203 AND 8379, TITLE 10 OF THE 
+     UNITED STATES CODE, PROMOTIONS MADE UNDER SECTION 8379 AND 
+     CONFIRMED BY THE SENATE UNDER SECTION 12203 SHALL BEAR AN 
+     EFFECTIVE DATE ESTABLISHED IN ACCORDANCE WITH SECTION 8374, 
+     TITLE 10 OF THE UNITED STATES CODE.
+                         line of the air force
+
+                        To be lieutenant colonel
+
+BRADLEY C. ANDREESEN, 000-00-0000
+JOHN M. CAVENDISH, 000-00-0000
+ROBERT B. DEEBEL, 000-00-0000
+PETER L. FARIS, 000-00-0000
+CHRIS R. GLAESER, 000-00-0000
+MARK H. HULSEY, 000-00-0000
+THOMAS F. KEATING, 000-00-0000
+JOHN T. MCDERMOTT, 000-00-0000
+TIMOTHY C. MORRIS, 000-00-0000
+JOE A. ROSE, JR., 000-00-0000
+CHARLES R. SENCINDIVER, 000-00-0000
+DONALD B. SIMS, 000-00-0000
+JERRY D. STEVENS, 000-00-0000
+JOHN R. TUTTLE, 000-00-0000
+SMILEY J. VEAL, 000-00-0000
+GEORGE A. WASKOSKY, 000-00-0000
+
+
+                   judge advocate generals department
+
+                        To be lieutenant colonel
+
+DEAN A. ARNOLD, 000-00-0000
+
+
+                             chaplain corps
+                        To be lieutenant colonel
+
+MICHAEL J. SHEA, 000-00-0000
+
+
+                         medical service corps
+
+                        To be lieutenant colonel
+
+JAMES R. BURKHART, 000-00-0000
+
+
+                        biomedical science corps
+
+                        To be lieutenant colonel
+
+OSVALDO COLLAZO, 000-00-0000
+
+
+                             medical corps
+
+                        To be lieutenant colonel
+
+CHARLES E. LOWREY, 000-00-0000
+
+       THE FOLLOWING AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICERS FOR PROMOTION IN THE RESERVE OF THE AIR FORCE UNDER 
+     THE PROVISIONS OF SECTIONS 12203 AND 8379, TITLE 10 OF THE 
+     UNITED STATES CODE. PROMOTIONS MADE UNDER SECTION 8379 SHALL 
+     BEAR AN EFFECTIVE DATE ESTABLISHED IN ACCORDANCE WITH SECTION 
+     8374, TITLE 10 OF THE UNITED STATES CODE.
+
+
+                         line of the air force
+
+                        To be lieutenant colonel
+
+JOSE T. AGUINEGA, 000-00-0000
+KENNETH E. BERGGREN, 000-00-0000
+MICHAEL R. BOULANGER, 000-00-0000
+JAMES A. CAPORINI, 000-00-0000
+SCOTT L. DONALDSON, 000-00-0000
+RUSSELL G. ERLER, 000-00-0000
+GEHL L. HAMMOND, 000-00-0000
+CRAIG E. HARRIMAN, 000-00-0000
+WILLIAM L. LEVAY, 000-00-0000
+FRANK SARCONE, 000-00-0000
+CRAIG E. WALLACE, 000-00-0000
+
+
+                   judge advocate generals department
+
+                        To be lieutenant colonel
+
+KEVIN FINNIGAN, 000-00-0000
+VICTORIA A. REARDON, 000-00-0000
+
+
+                             chaplain corps
+
+                        To be lieutenant colonel
+
+THOMAS E. KINNEY, 000-00-0000
+DAVID L. VAIL, 000-00-0000
+
+
+                         medical services corps
+
+                        To be lieutenant colonel
+
+JAMES B. HINSON, 000-00-0000
+
+
+                       biomedical services corps
+
+                        To be lieutenant colonel
+
+BAXTER D. BURTON, 000-00-0000
+ERNEST D. GREEN, 000-00-0000
+
+
+                             medical corps
+
+                        To be lieutenant colonel
+
+ROBERT J. LYNCH, 000-00-0000
+PAUL E. RECKARD, 000-00-0000
+JOHN G. SOTOS, 000-00-0000
+
+
+                              nurse corps
+
+                        To be lieutenant colonel
+
+STEPHEN L. JERENTOWSKI, 000-00-0000
+                          in the marine corps
+
+       The following-named lieutenant colonels of the U.S. Marine 
+     Corps for promotion to the grade of colonel, under the 
+     provisions of Section 624 of Title 10, United States Code:
+
+                             To be colonel
+
+ALAURIA, ANTHONY T., 000-00-0000
+ALLEN, PAUL C., 000-00-0000
+BAIN, WILLIAM F., 000-00-0000
+BAMFORD II, RENO C., 000-00-0000
+BARNHOUSE, THOMAS N., 000-00-0000
+BARTH, WILLIAM M., 000-00-0000
+BEAULIEU, RAYMOND, 000-00-0000
+BERUBE, RONALD A., 000-00-0000
+BLACKLEDGE, MATTHEW W., 000-00-0000
+BROOKS, MICHAEL A., 000-00-0000
+BUDKA, ANDREW J., 000-00-0000
+CARR, EDGAR B., 000-00-0000
+CATTO, WILLIAM D., 000-00-0000
+CLAUER, JOHN A., 000-00-0000
+CLIFTON, DAVID R., 000-00-0000
+CONWAY, TIMOTHY C., 000-00-0000
+CROOKSTON, JOSEPH A., 000-00-0000
+CUSHING JR., JOHN P., 000-00-0000
+DAVIS, JACK G., 000-00-0000
+DOMARASKY III, ANDREW M., 000-00-0000
+DULIN, PATRICK J., 000-00-0000
+EINSIDLER, MICHAEL A., 000-00-0000
+FARMER, LEE H., 000-00-0000
+FARMER, ROGER T., 000-00-0000
+FORTE, ROBERT T., 000-00-0000
+GARRETT, WILLIAM B., 000-00-0000
+GISOLO, GARY G., 000-00-0000
+GRAHAM JR., JOHN W., 000-00-0000
+HALTON, PATRICK K., 000-00-0000
+HAMILTON, RICHARD D., 000-00-0000
+HARLIN JR., DONALD V., 000-00-0000
+HELLAND, SAMUEL T., 000-00-0000
+HENDRICKSON, LEIF H., 000-00-0000
+HOFFER, NICHOLAS J., 000-00-0000
+HOGAN, JOHN J., 000-00-0000
+JEPSEN, NORMAN W., 000-00-0000
+JOHN, DAVID L., 000-00-0000
+JONES, JOSEPH B., 000-00-0000
+KARLE, JR., ALFRED J., 000-00-0000
+KIFFER, DAVID L., 000-00-0000
+KRAMLICH, RICHARD S., 000-00-0000
+KRUMM, FRED A., 000-00-0000
+LARSEN, LEIF R., 000-00-0000
+LARSEN, TIMOTHY R., 000-00-0000
+LARSON, LAWRENCE L., 000-00-0000
+LEAVIS, JAMES M., 000-00-0000
+LEMOINE, JOHN A., 000-00-0000
+LENNOX, DYER T., 000-00-0000
+LONG, DENNIS E., 000-00-0000
+MAISEL, GREGORY N., 000-00-0000
+MARTIN JR., JOSEPH, 000-00-0000
+MCDANIEL, DANNY J., 000-00-0000
+MULLIN, PATRICK J., 000-00-0000
+NANGLE, ORVAL E., 000-00-0000
+PATTON, TOMMY L., 000-00-0000
+PELLICONE, JOHN J., 000-00-0000
+PERRY, MICHAEL T., 000-00-0000
+QUINLAN, MICHAEL J., 000-00-0000
+RICHARDSON, DONALD A., 000-00-0000
+ROAN, RICHARD W., 000-00-0000
+ROWLAND, ROBERT O., 000-00-0000
+SCHLAICH, NORMAN G., 000-00-0000
+SCHLEINING JR., JAMES E., 000-00-0000
+SCOVEL III, CALVIN L., 000-00-0000
+STEWART, FRANK M., 000-00-0000
+STEWART, JOE R., 000-00-0000
+THOMAS, JOHNNY R., 000-00-0000
+TIMOTHY, EUGENE R., 000-00-0000
+TRACY, PHILIP D., 000-00-0000
+TRIPLETT, MITCHEL T., 000-00-0000
+WHITE III, THOMAS B., 000-00-0000
+WILLIAMS, THOMAS J., 000-00-0000
+WOODSON, THOMAS S., 000-00-0000
+
+
+                          ____________________
+```
