@@ -1,0 +1,24 @@
+---
+granule: CREC-1996-05-08-pt1-PgH4652-5
+date: 1996-05-08
+edition: CREC
+section: HOUSE
+page: H4652
+citation: 142 Cong. Rec. H4652
+---
+
+# Text of House Amendment 13
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+**Measures:** H.R. 3322
+
+```
+H.R. 3322
+
+                      Offered By: Ms. Jackson-Lee
+
+       Amendment No. 13: Page 30, line 11, strike 
+     ``$1,957,850,000'' and insert in lieu thereof 
+     ``$2,039,350,000''.
+```
