@@ -1,0 +1,3367 @@
+---
+granule: CREC-1996-06-03-pt1-PgS5694-2
+date: 1996-06-03
+edition: CREC
+section: SENATE
+page: S5694
+citation: 142 Cong. Rec. S5694
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 3, 1996:
+
+
+                          department of state
+
+       Jeffrey Davidow, of Virginia, a Career Member of the Senior 
+     Foreign Service, Class of Minister-Counselor, to be an 
+     Assistant Secretary of State, vice Alexander Fletcher Watson, 
+     resigned.
+
+
+                       tennessee valley authority
+
+       Johnny H. Hayes, of Tennessee, to be a Member of the Board 
+     of Directors of the Tennessee Valley Authority for a term 
+     expiring May 18, 2005 (Reappointment), to which position he 
+     was appointed during the last recess of the Senate.
+
+
+           national foundation on the arts and the humanities
+
+       Doris B. Holleb, of Illinois, to be a Member of the 
+     National Council on the Humanities for a term expiring 
+     January 26, 2002, vice Kenny Jackson Williams, term expired.
+
+
+                        panama canal commission
+
+       Alberto Aleman Zubieta, a citizen of the Republic of 
+     Panama, to be Administrator of the Panama Canal Commission, 
+     vice Gilberto Guardia Fabrega, resigned.
+
+
+                              in the army
+
+       The following-named officer for appointment to the grade of 
+     lieutenant general in the U.S. Army while assigned to a 
+     position of importance and responsibility under title 10, 
+     United States Code, section 601(a):
+
+                        To be lieutenant general
+
+Maj. Gen. David L. Benton, 000-00-0000
+
+       The following-named Army Medical Service Corps Competitive 
+     Category officer for appointment in the Regular Army of the 
+     United States to the grade of brigadier general under the 
+     provisions of title 10, United States Code, sections 611(a) 
+     and 624(c):
+
+                        To be brigadier general
+
+Col. Mack C. Hill, 000-00-0000, U.S. Army
+
+       The following-named Army Medical Corps Competitive Category 
+     officers for appointment in the Regular Army of the United 
+     States to the grade of brigadier general under the provisions 
+     of title 10, United States Code, sections 611(a) and 624(c):
+
+                        To be brigadier general
+
+Col. Ralph O. Dewitt, Jr., 000-00-0000, U.S. Army
+Col. Kevin C. Kiley, 000-00-0000, U.S. Army
+Col. Michael J. Kussman, 000-00-0000, U.S. Army
+Col. Darrel R. Porr, 000-00-0000, U.S. Army
+
+
+                          in the marine corps
+
+       The following-named officer for appointment to the grade of 
+     lieutenant general in the U.S. Marine Corps while assigned to 
+     a position of importance and responsibility under the 
+     provisions of Section 601(a), Title 10, United States Code:
+
+                        To be lieutenant general
+
+Maj. Gen. Carlton W. Fulford, Jr., 000-00-0000
+
+
+                              in the navy
+
+       The following-named officers for promotion in the line in 
+     the Navy of the United States to the grade indicated under 
+     title 10, United States Code, section 624:
+
+
+                       unrestricted line officer
+
+                    To be rear admiral (lower half)
+
+Capt. Harry M. Highfill, 000-00-0000
+Capt. Richard J. Naughton, 000-00-0000
+Capt. William G. Sutton, 000-00-0000
+
+
+                            in the air force
+
+       The following-named officers for promotion in the U.S. Air 
+     Force, under the appropriate provisions of Section 624, Title 
+     10, United States Code, as amended, with dates of rank to be 
+     determined by the Secretary of the Air Force.
+
+
+                         medical service corps
+
+                        To be lieutenant colonel
+
+Gregory O. Allen, 000-00-0000
+Robert C. Brookes II, 000-00-0000
+Donald L. Brown, 000-00-0000
+David A. Costa, 000-00-0000
+James P. Counsman, 000-00-0000
+Stuart R. Cowles, 000-00-0000
+Craig A. Cyr, 000-00-0000
+Jeanette Erickson, 000-00-0000
+Roger S. Goetz, 000-00-0000
+Bernard J. Kerr, Jr., 000-00-0000
+Edward H. Kline, Jr., 000-00-0000
+Mark A. Lazarus, 000-00-0000
+Robert C. Maldonado, 000-00-0000
+Nancy D. Moore, 000-00-0000
+Ronald S. Murphy, 000-00-0000
+Joanne S. Parkes, 000-00-0000
+Michael L. Perry, 000-00-0000
+Fred W. Peters, Jr., 000-00-0000
+James C. Pustay, 000-00-0000
+Charles M. Quinnelly, 000-00-0000
+Yolanda Reavis, 000-00-0000
+Marc M. Sager, 000-00-0000
+Jack R. Simpson, 000-00-0000
+Mary L. Strobel, 000-00-0000
+Maryann Swigart, 000-00-0000
+Larry D. Theis, 000-00-0000
+Arthur D. Villani, 000-00-0000
+Edward Y. Walker III, 000-00-0000
+Mark S. Weinstein, 000-00-0000
+Kenneth R. Weltz, 000-00-0000
+Stephen M. Wolfe, 000-00-0000
+
+
+                              in the navy
+
+       The following-named officers, on the active duty list, for 
+     promotion to the grade indicated in the U.S. Navy in 
+     accordance with section 624 of Title 10, United States Code:
+
+
+                         medical corps officers
+
+                             To be captain
+
+William S. Adsit, 000-00-0000
+George M. Akob, 000-00-0000
+Fanancy L. Anzalone, 000-00-0000
+Ramon E. Baez, Jr., 000-00-0000
+Michael J. Bailey, 000-00-0000
+Laurie M. Balagurchik, 000-00-0000
+John T. Bestoso, 000-00-0000
+Karen M. Bowden, 000-00-0000
+Charles E. Brady, Jr., 000-00-0000
+Jeffrey F. Brookman, 000-00-0000
+James L. Buck, 000-00-0000
+Patricia L. Buss, 000-00-0000
+Peggy J. Chandler, 000-00-0000
+Dana C. Covey, 000-00-0000
+Vincence F. Dillion, 000-00-0000
+Gene L. Dowell, 000-00-0000
+David W. Ferguson, 000-00-0000
+James N. Frame, 000-00-0000
+Neil F. Gibbs, 000-00-0000
+Gregory C. Gray, 000-00-0000
+Thomas W. Grossman, Jr., 000-00-0000
+Frank W. Hall, 000-00-0000
+Kendell G. Gansen, 000-00-0000
+David M. Harlan, 000-00-0000
+Konrad E. Hayashi, 000-00-0000
+Donald S. Herip, 000-00-0000
+Eileen Horner, 000-00-0000
+Thomas K. Huisman, 000-00-0000
+William A. Kelley, 000-00-0000
+Peter D. Kent, 000-00-0000
+Mungkorn Kiethanom, 000-00-0000
+Lorenz F. Lassen, 000-00-0000
+David Leivers, 000-00-0000
+Kenneth E. Leonard, 000-00-0000
+Donald R. Mason, 000-00-0000
+Thomas E. Mc Gue, 000-00-0000
+Richard L. Morrissey, 000-00-0000
+Steven L. Nichols, 000-00-0000
+Dominick Paparella, 000-00-0000
+Steven W. Remmenga, 000-00-0000
+Carlos A. rosende, 000-00-0000
+David M. Sack, 000-00-0000
+Robert T. Spiro, 000-00-0000
+David S. Wade, 000-00-0000
+MARK R. WALLACE, 000-00-0000
+LAWRENCE A. WOOD, 000-00-0000
+
+
+                         SUPPLY CORPS OFFICERS
+
+                             To be captain
+
+DENNIS V. BELT, 000-00-0000
+CARL T. BRIGHT, 000-00-0000
+WAYNE G. CHESLEY, 000-00-0000
+SHAW H. COHE, 000-00-0000
+DAVID N. DOYLE, 000-00-0000
+EDWARD N. HERING, 000-00-0000
+ROBERT K. KEARNEY, 000-00-0000
+JOSEPH W. KENNEY, 000-00-0000
+WILLIAM A. KOWBA, 000-00-0000
+ROBERT E. LEE, 000-00-0000
+ROBERT J. MUNDELL, 000-00-0000
+ROBERT M. NOONAN, 000-00-0000
+PHILIP M. PFEIL, 000-00-0000
+JAMES P. POE, 000-00-0000
+JOHN S. PROCTOR, 000-00-0000
+JACK PRPICH, 000-00-0000
+JOHN G. RIPPERTON, 000-00-0000
+MICHAEL S. ROESNER, 000-00-0000
+DAVID G. SHANAHAN, 000-00-0000
+ALAN S. THOMPSON, 000-00-0000
+CHARLES T. VICKERS, 000-00-0000
+
+
+                        CHAPLAIN CORPS OFFICERS
+
+                             To be captain
+
+THOMAS R. ATKINS, 000-00-0000
+RALPH S. EPPERSON, 000-00-0000
+LOUIS V. IASIELLO, 000-00-0000
+ALAN N. KEIRAN, 000-00-0000
+JAMES B. MAGNESS, 000-00-0000
+STANLEY H. MC CREARY, 000-00-0000
+ALBERT I. SLOMOVITZ, 000-00-0000
+EDWIN D. STANFIELD, 000-00-0000
+GEORGE L. TUMLIN, JR., 000-00-0000
+RAE O. WEIMER, 000-00-0000
+CAROLYN C. WIGGINS, 000-00-0000
+BERNARD R. WILSON, 000-00-0000
+
+
+                     CIVIL ENGINEER CORPS OFFICERS
+
+                             To be captain
+
+JAMES M. BARRETT III, 000-00-0000
+FRED H. BECKMANN, 000-00-0000
+DENNIS BIDDICK, 000-00-0000
+WILLIAM F. BOUDRA, 000-00-0000
+ROBERT P. BUCHHOLZ, 000-00-0000
+PHILIP H. DALBY, 000-00-0000
+michael d. donnelly, 000-00-0000
+Thomas f. dreyer, 000-00-0000
+james w. hollrith, 000-00-0000
+richard b. hunter, jr., 000-00-0000
+david a. jones, 000-00-0000
+louis v. marchette, 000-00-0000
+thomas d. mc murray, 000-00-0000
+jennifer l. mustain, 000-00-0000
+roger l. orndorff, 000-00-0000
+james e. owens, 000-00-0000
+john m. shrewsbury, 000-00-0000
+john e. surash, 000-00-0000
+jeffrey tubello, 000-00-0000
+
+
+                judge advocate general's corps officers
+
+                             To be captain
+
+terry g. baker, 000-00-0000
+stephen j. coyle, 000-00-0000
+thomas w. greene, jr., 000-00-0000
+david l. grimord, 000-00-0000
+ginger c. paad, 000-00-0000
+david p. price, 000-00-0000
+mark e. rosen, 000-00-0000
+francis v. russo, jr., 000-00-0000
+richard a. stevens, 000-00-0000
+janice l. walli, 000-00-0000
+robert w. wedan, jr., 000-00-0000
+david m. white, 000-00-0000
+
+
+                         dental corps officers
+
+                             To be captain
+
+jack a. bowers, 000-00-0000
+alex d. ehrlich, 000-00-0000
+deidra b. flanary, 000-00-0000
+richard c. hahn, 000-00-0000
+curtis l. hayden, 000-00-0000
+donna r. huggins, 000-00-0000
+jay w. johnson, 000-00-0000
+jonathan d. karaman, 000-00-0000
+david w. kidd, 000-00-0000
+eugene v. nolfi, jr., 000-00-0000
+mark r. perez, 000-00-0000
+William c. roddy, 000-00-0000
+rod m. rogge, 000-00-0000
+peter g. seder, 000-00-0000
+william switts, 000-00-0000
+kenneth r. wright, 000-00-0000
+
+
+                     medical service corps officers
+
+                             To be captain
+
+JAMES R. BEDDARD, JR., 000-00-0000
+JAMES R. CAMPBELL, 000-00-0000
+JACK D. CHAPMAN II, 000-00-0000
+CLARENCE R. CLINE, 000-00-0000
+JOHN T. COYNE, 000-00-0000
+WILLIAM H. CRAIG, JR., 000-00-0000
+MICHAEL S. CROSS, 000-00-0000
+WILLIAM P. FRANK, 000-00-0000
+GEORGE D. KRAMER, 000-00-0000
+GEORGE C. MASSEY, 000-00-0000
+THOMAS R. MC COY, 000-00-0000
+ROBERT J. MILLER, JR., 000-00-0000
+MICHAEL H. MITTELMAN, 000-00-0000
+VICENT W. MUSASHE, 000-00-0000
+SIDNEY D. RODGERS, 000-00-0000
+MICHAEL T. TAMBURELLO, 000-00-0000
+JERALD L. ULMER, 000-00-0000
+STEPHEN E. WALZ, 000-00-0000
+
+[[Page S5695]]
+
+FAYTHE M. WEBER, 000-00-0000
+FRED R. WHITE, 000-00-0000
+MARK T. WOOSTER, 000-00-0000
+EDWARD P. WYATT, 000-00-0000
+GARY W. ZUCKERMAN, 000-00-0000
+
+
+                          NURSE CORPS OFFICERS
+
+                             To be captain
+
+MARGARET M. ALLARD, 000-00-0000
+MAURICIO APARICIO III, 000-00-0000
+CHRISTINE M. BRUZEKKOHLER, 000-00-0000
+MARGARET L. BURNS, 000-00-0000
+KATHRYN A. CADWELL, 000-00-0000
+JO A. CLANTON, 000-00-0000
+DENNIS L. ELLIS, 000-00-0000
+MARYLOUISE K. FELHOFER, 000-00-0000
+RODNEY L. FIEREK, 000-00-0000
+MELISSA A. GEORGE, 000-00-0000
+DEBORAH B. GRAY, 000-00-0000
+LISA D. HILES, 000-00-0000
+LISSA M. KOHLER, 000-00-0000
+ELLEN R. LAHMAN, 000-00-0000
+PATRICIA H. NETZER, 000-00-0000
+KAREN M. OTT, 000-00-0000
+ALBERT J. SHIMKUS, JR., 000-00-0000
+HELEN L. SMITH, 000-00-0000
+THERESE A. WHITE, 000-00-0000
+SUSAN A. WIDHALM, 000-00-0000
+
+
+                     LIMITED DUTY OFFICERS (STAFF)
+
+                             To be captain
+
+CRISPIN A. TOLEDO, 000-00-0000
+       The following-named officers, in the reserve, for promotion 
+     to the grade indicated in the U.S. Navy in accordance with 
+     section 5912 of title 10, United States Code:
+
+
+                       unrestricted line officers
+
+                             To be captain
+
+Johnny P. Albus, 000-00-0000
+Stephen R. Allen, 000-00-0000
+James D. Anderson, 000-00-0000
+Scott P. Anderson, 000-00-0000
+George B. Austin, 000-00-0000
+Edward L. Avis, 000-00-0000
+Douglas A. Bader, 000-00-0000
+James A. Barnett, Jr., 000-00-0000
+Paul R. Bazemore, Jr., 000-00-0000
+James E. Beebe, 000-00-0000
+Fred W. Bergman, 000-00-0000
+Garry J. Bonelli, 000-00-0000
+Mitchell C. Boswell, 000-00-0000
+Steven G. Bowers, 000-00-0000
+Thomas E. Boyd, 000-00-0000
+Robert C. Brackett, 000-00-0000
+Robert A. Brody, 000-00-0000
+Christopher M. Brown, 000-00-0000
+Rodric F. Brunngraber, 000-00-0000
+Leslie E. Bryan, 000-00-0000
+Stephen A. Buescher, 000-00-0000
+Brian P. Burghgrave, 000-00-0000
+George K. Busse, 000-00-0000
+Stephen C. Butler, 000-00-0000
+William D. Cady, 000-00-0000
+Gregory T. Candy, 000-00-0000
+Richard P. Carey, 000-00-0000
+Thomas A. Carlson, 000-00-0000
+John F. Cates, Jr., 000-00-0000
+Alanson T. Chenault IV, 000-00-0000
+Wayne E. Cliburn, 000-00-0000
+Dwight W. Colburn, 000-00-0000
+Joe T. Coleman, Jr., 000-00-0000
+David E. Crisalli, 000-00-0000
+David J. Cronk, 000-00-0000
+JOHN C. CUNLIFFE, 000-00-0000
+BRIAN F. DELANEY, 000-00-0000
+JAMES E. DESPAIN, 000-00-0000
+DAVID M. DRAKE, 000-00-0000
+FRANK R. DUNAWAY III, 000-00-0000
+RAYMOND L. ECKENRODE, 000-00-0000
+CHARLES R. EISENMANN, 000-00-0000
+STEPHEN L. ELLIS, 000-00-0000
+FRANKLIN A. ERVIN, 000-00-0000
+RICHARD L. FARRELL, JR., 000-00-0000
+JAMES E. FAY, 000-00-0000
+PAUL S. FISCHBECK, 000-00-0000
+WALTER N. FLIPPIN III, 000-00-0000
+DAVID E. FROST, 000-00-0000
+JAMES E. GARRISON, 000-00-0000
+ANTHONY D. GIANCATARINO, 000-00-0000
+JAMES A. GIBSON, 000-00-0000
+JAMES T. GISSENDANNER, 000-00-0000
+WILLIAM O. GLASS, JR., 000-00-0000
+WILLIAM G. GLENNEY IV, 000-00-0000
+CHRISTOPHER P. GRAZEL, 000-00-0000
+GEORGE A. GREENLEAF, 000-00-0000
+CARL H. GRUENLER, 000-00-0000
+GARY N. HALL, 000-00-0000
+KEVIN D. HAMMAR, 000-00-0000
+KURT F. HANSEN, 000-00-0000
+PAUL W. HARAR, 000-00-0000
+PETER W. HARRIS, 000-00-0000
+EDWARD P. HERMANN, 000-00-0000
+STUART C. HINRICHS, 000-00-0000
+STEVEN HOLIBONICH, 000-00-0000
+FREDERICK R. HOLLINGER, 000-00-0000
+WILLIAM S. HOWSE, 000-00-0000
+MICHAEL J. HUDGINS, 000-00-0000
+GARY C. INGOLD, 000-00-0000
+WAYNE M. JAKUBOWSKI, 000-00-0000
+ROBERT E. JENKINS, 000-00-0000
+ROGER J. JONES, 000-00-0000
+WILLIAM H. KNELLER, 000-00-0000
+DANIEL J. KOENIG, 000-00-0000
+WAYNE K. KRUGER, 000-00-0000
+STEPHEN J. KUHAR, 000-00-0000
+SCOTT R. LAIDLAW, 000-00-0000
+HAROLD M. LAMB, JR., 000-00-0000
+ROBERT H. LANG, JR., 000-00-0000
+FRANK M. LANGLEY, 000-00-0000
+BRIAN S. LEACH, 000-00-0000
+JOHN W. LICHTSINN, 000-00-0000
+JAMES J. LIND, 000-00-0000
+JAMES L. LITTRELL, 000-00-0000
+CURTIS A. LOGE, 000-00-0000
+JULIUS L. LONGSHORE, 000-00-0000
+JAMES M. LOVE, 000-00-0000
+SCOTT C. MACLEOD, 000-00-0000
+CHRISTOPHER H. MADIGAN, 000-00-0000
+WALTER S. MC CABE, 000-00-0000
+MARY B. B. MC GEE, 000-00-0000
+JOSEPH C. MC GOWAN III, 000-00-0000
+PETER D. MC LOUGHLIN, 000-00-0000
+JEFFRY L. MC NAIR, 000-00-0000
+STEVEN L. MILLER, 000-00-0000
+FRANK A. MINICH, 000-00-0000
+RANDOLPH H. MIOTA, 000-00-0000
+MICHAEL P. MITCHELL, 000-00-0000
+ROBERT S. MIZE, 000-00-0000
+CHRISTOPHER MOSCHELLA, 000-00-0000
+RONALD MUELLER, 000-00-0000
+JAMES S. MURPHY, 000-00-0000
+TONY M. MUSCHARA, 000-00-0000
+SAMUEL M. NAGLE, 000-00-0000
+JAMES A. NATTER, 000-00-0000
+TIMOTHY J. NAVILLE, 000-00-0000
+RANDY E. NEES, 000-00-0000
+GREGORY F. NELSON, 000-00-0000
+KIP W. NICELY, 000-00-0000
+STEPHEN A. O'BRIEN, 000-00-0000
+STEVEN M. O'BRIEN, 000-00-0000
+GARY S. O'CONNOR, 000-00-0000
+JOHN C. OLDFIELD, 000-00-0000
+DAVID L. OLNEY, 000-00-0000
+JOHN C. ORR, 000-00-0000
+ALLEN C. PAINTER, 000-00-0000
+MICHAEL F. PALES, 000-00-0000
+CARLTON D. PARKER, 000-00-0000
+WILLIAM H. PAYNE, 000-00-0000
+JAMES A. PETERSEN, 000-00-0000
+LOUIS W. POLLOCK, 000-00-0000
+BRADLEY PORLIER, 000-00-0000
+CYRIL H. PRIKAZSKY, 000-00-0000
+ORVILLE PRINS, 000-00-0000
+CHARLES L. RADER, 000-00-0000
+DOUGLAS N. REECE, 000-00-0000
+FRANK F. RENNIE IV, 000-00-0000
+ERNEST J. RICE, 000-00-0000
+FRANCIS R. H. RIGGS, 000-00-0000
+CHARLES R. ROBIE, 000-00-0000
+PHILIP D. SALADEN, 000-00-0000
+MARK J. SALMEN, 000-00-0000
+RICHARD J. SALMON, 000-00-0000
+John D. Sample, 000-00-0000
+Craig A. Schemel, 000-00-0000
+Douglas C. Schlaefer, 000-00-0000
+John D. Schumacher, 000-00-0000
+George R. Seftas, 000-00-0000
+Ronald D. Seizert, 000-00-0000
+Philip D. Sims, 000-00-0000
+Donald R. Skotty, 000-00-0000
+Gary M. Skura, 000-00-0000
+Stephen I. Slight, 000-00-0000
+Peter G. Smith, 000-00-0000
+Michael L. Soares, 000-00-0000
+Brian H. Solomon, 000-00-0000
+Thomas L. Sprague, 000-00-0000
+George D. Steel, 000-00-0000
+Dennis D. Stone, 000-00-0000
+Kevin F. Stone, 000-00-0000
+Richard E. Strutner, 000-00-0000
+Don W. Swailes, 000-00-0000
+Ernest E. Tabb, 000-00-0000
+Eugene P. Theus, 000-00-0000
+Burt D. Thorp, 000-00-0000
+John J. Tomaselli, 000-00-0000
+Lawrence G.J. Traynor, 000-00-0000
+Robert G. Treitz, 000-00-0000
+John S. Turner, 000-00-0000
+Thomas W. Uhl, 000-00-0000
+Robert D. Vonbernuth, 000-00-0000
+Richard S. Wagner, 000-00-0000
+Kim C. Walden, 000-00-0000
+Leonard P. Wales, 000-00-0000
+Roderick A. Wells, 000-00-0000
+Kirk D. Wessel, 000-00-0000
+Ronald W. Wetmore, 000-00-0000
+David E. Whipple, 000-00-0000
+Lonnie O. Wilkerson III, 000-00-0000
+Carl J. Willis, 000-00-0000
+Lucy B. Young, 000-00-0000
+David Y. Yumen, 000-00-0000
+
+
+                    unrestricted line officers (TAR)
+
+                             To be captain
+
+Paul A. Anderson, 000-00-0000
+Richard A. Anderson, 000-00-0000
+Thomas G. Bauer, 000-00-0000
+Scott A. Beaton, 000-00-0000
+Chris J. Cluster, 000-00-0000
+Jerome A. Dabrowski, 000-00-0000
+Ralph J. Dean, 000-00-0000
+William L. Garrett, 000-00-0000
+Craig C. Groom, 000-00-0000
+Jon M. Haas, 000-00-0000
+Stanley F. Halter, 000-00-0000
+John E. Huie, Jr., 000-00-0000
+David J. Jacobson, 000-00-0000
+Patrick J. King, 000-00-0000
+Joseph F. Ludwikowski, 000-00-0000
+Billy R. Malone, 000-00-0000
+William S. Marlowe, Jr., 000-00-0000
+Craig O. Mc Donald, 000-00-0000
+Barry L. Morgan, 000-00-0000
+Edwin D. Overstreet, 000-00-0000
+Harley H. Peterson, 000-00-0000
+Byron V. Smith III, 000-00-0000
+Richard L. Smith, 000-00-0000
+Richard E. Southworth, 000-00-0000
+John W. Watt, 000-00-0000
+Edward B. Weiss, 000-00-0000
+John M. Werner, 000-00-0000
+Steven L. Wetzel, 000-00-0000
+Patti A. Young, 000-00-0000
+
+
+                       engineering duty officers
+
+                             To be captain
+
+Bruce A. Beemer, 000-00-0000
+Loraine M. Beyer, 000-00-0000
+George L. Cava, 000-00-0000
+Gerald L. Griffin, Jr., 000-00-0000
+John C. Klein IV, 000-00-0000
+marino j. niccolai, 000-00-0000
+Michael A. O'Neal, 000-00-0000
+Gregory R. Pohl, 000-00-0000
+James F. Rubino, 000-00-0000
+Marc L. Sorensen, 000-00-0000
+
+
+           aerospace engineering duty officers (engineering)
+
+                             To be captain
+
+Jack R. Bates, 000-00-0000
+Keith A. Boardman, 000-00-0000
+Thomas A.I. Cavanaugh, 000-00-0000
+Barry L. Dougherty, 000-00-0000
+Harry L. Tredennick, 000-00-0000
+
+
+           AEROSPACE ENGINEERING DUTY OFFICERS (MAINTENANCE)
+
+                             To be captain
+
+STEPHEN P. CLARKE, 000-00-0000
+KEITH V. KELLY, JR., 000-00-0000
+RONALD J. KRIEL, 000-00-0000
+DANTE J. PETRO, 000-00-0000
+DONALD J. SHUTT, 000-00-0000
+
+
+                SPECIAL DUTY OFFICERS (MERCHANT MARINE)
+
+                             To be captain
+
+CHARLES T. ECKER III, 000-00-0000
+MARK R. ESHER, 000-00-0000
+DAVID B. FISHER, 000-00-0000
+BRUCE KEENER IV, 000-00-0000
+CHRISTOPHER G. LARKIN, 000-00-0000
+REGINALD E. MC KAMIE, 000-00-0000
+LAWRENCE J. MURPHY, 000-00-0000
+RICHARD D. STEWART, 000-00-0000
+ARTHUR H. SULZER IV, 000-00-0000
+
+
+                   SPECIAL DUTY OFFICERS (CRYPTOLOGY)
+
+                             To be captain
+
+MICHAEL D. FRANCIS, 000-00-0000
+WILLIAM R. MATHEWS III, 000-00-0000
+CHARLES H. TILTON, 000-00-0000
+WILLIAM H. VANDYKE, 000-00-0000
+
+
+                  SPECIAL DUTY OFFICERS (INTELLIGENCE)
+
+                             To be captain
+
+ROBERT W. BARTON, 000-00-0000
+MICHAEL W. BROADWAY, 000-00-0000
+DOUGLAS T. CARDINAL, 000-00-0000
+COLIN M. CLARK, 000-00-0000
+ROBERT K. DRIVER, 000-00-0000
+SHERYLL L. ELSTON, 000-00-0000
+ALAN J. FINK, 000-00-0000
+STEVEN L. HULL, 000-00-0000
+BRADLEY M. INMAN, 000-00-0000
+RAYMOND G. KALLMAN, 000-00-0000
+LYNN M. KALLUS, 000-00-0000
+STEPHEN E. LEPKOWSKI, 000-00-0000
+JAMES M. LEVESON, 000-00-0000
+MICHAEL A. MALDOVAN, 000-00-0000
+richard v. maughan, 000-00-0000
+robert a. mc donald, 000-00-0000
+david c. mc gowan, 000-00-0000
+mark e. miller, 000-00-0000
+william h. minneci, 000-00-0000
+mark m. petzinger, 000-00-0000
+donald r. rhoads, 000-00-0000
+george j. roark, iii, 000-00-0000
+james b. roberts, iii, 000-00-0000
+cecil j. rowe, 000-00-0000
+marybeth k. rupert, 000-00-0000
+anna m. steinberger, 000-00-0000
+thomas o. swift, 000-00-0000
+robert w. todd, 000-00-0000
+andres, vaart 000-00-0000
+douglas l. wills, 000-00-0000
+
+
+               special duty officers (intelligence) (tar)
+
+                             To be captain
+
+stephen m. saia, 000-00-0000
+
+
+                 special duty officers (public affairs)
+
+                             To be captain
+
+william g. armstrong, jr., 000-00-0000
+jonathan w. buchanan, 000-00-0000
+barbara j. burns, 000-00-0000
+
+[[Page S5696]]
+
+william h. hickman, 000-00-0000
+stephen h. horwitz, 000-00-0000
+nathan e. jones, 000-00-0000
+anne c. leon, 000-00-0000
+stevie pressley, 000-00-0000
+jean e. roberts, 000-00-0000
+michael p. smith, 000-00-0000
+
+
+                 special duty officers (fleet support)
+
+                             To be captain
+
+harry w. barrick, iii, 000-00-0000
+roger t. barth, 000-00-0000
+gayla j. bergren, 000-00-0000
+donald b. burke, 000-00-0000
+william j. bushaw, 000-00-0000
+polly m. capansky, 000-00-0000
+cynthia d. corman, 000-00-0000
+karen t. danis, 000-00-0000
+francis e. debons, 000-00-0000
+jack w. flett, 000-00-0000
+john e. flynn, 000-00-0000
+nancy p. ise, 000-00-0000
+donald j. kissinger, jr., 000-00-0000
+jean. m. libutti, 000-00-0000
+kerrie s. moser, 000-00-0000
+mary c. rhedin, 000-00-0000
+gregory w. richards, 000-00-0000
+gary a. simonsen, 000-00-0000
+linda k. tucker, 000-00-0000
+judith m. walker, 000-00-0000
+linda e. wargo, 000-00-0000
+daniel r. warman, 000-00-0000
+terrance j. wear, 000-00-0000
+judith a. yandoh, 000-00-0000
+
+
+              special duty officers (fleet support) (tar)
+
+                             To be captain
+
+virginia d. joosten, 000-00-0000
+leslie j. p. lang, 000-00-0000
+
+
+                  special duty officers (oceanography)
+
+                             To be captain
+
+john w. raby, 000-00-0000
+mark e. schultz, 000-00-0000
+
+
+                            in the air force
+
+       The following-named officers for promotion in the U.S. Air 
+     Force, under the appropriate provisions of section 624, title 
+     10, United States Code, as amended, with dates of rank to be 
+     determined by the Secretary of the Air Force:
+
+
+                             chaplain corps
+
+                        To be lieutenant colonel
+
+DERRICK K. ANDERSON, 000-00-0000
+CARL M. ANDREWS, 000-00-0000
+BRUCE A. ARNOLD, 000-00-0000
+JAMES P. BARLOW, 000-00-0000
+RICHARD L. BLANTON, 000-00-0000
+ROBERT E. CRUTHIRDS, 000-00-0000
+EDWARD P. FEDOR, 000-00-0000
+MARION T. HARNED, 000-00-0000
+JOE F. JOHNSTON, 000-00-0000
+WAYNE R. KNUTSON, JR., 000-00-0000
+BENNIE R. LIGGINS, 000-00-0000
+JOSEPH E. MC CLANAHAN, 000-00-0000
+MACK R. PAINTER, JR., 000-00-0000
+JOEL G. RAYFIELD, 000-00-0000
+CHARLES R. ROWLAND III, 000-00-0000
+FROILAN A. SALUTA, 000-00-0000
+JAMES P. THOMAS, 000-00-0000
+MILLARD G. TIMMONS, 000-00-0000
+JOSEPH R. WALLROTH, 000-00-0000
+ROGER S. WINBURG, 000-00-0000
+
+       The following-named officers for promotion in the U.S. Air 
+     Force, under the appropriate provisions of section 624, title 
+     10, United States Code, as amended, with dates of rank to be 
+     determined by the Secretary of the Air Force, and those 
+     officers identified by an asterisk for appointment in the 
+     Regular Air Force under the provisions of section 531, title 
+     10, U.S.C., provided that in no case shall the following 
+     officers be appointed in a grade higher than indicated:
+
+
+                                  line
+
+                              To be major
+
+ALAN A. ABANGAN, 000-00-0000
+FREDERICK H. ABBOTT III, 000-00-0000
+THOMAS G. ABBOTT, 000-00-0000
+JOHN T. ACKERMAN, 000-00-0000
+MITCHELL D. ACKERMAN, 000-00-0000
+KEITH A. ACREE, 000-00-0000
+TIMOTHY J. ADAM, 000-00-0000
+MARCELLA F. ADAMS, 000-00-0000
+JAMES S. ADAMSKI, 000-00-0000
+EDWARD J. ADELMAN, 000-00-0000
+MERRILL E. ADKISON, 000-00-0000
+SIMON A. ADMORE, 000-00-0000
+MARK A. AICHER, 000-00-0000
+KERIM A. AKEL, 000-00-0000
+JAMES J. ALBRECHT, 000-00-0000
+STEFAN E. ALEKSEVITCH, 000-00-0000
+ANGELA R. ALEXANDER, 000-00-0000
+CHERYL D. ALLEN, 000-00-0000
+DANNY P. ALLEN, 000-00-0000
+HERBERT L. ALLEN, JR., 000-00-0000
+STEPHEN L. ALLEN, 000-00-0000
+ALEXANDER A. ALLER, 000-00-0000
+MICHAEL J. ALLSHOUSE, 000-00-0000
+MARK A. ALTOBELLI, 000-00-0000
+THOMAS S. AMICK, 000-00-0000
+TRACY A. AMOS, 000-00-0000
+GREGORY M. ANDERS, 000-00-0000
+BRIAN K. ANDERSON, 000-00-0000
+CHRISTOPHER P. ANDERSON, 000-00-0000
+DAVID J. ANDERSON, 000-00-0000
+DOUGLAS P. ANDERSON, 000-00-0000
+LYNDON S. ANDERSON, 000-00-0000
+MICHAEL G. ANDERSON, 000-00-0000
+RICHARD D. ANDERSON, 000-00-0000
+MICHAEL E. ANDRESS, 000-00-0000
+EMILY B. ANDREW 000-00-0000
+WESLEY R. ANDRUES, 000-00-0000
+*JOHN J. ANDUAGAARIAS, 000-00-0000
+DAVID W. ANGLE, 000-00-0000
+JOHANN J. ANTLFINGER, 000-00-0000
+ANDREW J. ANTON, 000-00-0000
+TIMOTHY G. APEL, 000-00-0000
+DAVID M. APPEL, 000-00-0000
+JAMES H. APPLEYARD, JR., 000-00-0000
+*ANDREW L. ARACE, 000-00-0000
+*LORENZO C. ARAGON, 000-00-0000
+LEE J. ARCHAMBAULT, 000-00-0000
+STUART K. ARCHER, 000-00-0000
+GARY A. ARDES, 000-00-0000
+MARK R. ARLINGHAUS, 000-00-0000
+*JEFFERY W. ARMANTROUT, 000-00-0000
+DENNIS M. ARMSTRONG, 000-00-0000
+TERRY W. ARMSTRONG, 000-00-0000
+*DEAN M. ARNDORFER, 000-00-0000
+KEITH J. ARNEY, 000-00-0000
+SUZANNE G. ARNOLD, 000-00-0000
+STEVEN J. ARQUIETTE, 000-00-0000
+MATTHEW J. ARTH, 000-00-0000
+BLAINE A. ASATO, 000-00-0000
+DUSTIN G. ASHTON, 000-00-0000
+WILLIAM J. ASTORE, 000-00-0000
+JOHN H. ATTEBURY, 000-00-0000
+JAMES B. AYERS, 000-00-0000
+SCOTT D. AYERS, 000-00-0000
+CHRISTOPHER B. AYRES, 000-00-0000
+BLAN R. AYYAR, 000-00-0000
+*LANELL J. BABB, 000-00-0000
+ADAM C. BABCOCK, 000-00-0000
+STEVEN L. BABCOCK, 000-00-0000
+RONALD J. BABSKI, JR., 000-00-0000
+TYLER J. BACH, 000-00-0000
+JONATHAN E. BACHMAN, 000-00-0000
+STEVEN E. BACHMANN, 000-00-0000
+DONALD J. BACON, 000-00-0000
+BERNARD BADAMI, 000-00-0000
+DANIEL S.V. BADER, 000-00-0000
+ROBERT S. BAERST, 000-00-0000
+BRENT G. BAILEY, 000-00-0000
+CHRISTOPHER J. BAIN, 000-00-0000
+WILLIAM S. BAIR, 000-00-0000
+*ANDREW B. BAKER, 000-00-0000
+LONNY P. BAKER, 000-00-0000
+ROBERT K. BAKER, 000-00-0000
+SCOTT A. BAKER, 000-00-0000
+WESLEY D. BAKER, 000-00-0000
+VINCENT R. BAKKE, 000-00-0000
+ROBERT E. BAMBERG, 000-00-0000
+MARK D. BANCZAK, 000-00-0000
+JON P. BANKS, 000-00-0000
+ROBERT E. BANKS, 000-00-0000
+ARTHUR M. BANNER, 000-00-0000
+EDWARD L. BARBOUR, 000-00-0000
+RANDOLPH K. BARKER, 000-00-0000
+DONALD J. BARNES, 000-00-0000
+GLENN D. BARNES, 000-00-0000
+SHAWN J. BARNES, 000-00-0000
+JERRY L. BARNETT, JR., 000-00-0000
+PATRICK A. BARNETT, 000-00-0000
+GLENN R. BARNEY, 000-00-0000
+JAMES M. BARON, 000-00-0000
+HERBERT B. BARR, 000-00-0000
+DIANNE M. BARRETT, 000-00-0000
+*LESTER C. BARRETT, 000-00-0000
+LARRY D. BARTLETT, 000-00-0000
+MATTHEW R. BARTLETT, 000-00-0000
+JULES A. BARTOW, 000-00-0000
+ROGER W. BASL, 000-00-0000
+JEFFREY S. BATEMAN, 000-00-0000
+LAWRENCE J. BATES, 000-00-0000
+JAMES C. BATTE, 000-00-0000
+ERIC J. BATWAY, 000-00-0000
+KAREN M. BAUGH, 000-00-0000
+CHARLES R. BAUMGARDNER, 000-00-0000
+JAY A. BAUMGARTNER, 000-00-0000
+ALEX L. BAYS, 000-00-0000
+KERRY L. BEAGHAN, 000-00-0000
+JAMES R. BEAMON, 000-00-0000
+WILLIAM D. BEATTY, 000-00-0000
+MARK E. BEAUCHEMIN, 000-00-0000
+PHILLIP J. BEAUDOIN, 000-00-0000
+ROBERT D. BECKEL, JR., 000-00-0000
+TISH D. BECKEL, 000-00-0000
+JOHN A. BEECY, 000-00-0000
+WILLIAM RAY, BEEN, 000-00-0000
+ERIC A. BEENE, 000-00-0000
+*GREGORY P. BEERS, 000-00-0000
+NIKOLAUS W. BEHNER, 000-00-0000
+*THOMAS M. BEIRNE, 000-00-0000
+ARTHUR T. BEISNER, II, 000-00-0000
+BRIAN C. BELLACICCO, 000-00-0000
+PAUL J. BELLAIRE, JR., 000-00-0000
+PETER L. BELMONTE, 000-00-0000
+HOWARD D. BELOTE, 000-00-0000
+LISA M. BELUE, 000-00-0000
+CHRISTOPHER J. BENCE, 000-00-0000
+ROBERT P. BENDER, JR., 000-00-0000
+GARY A. BENITZ, 000-00-0000
+GARLAND J. BENNETT, JR., 000-00-0000
+RALPH D. BENNETT, 000-00-0000
+WALTER R. BENNETT, JR., 000-00-0000
+JANET BENT, 000-00-0000
+DENNIS L. BENTLEY, 000-00-0000
+ROBIN N. BENTON, 000-00-0000
+CHRISTOPHER A. BERES, 000-00-0000
+*CHRISTOPHER J. BERGER, 000-00-0000
+SCOTT D. BERGER, 000-00-0000
+*JAMES W. BERGSTROM, JR., 000-00-0000
+CRAIG A. BERLETTE, 000-00-0000
+WILLIAM S. BERNER, 000-00-0000
+TIMOTHY P. BERRY, 000-00-0000
+WARREN D. BERRY, 000-00-0000
+GREGORY D. BEST, 000-00-0000
+MICHAEL R. BEST, 000-00-0000
+*TOM J. BIANCO, 000-00-0000
+*MARK D. BIBLER, 000-00-0000
+GREGORY W. BICE, 000-00-0000
+GEOFFREY B. BIEDERMANN, 000-00-0000
+CHARLES S. BIEVER, 000-00-0000
+JEFFREY B. BIGELOW, 000-00-0000
+KEVIN V. BIGGERS, 000-00-0000
+ROBERT T. BIGLER, 000-00-0000
+NEIL R. BILLINGS, 000-00-0000
+GARY E. BINDER, 000-00-0000
+BRADFORD LEE BINGAMAN, 000-00-0000
+RICHARD S. BINGER, 000-00-0000
+DAVID P. BIROS, 000-00-0000
+TIMOTHY C. BISCHOFF, 000-00-0000
+DAVID A. BISHOP, JR., 000-00-0000
+GRANT C. BISHOP, 000-00-0000
+GREGORY A. BISHOP, 000-00-0000
+MARK G. BISHOP, 000-00-0000
+JOHN W. BLACK, 000-00-0000
+MICHAEL B. BLACK, 000-00-0000
+NORMAN S. BLACK, 000-00-0000
+BRENDA J. BLACKMAN, 000-00-0000
+*KEVIN M. BLANCHARD, 000-00-0000
+JODY L. BLANCHFIELD, 000-00-0000
+DEAN R. BLANKENBEKER, 000-00-0000
+BRIAN S. BLANKENSHIP, 000-00-0000
+CLIFTON D. BLANKS, 000-00-0000
+DOUGLAS E. BLAUSER, 000-00-0000
+LAWRENCE K. BLAVOS, 000-00-0000
+STEPHEN M. BLIZZARD, 000-00-0000
+PETER G. BLOCK, 000-00-0000
+MARK A. BLUME, 000-00-0000
+MARTIN G. BOBAK, 000-00-0000
+JOHN D. BOBBITT, 000-00-0000
+LEE W. BODENHAUSEN, 000-00-0000
+JOSEPH BOLTERSDORF, 000-00-0000
+CRAIG A. BOND, 000-00-0000
+ALLEN N. BOOHER, 000-00-0000
+GUY R. BOOTH, 000-00-0000
+JAMES E. BOOTH, 000-00-0000
+DAVID E. BOSSERT, 000-00-0000
+*GERALD J. BOTH, 000-00-0000
+JAMES E. BOWE, 000-00-0000
+FREDRICK S. BOWER, 000-00-0000
+John C. Bowling, 000-00-0000
+Christine A. Bowman, 000-00-0000
+Kathleen E. Bowman, 000-00-0000
+Kit Q. Boyd, 000-00-0000
+Todd A. Boyd, 000-00-0000
+Vicki M. Boyd, 000-00-0000
+Larry A. Bradbury, 000-00-0000
+Alan E. Brady, 000-00-0000
+Stephan P. Brady, 000-00-0000
+Michael D. Bramhall, 000-00-0000
+Brian S. Brandner, 000-00-0000
+Carol E. Brandt, 000-00-0000
+James R. Brandt, 000-00-0000
+William C. Brandt, 000-00-0000
+Walter Brecevic, 000-00-0000
+Jean J. Brennan, 000-00-0000
+Seth P. Bretscher, 000-00-0000
+Cortney S. Brewerton, 000-00-0000
+Clay W. Breznik, 000-00-0000
+Jack L. Briggs, II, 000-00-0000
+Richard W. Briggs, 000-00-0000
+Michael P. Brignola, 000-00-0000
+Edward E. Brimner, 000-00-0000
+* John J. Brislan, 000-00-0000
+Dwight C. Brissey, 000-00-0000
+Rodney K. Brittenham, 000-00-0000
+* Nicholas A. Broccoli, 000-00-0000
+Jeffrey A. Brock, 000-00-0000
+Arthur R. Brockman, 000-00-0000
+Brad T. Beoemmel, 000-00-0000
+Cheryl P. Brooks, 000-00-0000
+Todd M. Brosz, 000-00-0000
+Charles P. Brothers, Jr., 000-00-0000
+Barrett P. Broussard, 000-00-0000
+Allen R. Brown, 000-00-0000
+David A. Brown, 000-00-0000
+David W. Brown, 000-00-0000
+Gary W. Brown, 000-00-0000
+Glenn E. Brown, 000-00-0000
+James P. Brown, 000-00-0000
+Michael A. Brown, 000-00-0000
+Thomas J. Browning, 000-00-0000
+Karen L. Bruce, 000-00-0000
+Robert A. Bruce, 000-00-0000
+Steven P. Brunts, 000-00-0000
+Joseph R. Bryan, 000-00-0000
+Glenn W. Buchfeller, 000-00-0000
+Bradley E. Buck, 000-00-0000
+William J. Buechel, 000-00-0000
+Brian Buell, 000-00-0000
+John M. Bukowinski, 000-00-0000
+Douglas L. Bullock, 000-00-0000
+Matthew J. Bundy, 000-00-0000
+PETER D. BURGESS, 000-00-0000
+CHRISTOPHER J. BURKE, 000-00-0000
+DAVID K. BURKE, 000-00-0000
+KENT T. BURKHARDT, 000-00-0000
+ANGELA C. BURNS, 000-00-0000
+BRIAN K. BURNS, 000-00-0000
+DOUGLAS H. BURNS, 000-00-0000
+KELLY D. BURNS, 000-00-0000
+
+[[Page S5697]]
+
+*PAUL J. BURRELL, 000-00-0000
+KRIS A. BURROWS, 000-00-0000
+*PATRICK J. BUSH, 000-00-0000
+ROBERT F. BUSSIAN, 000-00-0000
+THOMAS A. BUSSIERE, 000-00-0000
+LAWRENCE M. BUTKUS, 000-00-0000
+CHARLES T. BUTLER, 000-00-0000
+DAVID W. BUTLER, 000-00-0000
+PATRICK F. BUTLER, 000-00-0000
+ROBERT J. BUTLER, 000-00-0000
+STEPHEN D. BUTLER, 000-00-0000
+ANTHONY M. BUTTERS, 000-00-0000
+ANDREW L. BUTTS, 000-00-0000
+FORREST F. BUTTS III, 000-00-0000
+STUART L. BUTTS, 000-00-0000
+BRADLEY G. BUTZ, 000-00-0000
+JAMES H. BYERS, 000-00-0000
+ROBERT L. BYRD, 000-00-0000
+THOMAS A. BYRGE, JR., 000-00-0000
+GREGORY M. CAIN, 000-00-0000
+WILLIAM F. CAIN, JR., 000-00-0000
+DAVID K. CALDER, 000-00-0000
+MICHAEL G. CALDWELL, 000-00-0000
+JAMES R. CALKINS, 000-00-0000
+KEVIN P. CALLAHAN, 000-00-0000
+JUAN A. CAMACHO, JR., 000-00-0000
+HARRIET D. CAMEJO, 000-00-0000
+PETER P. CAMIT, 000-00-0000
+GAGE B. CAMP, 000-00-0000
+MICHAEL A. CANINO, 000-00-0000
+MICHAEL A. CANNA, 000-00-0000
+JOSEPH C. CANNIZZO, 000-00-0000
+CHARLES G. CAPPS, 000-00-0000
+SEAN K. CAREY, 000-00-0000
+JOEL C. CARLSON, 000-00-0000
+DENNIS L. CARR, 000-00-0000
+MICHAEL J. CARR, 000-00-0000
+KEITH B. CARRAGHAN, 000-00-0000
+ANTHONY J. CARRELLI, 000-00-0000
+JOHN L. CARROLL, 000-00-0000
+JEFFREY A. CARROTHERS, 000-00-0000
+BRENT CARTAGENA, 000-00-0000
+CURTIS R. CARTER, 000-00-0000
+GREGORY WARREN CARTER, 000-00-0000
+JOHN F. CARTER, 000-00-0000
+PAUL L. CARTER, III, 000-00-0000
+NICHOLAS R. CARTER, 000-00-0000
+RICKEY L. CARTER, 000-00-0000
+RICKY W. CARVER, 000-00-0000
+LYLE W. CARY, 000-00-0000
+LOUIS A. CASALE, 000-00-0000
+THOMAS M. CASEY, 000-00-0000
+GERARD A. CASTELLI, 000-00-0000
+DAVID A. CASTILLO, 000-00-0000
+ PETER H. CASTOR, 000-00-0000
+JOSEPH E. CASTRO, 000-00-0000
+CHARLES E. CATOE, 000-00-0000
+MARK D. CAUDLE, 000-00-0000
+JOSE E. CAUSSADE, 000-00-0000
+FRANK M. CAVUOTI, 000-00-0000
+JACK J. CELIE, 000-00-0000
+WILLIAM A. CENTER, 000-00-0000
+ANDREW J. CERNICKY, 000-00-0000
+ANTHONY J. CERVENY, JR., 000-00-0000
+NORMAN J. CHAI, 000-00-0000
+JAMES J. CHAMBERS, JR., 000-00-0000
+JOHN T. CHANDLER, 000-00-0000
+KENNETH A. CHANIN, 000-00-0000
+SPENCER R. CHAPMAN, 000-00-0000
+STEPHEN W. CHAPPEL, 000-00-0000
+STEVEN R. CHARBONNEAU, 000-00-0000
+CHRISTOPHER W. CHARLES, 000-00-0000
+JACQUELINE N. CHARSAGUA, 000-00-0000
+CLEOPHUS D. CHATMAN, 000-00-0000
+GARY D. CHESLEY, 000-00-0000
+*FRANK S. CHIMENTO, 000-00-0000
+MICHAEL L. CHING, 000-00-0000
+DARWIN J. CHIVERS, 000-00-0000
+DALE R. CHRISTENSEN, 000-00-0000
+DELBERT G. CHRISTMAN, 000-00-0000
+STEVEN R. CHRISTY, 000-00-0000
+ALLAN J. CHROMY, 000-00-0000
+*MARK D. CIARLONE, 000-00-0000
+BRENT A. CICCHETTO, 000-00-0000
+ROBERT D. CLAMPITT, 000-00-0000
+CHARLES K. CLARK, 000-00-0000
+DAN L. CLARK, 000-00-0000
+DOUGLAS L. CLARK, 000-00-0000
+JAMES S. CLARK, 000-00-0000
+RICHARD M. CLARK, 000-00-0000
+ANDREW L. M. CLARKE, 000-00-0000
+JOHN B. CLARKE, 000-00-0000
+CHRISTOPHER L. CLAUNCH, 000-00-0000
+DAVID R. CLAXTON, 000-00-0000
+BRUCE A. CLAYPOOL, 000-00-0000
+MAX A. CLAYTON, JR., 000-00-0000
+THOMAS R. CLAYTON, 000-00-0000
+KAREN A. CLEARY, 000-00-0000
+*ROBERT M. CLEARY, 000-00-0000
+CHEVALIER P. CLEAVES, 000-00-0000
+DANIEL P. CLEPPER, 000-00-0000
+MARK L. CLIFFORD, 000-00-0000
+JOHN D. CLINE, 000-00-0000
+KENNETH L. CLINE, 000-00-0000
+MICHAEL W. CLOSE, 000-00-0000
+ALAN J. CLOSSON, 000-00-0000
+PATRICIA R. CLOUD, 000-00-0000
+FREDERICK A. CLUTZ, 000-00-0000
+DAVID W. COCHRAN, 000-00-0000
+STEVEN A. COFFIN, 000-00-0000
+*JOHN T. COFFINDAFFER, 000-00-0000
+BRYAN J. COFFMAN, 000-00-0000
+KEVIN J. COLE, 000-00-0000
+THOMAS M. COLE, 000-00-0000
+ROBERT A. COLELLA, 000-00-0000
+RONALD A. COLEMAN, 000-00-0000
+STANLEY J. COLGATE, 000-00-0000
+CYNTHIA B. COLIN, 000-00-0000
+JOHN C. COLOMBO, 000-00-0000
+JOSE E. COLON, 000-00-0000
+DALE K. COLTER, 000-00-0000
+RONALD C. COMEAU, 000-00-0000
+*JAMES L. COMFORT, 000-00-0000
+DONALD J. COMI, 000-00-0000
+PAUL M. COMMEAU, 000-00-0000
+THOMAS W. CONNELLY, 000-00-0000
+MICHAEL P. CONNOLLY, 000-00-0000
+WILLIAM D. CONNORS, 000-00-0000
+WILFRED B. CONSOL, 000-00-0000
+GERALD L. CONSTABLE, 000-00-0000
+THOMAS P. CONSTANT, 000-00-0000
+DAVID R. CONTRERAS, 000-00-0000
+CREIGHTON W. COOK, JR., 000-00-0000
+JAMES L. COOK, 000-00-0000
+WILLIAM S. COOKE, 000-00-0000
+MICHAEL A. COOMBES, 000-00-0000
+CHRISTOPHER M. COOMBS, 000-00-0000
+DAVID B. COOMER, 000-00-0000
+MARCUS F. COOPER III, 000-00-0000
+MARK A. COOTER, 000-00-0000
+SHAUN P. COPELIN, 000-00-0000
+CRAIG R. COREY, 000-00-0000
+CHARLES P. CORLEY, 000-00-0000
+DONALD M. CORLEY, 000-00-0000
+*LOUIS J. CORNAY, JR., 000-00-0000
+RICKY J. CORNELIO, 000-00-0000
+tIMOTHY R. CORNELL, 000-00-0000
+LUIS A. CORTES, 000-00-0000
+JAY A. COSSENTINE, 000-00-0000
+WILLIAM J. COSTLOW, 000-00-0000
+JOHN A. COTE, 000-00-0000
+DANIEL D. COTTON, 000-00-0000
+CHRISTOPHER D. COTTS, 000-00-0000
+JAMES D. COUCH, 000-00-0000
+JOHN P. COULTER, 000-00-0000
+*PETER J. COURTNEY, 000-00-0000
+BARRY J. COUSLER, 000-00-0000
+BRIAN D. COX, 000-00-0000
+CHARLES D. COX, 000-00-0000
+GARY L. COX, 000-00-0000
+SAMUEL E. COX, 000-00-0000
+*DOUGLAS M. CRABB, 000-00-0000
+MICHAEL K. CRAMER, 000-00-0000
+ROBERT J. CRAVEN, 000-00-0000
+ROBERT A. CREEDON, 000-00-0000
+RODERICK L. CREGIER, 000-00-0000
+STEVEN E. CREWS, 000-00-0000
+MICHAEL J. CRISON, 000-00-0000
+*CARL E. CROFT, 000-00-0000
+KENNETH A. CROSBY, 000-00-0000
+CLINTON E. CROSIER, 000-00-0000
+SEAN M. CROTTY, 000-00-0000
+GEORGE R. CROUSE, 000-00-0000
+JOHN S. CROWN, 000-00-0000
+RAYMOND E. CROWNHART, 000-00-0000
+YELLIXA Z. CRUZ, 000-00-0000
+THOMAS B. CUCCHI, 000-00-0000
+*JANENE V. CULLEN, 000-00-0000
+ROBERT L. CUMMINGS, JR., 000-00-0000
+ANN CUNNINGHAM, 000-00-0000
+HAROLD J. CUNINGHAM, JR., 000-00-0000
+*JOHN C. CUNNINGHAM, 000-00-0000
+KYLE P. CUNNINGHAM, 000-00-0000
+THOMAS F. CURRAN, JR., 000-00-0000
+TOM P. CURRIE, JR., 000-00-0000
+ANDRE K. CURRY, 000-00-0000
+DANNY R. CURTIS, 000-00-0000
+ROBERT L. CURTIS, 000-00-0000
+JAMES R. CVANCARA, 000-00-0000
+MARGARET J. CZAPIEWSKI, 000-00-0000
+THERESA A. DALY, 000-00-0000
+*JAMES C. DAMOUR, 000-00-0000
+ASBURY J. DANIEL, 000-00-0000
+ALVIN E. DANIELS, 000-00-0000
+*DARREN R. DANIELS, 000-00-0000
+ROBERT G. DANTONIO, 000-00-0000
+JOHN L. DARGAN, 000-00-0000
+BERNARD P. DAVEY, 000-00-0000
+STEPHEN R. DAVIDSON, 000-00-0000
+ALAN D. DAVIS, 000-00-0000
+DARRELL E. DAVIS, 000-00-0000
+SCOTT J. DAVIS, 000-00-0000
+WESLEY C. DAVIS, 000-00-0000
+GEORGE E. DAY, JR., 000-00-0000
+THOMAS H. DEALE, 000-00-0000
+CRYSTAL Y. DEAS, 000-00-0000
+VINCENT G. DEBONO, JR., 000-00-0000
+ANTHONY K. DECKARD, 000-00-0000
+LYLE K. DECKER, 000-00-0000
+BUDDY E. DEES, JR., 000-00-0000
+PATRICIA W.J. DEES, 000-00-0000
+THEODORE T. DEGUZMAN, 000-00-0000
+DOUGLAS W. DEHART, 000-00-0000
+JEFFERY K. DEITERS, 000-00-0000
+WILLIAM P. DELANEY, 000-00-0000
+CORDELL A. DELAPENA, JR., 000-00-0000
+JOSEPH M. DELGRANDE, 000-00-0000
+SEBASTIANO DELISO, 000-00-0000
+DEVIN J. DELLAROSE, 000-00-0000
+HUGH C. DELONG, 000-00-0000
+MARK E. DELUCA, 000-00-0000
+RICHARD C. DEMARS, 000-00-0000
+STEPHEN R. DEMERS, 000-00-0000
+DANIEL L. DEMOTT, 000-00-0000
+MICHAEL H. DEMOULLY, 000-00-0000
+ROBERT H. DEMPSEY II, 000-00-0000
+STEPHEN T. DENKER, 000-00-0000
+SCOTT L. DENNIS, 000-00-0000
+LEE K. DEPALO, 000-00-0000
+WILLIAM J. DEROUCHEY, 000-00-0000
+DONALD T.R. DERRY, 000-00-0000
+BRUCE T. DESAUTELS, 000-00-0000
+CHRISTOPHER A. DESIMONE, 000-00-0000
+SAMUEL F. DETRICK, 000-00-0000
+MARK W. DEVANE, 000-00-0000
+DAVID S. DEVOL, 000-00-0000
+JOHN A. DEWITT II, 000-00-0000
+JOSEPH E. DIANA, 000-00-0000
+MICHAEL R. DICKEY, 000-00-0000
+PAMELA D. DICKEY, 000-00-0000
+*MARC DICOCCO, 000-00-0000
+CHARLES J. DIERKES, JR., 000-00-0000
+*STEPHEN A. DIFONZO, 000-00-0000
+DANIEL J. DILWORTH, 000-00-0000
+DAVID J. DINTAMAN, 000-00-0000
+GREGORY E. DITZLER, 000-00-0000
+JERRY B. DOBBINS, 000-00-0000
+LAURENCE A. DOBROT, 000-00-0000
+JOHN D. DOHERTY, 000-00-0000
+JOHN J. DOHERTY, 000-00-0000
+KRISTEN J. DOLAN, 000-00-0000
+DAVID A. DOLLISON, 000-00-0000
+RAMONA L. DOLSON, 000-00-0000
+ROBERT A. DOMINGUEZ, 000-00-0000
+CHRISTINE M. DON, 000-00-0000
+THOMAS J. DONALDS, 000-00-0000
+EDWIN F. DONALDSON III, 000-00-0000
+Steven G. Donatucci, 000-00-0000
+David L. Donley, Jr., 000-00-0000
+Brian P. Donnelly, 000-00-0000
+Barbara H. Donovan, 000-00-0000
+Steve Donovan, 000-00-0000
+Robert C. Dooley, 000-00-0000
+Roderick E. Dorsey, Jr., 000-00-0000
+Mark E. Dotson, 000-00-0000
+Rae Anne Dotter, 000-00-0000
+Ethel P. Dotts, 000-00-0000
+Debra J. Doucette, 000-00-0000
+Brian K. Dougherty, 000-00-0000
+Joseph T. Dougherty, 000-00-0000
+Dwayne E. Dover, 000-00-0000
+Maria J. Dowling, 000-00-0000
+Jack R. Downey, 000-00-0000
+Steven R. Drago, 000-00-0000
+Beverly J. Drake, 000-00-0000
+Jeffrey M. Drake, 000-00-0000
+Jerry A. Dubose, 000-00-0000
+Steven A. Dubron, 000-00-0000
+Courtney Anne Ducharme, 000-00-0000
+Richard L. Duckworth, 000-00-0000
+*Alfred U. Duenas, 000-00-0000
+Ralph W. Duesterhoeft, 000-00-0000
+Valentine J. Dugie, 000-00-0000
+Robert J. Dukat, 000-00-0000
+Anthony D. Dunbar, 000-00-0000
+Arthur N. Dunn, 000-00-0000
+Brian C. Dunn, 000-00-0000
+Charles A. Dunn II, 000-00-0000
+Elizabeth C. Dunn, 000-00-0000
+Scott L. Dunn, 000-00-0000
+Troy R. Dunn, 000-00-0000
+Clifford R. Dunning, Jr., 000-00-0000
+John H. Dyck, 000-00-0000
+Steven C. Dye, 000-00-0000
+*Raymond R. Dyess, 000-00-0000
+Craig S. Dyson, 000-00-0000
+David J. Dzaran, 000-00-0000
+Gary J. Dzubilo, 000-00-0000
+Charles W. Eastman, 000-00-0000
+*Chris A. Eaton, 0000-00-0000
+Kathleen N. Echiverri, 000-00-0000
+Michael K. Edgar, 000-00-0000
+Troy A. Edgell, 000-00-0000
+Donald R. Edsall, Jr., 000-00-0000
+Jon D. Edwards, 000-00-0000
+Keith A. Edwards, 000-00-0000
+Kenneth A. Edwards, 000-00-0000
+Martin L. Edwards, 000-00-0000
+Robert P. Egan, 000-00-0000
+Stephen J. Eichenbrenner, 000-00-0000
+Daniel L. Eickmeier, 000-00-0000
+Darren J. Eldridge, 000-00-0000
+Mark A. Elgert, 000-00-0000
+Stephen M. Elliott, 000-00-0000
+Curtis D. Ellis, 000-00-0000
+David F. Ellis, 000-00-0000
+Laurence E. Ellis, 000-00-0000
+Peter S.H. Ellis, 000-00-0000
+James H. Ells, 000-00-0000
+Daniel J. Elmore, 000-00-0000
+Leon E. Elsarelli, 000-00-0000
+William J. Emerson, 000-00-0000
+George A. Emilio, 000-00-0000
+Christopher T. Emmert, 000-00-0000
+William L. Engelson, Jr., 000-00-0000
+Arnel B. Enriquez, 000-00-0000
+Bruce A. Ensor, 000-00-0000
+Scott B. Erickson, 000-00-0000
+Loye M. Eschenburg, 000-00-0000
+Greta M. Espeaignnette, 000-00-0000
+Robert F. Espejo, 000-00-0000
+Michael J. Estes, 000-00-0000
+Daniel S. Eucker, 000-00-0000
+Michael E. Evans, 000-00-0000
+Myra L. Evansmanyweather, 000-00-0000
+Julie Burns Eversole, 000-00-0000
+Royce E. Eves, 000-00-0000
+Mark S. Ewart, 000-00-0000
+James A. Faber, 000-00-0000
+Karolen Kay Fahrni, 000-00-0000
+Elliot T. Fair III, 000-00-0000
+James E. Fairchild, 000-00-0000
+Mark R. Fairchild, 000-00-0000
+Mark B. Falke, 000-00-0000
+Jon D. Fanning, 000-00-0000
+Harold H. Fansler, 000-00-0000
+Jeffrey L. Fanto, 000-00-0000
+Loren L. Faulknham, 000-00-0000
+Francis J. Faupel, 000-00-0000
+David C. Fedors, 000-00-0000
+Mark L. Feingold, 000-00-0000
+
+[[Page S5698]]
+
+Christopher B. Felt, 000-00-0000
+Roland D. Fenton, Jr., 000-00-0000
+Glenn A. FErguson, 000-00-0000
+Timothy G. Ferner, 000-00-0000
+Sylvia E.D. Ferry, 000-00-0000
+Thomas W. Fessenden, 000-00-0000
+Edward A. Fienga, 000-00-0000
+Suzanne Filion, 000-00-0000
+Timothy J. Finnegan, 000-00-0000
+Greg A. Finney, 000-00-0000
+*Edward E. Firnberg, 000-00-0000
+Mark E. Fischer, 000-00-0000
+RAYMOND C. FISCHER, 000-00-0000
+SCOTT A. FISCHER, 000-00-0000
+RICHARD N. FISH, 000-00-0000
+JOHN E. FISHER, 000-00-0000
+ANNE F. FITCH, 000-00-0000
+THOMAS A. FITCH, 000-00-0000
+*JAY S. FITZGERALD, 000-00-0000
+*MICHAEL J. FLERI, 000-00-0000
+JEFFREY D. FLETCHER, 000-00-0000
+KELLY E. FLETCHER, 000-00-0000
+GARY D. FLINCHBAUGH, 000-00-0000
+PHILIP J. FLUHR, 000-00-0000
+*CHARLES P. FLYNN, 000-00-0000
+DOUGLAS J. FOGLE, 000-00-0000
+JAMES C. FOGLE, 000-00-0000
+ROGER B. FOGLEMAN, 000-00-0000
+JAMES A. FOLEY, 000-00-0000
+JAMES M. FOLEY, 000-00-0000
+SAMMY J. FONG, 000-00-0000
+DONALD B. FORRER, 000-00-0000
+RICHARD A. FORSTER, 000-00-0000
+MICHAEL E. FORTNEY, 000-00-0000
+JOHN D. FORZATO, 000-00-0000
+DAVID I. FOSTER, 000-00-0000
+MICHAEL W. FOSTER, 000-00-0000
+MORRIS K. FOSTER, 000-00-0000
+KEVIN L. FOX, 000-00-0000
+SEAN M. FOX, 000-00-0000
+ALFIO F. FRAGALA, 000-00-0000
+WILLIAM W. FRANCIS, 000-00-0000
+GABRIEL S. FRANCO, 000-00-0000
+*CARMEN V. FRAZIER, 000-00-0000
+KRISTIN M. FRAZIER, 000-00-0000
+ANTHONY R. FREDERICK, 000-00-0000
+TERI L. FREDERICK, 000-00-0000
+DAVID EUGENE FREEMAN, 000-00-0000
+LAWRENCE W. FRIEND, 000-00-0000
+GREGORY T. FRIGAULT, 000-00-0000
+KEVIN R. FRISBIE, 000-00-0000
+MICHAEL L. FRY, 000-00-0000
+DAVID B. FRYE, 000-00-0000
+ALGENE FRYER, 000-00-0000
+CHRISTIAN G. FUNK, 000-00-0000
+*ROLLAND J.GAGNON, 000-00-0000
+*MICHAEL J. GAINES, 000-00-0000
+STEPHEN O. GAINES II, 000-00-0000
+JAMES C. GAINEY, JR., 000-00-0000
+TIMOTHY J. GAITHER, 000-00-0000
+SHERRI S. GALANTE, 000-00-0000
+LELLO GALASSI, 000-00-0000
+ROBERT J. GALBERG, 000-00-0000
+PHILLIP GALES, 000-00-0000
+BRYAN J. GALLAGHER, 000-00-0000
+frank p. gallagher, 000-00-0000
+robert g. gallasch, 000-00-0000
+kurt j. gallegos, 000-00-0000
+todd a. ganger, 000-00-0000
+jeffrey s. gardner, 000-00-0000
+*john w. gardner, 000-00-0000
+*lester l. gardner, Jr., 000-00-0000
+kyle e. garland, 000-00-0000
+mark e. garner, 000-00-0000
+*leslie a. garrett, 000-00-0000
+michael k. garrity, 000-00-0000
+todd a. gaswick, 000-00-0000
+*juan a. gaud, 000-00-0000
+*roger t. gauert, 000-00-0000
+gary l. gautreau, 000-00-0000
+inge gedo, 000-00-0000
+mark e. gehrs, 000-00-0000
+richard a. gentsch, 000-00-0000
+richard b. gertz, 000-00-0000
+jeffrey i. gettle, 000-00-0000
+james f. geurts, 000-00-0000
+randall w. gibb, 000-00-0000
+orlando g. gibbons, 000-00-0000
+bruce a. gibson, 000-00-0000
+john a. gibson iv, 000-00-0000
+robert l. giddings, 000-00-0000
+bruce e. giesige, 000-00-0000
+billy j. gililland, 000-00-0000
+mary k. gillman, 000-00-0000
+john e. gilmour, 000-00-0000
+martin t. gimbus, 000-00-0000
+richard t. gindhart, jr., 000-00-0000
+jeffrey l. gingras, 000-00-0000
+douglas s. gleisner, 000-00-0000
+john r. glock, 000-00-0000
+thomas w. goffus, 000-00-0000
+john f. gogan, jr., 000-00-0000
+derrill t. goldizen, 000-00-0000
+kathleen m. gomrick, 000-00-0000
+richard a. gonzaludo, 000-00-0000
+mark w. gooch, 000-00-0000
+justine n. good, 000-00-0000
+david m. goode iii, 000-00-0000
+carl c. goodison, 000-00-0000
+wayne a. goodlin, 000-00-0000
+*gayle l. goodman, 000-00-0000
+michael s. goodwin, 000-00-0000
+reid m. goodwyn, 000-00-0000
+*marc w. goold, 000-00-0000
+timothy d. gooley, 000-00-0000
+joseph e. gootee, 000-00-0000
+dean c. gordon, jr., 000-00-0000
+eric l. gordon, 000-00-0000
+JOSEPH C. GORNEY, 000-00-0000
+JEFFREY R. GOSE, 000-00-0000
+MICHAEL A. GOYETTE, 000-00-0000
+* WILLIAM J. GRABOWSKI, 000-00-0000
+* VAUGHN K. GRACE, 000-00-0000
+RODNEY L. GRADY, 000-00-0000
+BARRY S. GRAHAM, 000-00-0000
+JOHN K. GRAHAM, 000-00-0000
+* CARL S. GRAMLICK, 000-00-0000
+JAMES F. GRANT, JR., 000-00-0000
+STANLEY E. GRANT, 000-00-0000
+MARTIN E. GRANUM, 000-00-0000
+JOSEPH J. GRAVANTE, JR., 000-00-0000
+LAWRENCE C. GRAY II, 000-00-0000
+RUTH E. GRAYSON, 000-00-0000
+DEREK P. GREEN, 000-00-0000
+* GARRY M. GREEN, 000-00-0000
+JAMES R. GREEN, 000-00-0000
+ROBERT T. GREEN, 000-00-0000
+TIMOTHY S. GREEN, 000-00-0000
+SCOTT B. GREENE, 000-00-0000
+JAMES L. GREGOIRE, 000-00-0000
+STEVEN K. GREGORCYK, 000-00-0000
+PETER W. GRETSCH, 000-00-0000
+CYNTHIA J. GREY, 000-00-0000
+* JOSEPH N. GRIFFIN, 000-00-0000
+* ROBERT G. GRIFFIN, 000-00-0000
+PAUL A. GRIFFITH, JR., 000-00-0000
+DAVID J. GRIMWOOD, 000-00-0000
+MATTHEW P. GROOVER, 000-00-0000
+* DAVID E. GROSS, 000-00-0000
+MICHAEL L. GROSS, 000-00-0000
+MAURICE G. GROSSO, 000-00-0000
+MATTHEW J. GROUX, 000-00-0000
+KEVIN S. GROVE, 000-00-0000
+MATTHEW D. GRUNER, 000-00-0000
+ALLEN B. GRUNIN, 000-00-0000
+STEVEN M. GRUPENHAGEN, 000-00-0000
+DAVID A GUIDER, 000-00-0000
+BRET S. GUINN, 000-00-0000
+THOMAS A. GUINN, 000-00-0000
+JAMES C. GUNN, 000-00-0000
+ERIC G. GUNZELMAN, 000-00-0000
+MICHAEL E. GUY, 000-00-0000
+CALVIN L. GUYER, JR., 000-00-0000
+JAMES GUZZWELL, 000-00-0000
+RYAN K. HAALAND, 000-00-0000
+RENEE M. HAAS, 000-00-0000
+RICHARD S. HAAS, 000-00-0000
+DOUGLAS A. HABERMAN, 000-00-0000
+ROBERT D. HACKETT III, 000-00-0000
+JEFFREY L. HACKMAN, 000-00-0000
+WADE E. HADER, 000-00-0000
+Lance C. Hafeli, 000-00-0000
+John W. Hagen, 000-00-0000
+Daniel E. Hagmaier, 000-00-0000
+David G. Hagstrom, 000-00-0000
+Tammy M. Haight, 000-00-0000
+Michael F. Hake, 000-00-0000
+Craig W. Hall, 000-00-0000
+Donald S. Hall, 000-00-0000
+James R. Hall, 000-00-0000
+Kurt D. Hall, 000-00-0000
+John K. Hallisey, 000-00-0000
+Mark C. Hallisey, 000-00-0000
+James R. Ham, 000-00-0000
+*Michael J. Hamill, 000-00-0000
+James E. Hammett, Jr., 000-00-0000
+John L. Hampton, 000-00-0000
+Stanley R. Hancock, 000-00-0000
+Richard A. Hand, 000-00-0000
+Gary R. Handley, 000-00-0000
+William S. Handy, 000-00-0000
+Ronald B. Hankes, 000-00-0000
+Peter D. Hanlon, 000-00-0000
+*Gregory M. Hannon, 000-00-0000
+*Gary R. Hanson, 000-00-0000
+Deborah D. Harden, 000-00-0000
+Charlene J. Harding, 000-00-0000
+Paul R. Hardy, 000-00-0000
+Charles M. Harmon, 000-00-0000
+Steven M. Harmon, 000-00-0000
+Dane E. Harrel, 000-00-0000
+Jeffrey L. Harrigian, 000-00-0000
+Christopher A. Harrington, 000-00-0000
+*Jerry S.G. Harrington, 000-00-0000
+David A. Harris, 000-00-0000
+Keith D. Harris, 000-00-0000
+Kevin T. Harris, 000-00-0000
+Mark L. Harris, 000-00-0000
+Harry M. Harrison, 000-00-0000
+Keven E. Harshbarger, 000-00-0000
+James T. Hart, Jr., 000-00-0000
+Mark E. Harter, 000-00-0000
+Quintin H. Hartt, Jr., 000-00-0000
+James F. Harvell, 000-00-0000
+Anton J. Haryluck, 000-00-0000
+Vernon E. Hasenstein, Jr., 000-00-0000
+*Joseph M. Hastings, 000-00-0000
+Stephen C. Hatley, 000-00-0000
+John F. Haug, 000-00-0000
+Robert D. Haughian, 000-00-0000
+Jeffrey A. Hausmann, 000-00-0000
+*David P. Hawkins, 000-00-0000
+Mark J. Hawley, 000-00-0000
+Kenneth K. Hayashi, 000-00-0000
+James C. Hayden, 000-00-0000
+DJesse D. Hayes IV, 000-00-0000
+Monia L. Hayes, 000-00-0000
+Terry E. Hayes, 000-00-0000
+Jeffrey E. Haymond, 000-00-0000
+Michael T. Healy, 000-00-0000
+Franklin P. Heath, Jr., 000-00-0000
+John P. Hebert, Jr., 000-00-0000
+Richard L. Hedgpeth, 000-00-0000
+Victor L. Hedgpeth, 000-00-0000
+Daniel J. Heeter, 000-00-0000
+Brian K. Heflin, 000-00-0000
+Stephen L. Heflin, 000-00-0000
+Frank R. Heinsohn, 000-00-0000
+Donna C. Heinz, 000-00-0000
+Joseph S. Heirigs, 000-00-0000
+Kurt C. Held, 000-00-0000
+Heidi L. Hellauer, 000-00-0000
+Garland S. Henderson, 000-00-0000
+Gordon B. Hendrickson, 000-00-0000
+Gordon T. Hengst, 000-00-0000
+Michael D. Hennessy, 000-00-0000
+John M. Hennigan, 000-00-0000
+Stephen E. Henning, 000-00-0000
+Curtis E. Henry, 000-00-0000
+Steven L. Henry, 000-00-0000
+Christoph L. Herd, 000-00-0000
+Richard I. Hermansen, 000-00-0000
+Harold T. Herndon, Jr., 000-00-0000
+Michael D. Herndon, 000-00-0000
+Christopher K. Herrmann, 000-00-0000
+James W. Herrmann, 000-00-0000
+Clifton G. Hertel, 000-00-0000
+Charles F. Hertenstein III, 000-00-0000
+Kenneth P. Hession, 000-00-0000
+Gordon S. Hetherington, 000-00-0000
+David A. Hickey, 000-00-0000
+Meredith K. Hickman, 000-00-0000
+William S. Hickman, 000-00-0000
+Daniel K. Hicks, 000-00-0000
+John M. Hicks, 000-00-0000
+Kerry D. Hicks, 000-00-0000
+Irving T. Higa, 000-00-0000
+Tracy A. Higgins, 000-00-0000
+John F. Hilbing, 000-00-0000
+William M. Hilbun, 000-00-0000
+Michael S. Hiler, 000-00-0000
+Kenneth E. Hill, Jr., 000-00-0000
+James B. Hiller, 000-00-0000
+Harold D. Hincks, 000-00-0000
+Lawrence W. Hinkin, 000-00-0000
+Coawetta D. Hinnant, 000-00-0000
+James A. Hird, 000-00-0000
+Yvette P. Hird, 000-00-0000
+Kenneth R. Hirlinger, Jr., 000-00-0000
+Peter A. Hirneise, 000-00-0000
+Benjamin P. Hobday, 000-00-0000
+Mark A. Hobson, 000-00-0000
+Dorian A. Hodge, 000-00-0000
+*Gene L. Hodge, 000-00-0000
+William R. Hodgkiss, 000-00-0000
+Greg J. Hoffman, 000-00-0000
+Bonnie L. Hoffman, 000-00-0000
+Susan M. Hogg, 000-00-0000
+Jeffrey A. Holbrook, 000-00-0000
+Richard L. Holbrook, 000-00-0000
+Norman D. Holcomb, Jr., 000-00-0000
+Charles H. Holden, Jr., 000-00-0000
+Rodney L. Holder, 000-00-0000
+Dorothy C. Holmes, 000-00-0000
+Daniel W. Holt, 000-00-0000
+Ty D. Holt, 000-00-0000
+Christian D. Honkanen, 000-00-0000
+Neal L. Hooks, 000-00-0000
+Guy R. Hooper, 000-00-0000
+Lysa P. Hopson, 000-00-0000
+Mark D. Horn, 000-00-0000
+Michael H. Horn, 000-00-0000
+John P. Horner, 000-00-0000
+Paul R. Horst, Jr., 000-00-0000
+Kirk G. Horton, 000-00-0000
+* Timur J. Housum, 000-00-0000
+Michael R. Howard, 000-00-0000
+Russell C. Howard, 000-00-0000
+Tyrone B. Howard, 000-00-0000
+Robert H. Hrabe, 000-00-0000
+Brent R. Hrncir, 000-00-0000
+Pamela Dee Hrncir, 000-00-0000
+Daniel Hrovat, 000-00-0000
+Lloyd F. Hubbard, 000-00-0000
+* Patrick M. Huber, 000-00-0000
+Robert B. Huber, 000-00-0000
+Thomas J. Hudd, 000-00-0000
+Samuel Hudspath, 000-00-0000
+Terry R. Huff, 000-00-0000
+Bryon K. Huffman, 000-00-0000
+Jonathan L. Huggins, 000-00-0000
+Samuel C. Huggins, 000-00-0000
+Montgomery C. Hughson, 000-00-0000
+Donald L. Huguley, Jr., 000-00-0000
+Dale R. Huhmann, 000-00-0000
+Thomas D. Huizenga, 000-00-0000
+Whitney J. Hulett, 000-00-0000
+David A. Huni, 000-00-0000
+Brian E. Hunt, 000-00-0000
+Robert J. Hunt, Jr., 000-00-0000
+LARRY D. HUNTER, 000-00-0000
+MARK W. HUNTER, 000-00-0000
+THOMAS K. HUNTER, JR., 000-00-0000
+RICHARD D. HURLEY, 000-00-0000
+JOHN W. HURSEY, 000-00-0000
+MARK L. HUSON, 000-00-0000
+STEPHEN L. HUTCHENS, 000-00-0000
+DIRK M. HUTCHISON, 000-00-0000
+TIMOTHY D. HUTCHISON, 000-00-0000
+RICHARD T. HYLAND, 000-00-0000
+RANDAL W. ICE, 000-00-0000
+PHILLIP J. IDLE, 000-00-0000
+THOMAS C. IMBURGIO, 000-00-0000
+BRET L. INDERMILL, 000-00-0000
+GERARDO INUMERABLE, JR., 000-00-0000
+THOMAS H. IRISH, 000-00-0000
+PAUL E. IRWIN, JR., 000-00-0000
+WILLIAM P. ISLER, JR., 000-00-0000
+ALAN R. ISROW, 000-00-0000
+WILLIAM P. IULIANO, 000-00-0000
+DALE A. JACKMAN, 000-00-0000
+
+[[Page S5699]]
+
+JEFFREY A. JACKSON, 000-00-0000
+ROBERT W. JACKSON, JR., 000-00-0000
+TED A. JACKSON, 000-00-0000
+RAYMOND K. JACOBS, 000-00-0000
+GLENN P. JAGGER, 000-00-0000
+ALLEN J. JAMERSON, 000-00-0000
+BRETT L. JAMES, 000-00-0000
+JESSE L. JAMES, 000-00-0000
+TERRY C. JAMES, 000-00-0000
+GARY E. JANDZINSKI, 000-00-0000
+STACEY L. JANSEN, 000-00-0000
+RICHARD S. JARVIS, 000-00-0000
+VINCENT B. JEFFERSON, 000-00-0000
+BENJAMIN W. JENKINS, 000-00-0000
+* JIMMY R. JENKINS, JR., 000-00-0000
+* GILBERT W. JENNINGS, 000-00-0000
+JAY R. JENNINGS, 000-00-0000
+ROGER W. JERNEY, 000-00-0000
+CARL V. JERRETT, 000-00-0000
+CHARLES T. JERVEY, 000-00-0000
+DANIEL R. JODER, 000-00-0000
+VINCENT J. JODOIN, 000-00-0000
+BRUCE G. JOHNSON, 000-00-0000
+CHARLES D. JOHNSON, 000-00-0000
+* CLAUDE S. JOHNSON, 000-00-0000
+DAVID C. JOHNSON, 000-00-0000
+DONALD B. JOHNSON, 000-00-0000
+JAMES E. JOHNSON, 000-00-0000
+JAMES L. JOHNSON, 000-00-0000
+JAMES R. JOHNSON, 000-00-0000
+JEFFREY B. JOHNSON, 000-00-0000
+ROBERT L. JOHNSON, 000-00-0000
+Robert N. Johnson, Jr., 000-00-0000
+Samuel C. Johnson, 000-00-0000
+Stephanie K. Johnson, 000-00-0000
+Stephen S. Johnson, 000-00-0000
+Steven C. Johnson, 000-00-0000
+Stuart P. Johnson II, 000-00-0000
+Terry L. Johnson, 000-00-0000
+Angela V. Johnsonhughes, 000-00-0000
+Brent A. Jolly, 000-00-0000
+Bruce W. Jones, 000-00-0000
+Charles E. Jones, Jr., 000-00-0000
+Dimitri K. Jones, 000-00-0000
+Donald R. Jones, 000-00-0000
+Glenda D. Jones, 000-00-0000
+*Guy N. Jones, Jr., 000-00-0000
+Howard G. Jones III, 000-00-0000
+*Jeffrey D. Jones, 000-00-0000
+Raymond Jones, 000-00-0000
+Richard D. Jones, 000-00-0000
+Robert L. Jones, 000-00-0000
+Weston W. Jones, 000-00-0000
+Laurie A. Jordan, 000-00-0000
+Lewis E. Jordan, Jr., 000-00-0000
+Michael J. Jordan, 000-00-0000
+Terry L. Jordan, 000-00-0000
+Erik C. Jorgensen, 000-00-0000
+Joshua Jose, 000-00-0000
+Caroline D. Joyce, 000-00-0000
+Douglas W. Juback, 000-00-0000
+Howard C. Judd, 000-00-0000
+Ward F. Juedeman, 000-00-0000
+Charles R. Jung, 000-00-0000
+Jeffrey D. Jungemann, 000-00-0000
+Cheryl Ann Junker, 000-00-0000
+Joel B. Junker, 000-00-0000
+Mark E. Juntunen, 000-00-0000
+Thomas Z. Junyszek, 000-00-0000
+Judson J. Jusell, 000-00-0000
+Randee B. Kaiser, 000-00-0000
+John F. Kane, 000-00-0000
+John J. Kaplan, 000-00-0000
+Hans R. Kaspar, 000-00-0000
+Charles V. Kastenholz, 000-00-0000
+William R. Kavchak, 000-00-0000
+Michael D. Keaton, 000-00-0000
+Harold W. Keck, Jr., 000-00-0000
+Randy A. Kee, 000-00-0000
+Terry L. Kee, 000-00-0000
+Ricky L. Keeling, 000-00-0000
+Edward N. Keen, 000-00-0000
+Robert L. Kehr, 000-00-0000
+Michael H. Keifer, 000-00-0000
+Chan W. Keith, 000-00-0000
+KEITH R. KELLER, 000-00-0000
+DAVID H. KELLEY, 000-00-0000
+JEFFREY S. KELLEY, 000-00-0000
+MICHAEL R. KELLEY, 000-00-0000
+WILLIAM E. KELLEY, 000-00-0000
+JAMES M. KELLY, 000-00-0000
+*PATRICK M. KELLY, 000-00-0000
+RICHARD W. KELLY, 000-00-0000
+STEVEN A. KELLY, 000-00-0000
+MARSHALL K. KENDRICK, 000-00-0000
+KEITH E. KENNEDY, 000-00-0000
+DAVID A. KENSINGER, 000-00-0000
+ELIZABETH BROWN KERR, 000-00-0000
+DAVID A. KERSEY, 000-00-0000
+RANDALL T. KERSEY, 000-00-0000
+GREGORY L. KESLER, 000-00-0000
+RICHARD B. KEYES, 000-00-0000
+TARIQ M. KHAN, 000-00-0000
+BRENDA M. KHOURY, 000-00-0000
+KELLEY S. KIERNAN, 000-00-0000
+DAVID A. KILCHER, 000-00-0000
+KEVIN L. KILPATRICK, 000-00-0000
+WALTER J. KIM, 000-00-0000
+HARRY R. KIMBERLY III, 000-00-0000
+DONALD FRANCIS KIMMINAU, 000-00-0000
+GREGORY R. KINCAID, 000-00-0000
+CRAIG K. KING, 000-00-0000
+DALE G. KING, 000-00-0000
+KEVIN B. KING, 000-00-0000
+RALPH F. KING III, 000-00-0000
+GALEN P. KIRCHMEIER, 000-00-0000
+DONALD E. KIRKHAM, JR., 000-00-0000
+MARK L. KISER, 000-00-0000
+SCOTT ALAN KISER, 000-00-0000
+DAVID R. KISNER, 000-00-0000
+THOMAS A. KLAWITER, 000-00-0000
+JEFFERY T. KLAY, 000-00-0000
+*BART D. KLEIN, 000-00-0000
+KENNETH B. KLEINLEIN, 000-00-0000
+ANDREW T. KLEMAS, 000-00-0000
+*CARL L. KLINE, 000-00-0000
+JERRY G. KLINE, 000-00-0000
+KRIS D. KLUGE, 000-00-0000
+SANDRA L. KNAUER, 000-00-0000
+*WILLIAM K. KNEBEL, 000-00-0000
+JOSEPH K. KNEBL, 000-00-0000
+BRYAN K. KNIGHT, 000-00-0000
+TRACY D. KNIGHTS, 000-00-0000
+CLARK J. KNUDSEN, 000-00-0000
+LAURA J. KOCH, 000-00-0000
+DONALD J. KOCHANSKI, 000-00-0000
+MARY M.L. KODAMA, 000-00-0000
+DONALD A. KOEHLER, 000-00-0000
+* Steven S. Koehler, 000-00-0000
+Frederick M. Koennecke, 000-00-0000
+Gus A. Kohntopp, 000-00-0000
+John M. Kok, 000-00-0000
+John T. Konopka, 000-00-0000
+Ricky M. Koon, 000-00-0000
+Stephen W. Korns, 000-00-0000
+David J. Kortyna, 000-00-0000
+Keith J. Kosan, 000-00-0000
+Edward J. Koslow, 000-00-0000
+David J. Kossler, 000-00-0000
+Edward A. Kostelnik, Jr., 000-00-0000
+Marilyn H. Kott, 000-00-0000
+Stephen R. Kowalski, 000-00-0000
+* Edward C. Kraft, III, 000-00-0000
+Scott L. Kramer, 000-00-0000
+Paul E. Krause, 000-00-0000
+Kevin L. Krebs, 000-00-0000
+Sandy J. Krigel, 000-00-0000
+David E. Kriner, 000-00-0000
+* Karl D. Kronbergs, 000-00-0000
+Robert D. Kroper, 000-00-0000
+* Michael V. Krueger, 000-00-0000
+* John Kruzinauskas, Jr., 000-00-0000
+Robert W. Kuhn, Jr., 000-00-0000
+EDWARD J. KULAS, JR., 000-00-0000
+David R. Kunselman, 000-00-0000
+Carl A. Kutsche, 000-00-0000
+David W. Kyger, 000-00-0000
+James D. Labombard, 000-00-0000
+Stuart L. Labovitz, 000-00-0000
+Franklin D. Ladson, 000-00-0000
+John S. Laing, 000-00-0000
+Larry Laird, 000-00-0000
+Alan T. Lake, 000-00-0000
+Michael E. Lally, 000-00-0000
+Craig R. Lamb, 000-00-0000
+Steven K. Lambert, 000-00-0000
+Jeffrey J. Lamers, 000-00-0000
+David G. Landfair, 000-00-0000
+Carol L. Lane, 000-00-0000
+Paula M. Lane, 000-00-0000
+Richard A. Lane, 000-00-0000
+Charles R. Langlais, 000-00-0000
+Bart W. Langland, 000-00-0000
+Mark M. Lankford, 000-00-0000
+Richard E. Lanning, 000-00-0000
+Francis J. Lapierre, Jr., 000-00-0000
+Louis E. Laporte, 000-00-0000
+Gary W. Larberg, 000-00-0000
+Dale B. Larkin, 000-00-0000
+Scott C. Larrimore, 000-00-0000
+Donald M. Larson, 000-00-0000
+RICHARD A. LARSON, 000-00-0000
+*JAMES R. LASCHE, 000-00-0000
+JOHN A. LASLEY, 000-00-0000
+J. EDWARD LASSELLE, JR., 000-00-0000
+KELLY J. LATIMER, 000-00-0000
+SHARON MARY LATOUR, 000-00-0000
+JIMMY J.S. LAU, 000-00-0000
+EDWARD J. LAVALLEE, 000-00-0000
+STEVEN A. LAVELL, 000-00-0000
+ALAN J. LAVERSON, 000-00-0000
+PHILIP J. LAWLOR, 000-00-0000
+MARGARET Z. LAWSON, 000-00-0000
+STUART P. LAY, 000-00-0000
+ANN K. LEE, 000-00-0000
+ARNOLD E.M. LEE, 000-00-0000
+EDWARD J. LEE, 000-00-0000
+EUGENE K. LEE II, 000-00-0000
+JILL H. LEE, 000-00-0000
+KEVIN A. LEE, 000-00-0000
+KEVIN L. LEEK, 000-00-0000
+ANGELES LEENEY, 000-00-0000
+SUSAN G. LEGATOWICZ, 000-00-0000
+DAVID A. LEGGE, 000-00-0000
+TIMOTHY A. LEHMANN, 000-00-0000
+CEDRIC E. LEIGHTON, 000-00-0000
+JOSEPH L. LENERTZ, 000-00-0000
+BABETTE M. LENFANT, 000-00-0000
+GREGORY J. LENGYEL, 000-00-0000
+PETER M. LENIO, 000-00-0000
+STEVEN G. LEONARD, 000-00-0000
+ANTHONY D. LEPPELLERE, 000-00-0000
+WILLIAM P. LESLIE, 000-00-0000
+ANDREW R. LESNICK, 000-00-0000
+LEE K. LEVY II, 000-00-0000
+DANIEL P. LEWANDOWSKI, 000-00-0000
+RONALD F. LEWANDOWSKI, 000-00-0000
+JAMES A. LEWIS III, 000-00-0000
+*KENNETH DEAN LEWIS, JR., 000-00-0000
+PERRY A. LEWIS, 000-00-0000
+PETER A. LEWIS, 000-00-0000
+TIMOTHY H. LEWIS, 000-00-0000
+ROBERT A. LEWIT, 000-00-0000
+SAMUEL LIBERTO, 000-00-0000
+*JEFFREY M. LIDDLE, 000-00-0000
+BROOKS R. LIESKE, 000-00-0000
+JAMES K. LIGGETT, 000-00-0000
+DARWINA M. LIGUORI, 000-00-0000
+DENNIS E. LILEIKIS, 000-00-0000
+MARK S. LILLEY, 000-00-0000
+EDWARD H. LINCH III, 000-00-0000
+MICHAEL L. LINDAUER, 000-00-0000
+*SCOTT ALAN LINDEN, 000-00-0000
+DALE S. LINDER, 000-00-0000
+william e. lindsey, 000-00-0000
+stephen t. ling, 000-00-0000
+john lipinski, 000-00-0000
+lisa m. lipscomb, 000-00-0000
+richard a. lipsey, 000-00-0000
+dennis w. lisherness, 000-00-0000
+*mark j. little, 000-00-0000
+harold c. lloyd iii, 000-00-0000
+katherine m. loch, 000-00-0000
+brian r. loehrke, 000-00-0000
+david m. loftus, 000-00-0000
+anthony m. logue, 000-00-0000
+*anthony s. lombardo, 000-00-0000
+dale j. long, 000-00-0000
+john w. long, 000-00-0000
+randy r. long, 000-00-0000
+steven r. lootens, 000-00-0000
+ivan lopez, 000-00-0000
+ronald d. lotz, 000-00-0000
+Philip e. louden, jr., 000-00-0000
+paul d. love, 000-00-0000
+james e. lovell, 000-00-0000
+tracy c. lovette, 000-00-0000
+jeffrey s. lowdermilk, 000-00-0000
+jose m. loya, jr., 000-00-0000
+brett a. loyd, 000-00-0000
+douglas e. lucas, 000-00-0000
+michael t. luft, 000-00-0000
+cynthia a. guerra luis, 000-00-0000
+randy l. lukasik, 000-00-0000
+thomas p. lukenic, 000-00-0000
+enid t. lynch, 000-00-0000
+kevin m. lynch, 000-00-0000
+john m. lyons, 000-00-0000
+robert l. macho, 000-00-0000
+nina d. mack, 000-00-0000
+craig s. mac leod, 000-00-0000
+stephen d. mac leod, 000-00-0000
+scott a. mac queen, 000-00-0000
+ronald e. mac rall, 000-00-0000
+brian j. magers, 000-00-0000
+joseph b. maguire, 000-00-0000
+blake c. mahan, 000-00-0000
+paul m. mahon, 000-00-0000
+evan v. mai, 000-00-0000
+*thomas o. major, 000-00-0000
+victor j. makela, 000-00-0000
+*mark p. makowski, 000-00-0000
+patrick c. malackowski, 000-00-0000
+cheryl l. malone, 000-00-0000
+david m. maloney, 000-00-0000
+dennis m. maloney, 000-00-0000
+victor w. mangino, 000-00-0000
+Kevin J. Manion, 000-00-0000
+Michael A. Mankus, 000-00-0000
+Raymond C. Maple, 000-00-0000
+Steve G. March, 000-00-0000
+Jeffrey N. Marcotte, 000-00-0000
+Howard K. Mardis, 000-00-0000
+Dale R. Marks, 000-00-0000
+James A. Marks, Jr., 000-00-0000
+Richard S. Marks, 000-00-0000
+*Timothy M. Marks, 000-00-0000
+Thomas G. Markwardt, 000-00-0000
+Robert E. Marmelstein, 000-00-0000
+James S. Marr, 000-00-0000
+James R. Marrs, 000-00-0000
+Ronald L. Marselle, 000-00-0000
+Patrick A. Marshall, 000-00-0000
+Sondra K. Marston, 000-00-0000
+David L. Martens, 000-00-0000
+Lawrence M. Martin, Jr., 000-00-0000
+Richard L. Martin, 000-00-0000
+Todd A. Martin, 000-00-0000
+Joe C. Martinez, 000-00-0000
+Richard A. Martinez, 000-00-0000
+Karl H. Marusak, 000-00-0000
+Ronald Peter Marx, 000-00-0000
+Peter A. Maske, 000-00-0000
+Maureen E. Massey, 000-00-0000
+Stephen G. Masters, 000-00-0000
+Michael J. Masucci, 000-00-0000
+Jose A. Mata, 000-00-0000
+Todd H. Mathes, 000-00-0000
+Mitchell J. Matheys, 000-00-0000
+Mark D. Mattison, 000-00-0000
+Kevin L. Mattoch, 000-00-0000
+Anthony C. Mattox, 000-00-0000
+Mary E. Matusiewicz, 000-00-0000
+Thomas P. Mauchly, 000-00-0000
+Gary A. Mausolf, 000-00-0000
+Elizabeth L. May, 000-00-0000
+Roger A. May, 000-00-0000
+*David E. Maynard, 000-00-0000
+*Gillous R. Mays II, 000-00-0000
+Laureli Mazik, 000-00-0000
+Christopher A. Mazur, 000-00-0000
+Lisa M. Mazur, 000-00-0000
+*David A. Mc Cabe, 000-00-0000
+Jackie L. Mc Carthy, 000-00-0000
+Douglas A. Mc Carty, 000-00-0000
+Robert A. Mc Caughan, 000-00-0000
+*Mark A. Mc Clain, 000-00-0000
+*Rick S. Mc Clain, 000-00-0000
+Patrick A. Mc Clelland, 000-00-0000
+Edward R. Mc Cleskey, 000-00-0000
+*Dana R. Mc Collum, 000-00-0000
+
+[[Page S5700]]
+
+James M.M. Mc Comas, 000-00-0000
+David C. Mc Cormick, 000-00-0000
+James B. Mc Cormick, Jr., 000-00-0000
+James A. Mc Coy, 000-00-0000
+Kimberley A. Mc Crae, 000-00-0000
+Joan Mc Cray, 000-00-0000
+Scott L. Mc Creedy, 000-00-0000
+James D. Mc Cullough, 000-00-0000
+Christopher R. Mc Daniel, 000-00-0000
+Michael A. Mc Donald, 000-00-0000
+Michael C. Mc Donald, 000-00-0000
+Kenneth B. Mc Dowell, 000-00-0000
+Michael B. Mc Entire, 000-00-0000
+Anthony W. Mc Euen, 000-00-0000
+Jeffrey J. Mc Gallaird, 000-00-0000
+Michael B. Mc Gee, Jr., 000-00-0000
+Michael L. Mc Gee, 000-00-0000
+Steven E. Mc Gibbon, 000-00-0000
+Patricia I. Mc Ginnis, 000-00-0000
+Matthew M. Mc Govern, 000-00-0000
+Eugene J. Mc Grath, 000-00-0000
+Michael J. Mc Inerney, 000-00-0000
+Paul S. Mc Intyre, 000-00-0000
+*Kenneth A. Mc Kellar, 000-00-0000
+Stephen A. Mc Kelvey, 000-00-0000
+Duncan D. Mc Kenzie, 000-00-0000
+Donald C. Mc Kercher, 000-00-0000
+Callis L. Mc Lain, 000-00-0000
+Joseph R. Mc Laughlin, 000-00-0000
+James Mc Lean, Jr., 000-00-0000
+Mark M. Mc Leod, 000-00-0000
+George L. Mc Mullin, II, 000-00-0000
+*Robert D. Mc Murry, Jr., 000-00-0000
+Louis E. Mc Namara, Jr., 000-00-0000
+Joseph W. Mc Namee, 000-00-0000
+Kenneth E. Mc Nulty, II, 000-00-0000
+Anne C. Mc Pharlin, 000-00-0000
+Timothy E. Mc Pharlin, 000-00-0000
+James L. Mc Reynolds, 000-00-0000
+Sharyn N. Mc Whorter, 000-00-0000
+Dennis F. Meadows, Jr., 000-00-0000
+James R. Meckoll, 000-00-0000
+Linda R. Medler, 000-00-0000
+Darren D. Medlin, 000-00-0000
+Marcia R. Meekseure, 000-00-0000
+James J. Meersman, 000-00-0000
+Scott A. Meier, 000-00-0000
+Theodore E. Meinhold, 000-00-0000
+Berrae N. Meixsell, Jr., 000-00-0000
+Lionel S. Mellott, 000-00-0000
+Brian S. Melton, 000-00-0000
+Kevin D. Menard, 000-00-0000
+Candido T. Mendes, 000-00-0000
+Sean R. Mercadante, 000-00-0000
+Ivan L. Merritt, 000-00-0000
+John H. Meyer III, 000-00-0000
+Kimberly A. Meyer, 000-00-0000
+Joseph F. Michell IV, 000-00-0000
+Vicki D. Michetti, 000-00-0000
+Wesley L. Middleton, 000-00-0000
+Barry S. Migyanko, 000-00-0000
+Jeffrey T. Mikesell, 000-00-0000
+Gregory A. Miller, 000-00-0000
+James R. Miller, 000-00-0000
+Joseph C. Miller, 000-00-0000
+*Lisa L. Miller, 000-00-0000
+Michael D. Miller, 000-00-0000
+Michael D. Miller, 000-00-0000
+Patrick J.S. Miller, 000-00-0000
+Richard R. Miller, 000-00-0000
+Steven L. Miller, 000-00-0000
+*Tad W. Miller, 000-00-0000
+Timothy D. Miller, 000-00-0000
+Walter T. Miller III, 000-00-0000
+William V. Miller, Jr., 000-00-0000
+Preston r. Millikan, 000-00-0000
+Matthew s. Mills, 000-00-0000
+Richard C. Mills, 000-00-0000
+Timothy I. Mills, 000-00-0000
+James W. Milroy, 000-00-0000
+Barbara d. Miner, 000-00-0000
+Charles J. Miner, 000-00-0000
+Gregory R. Minkiewicz, 000-00-0000
+Jeffrey G. Mintzlaff, 000-00-0000
+Robert Miranda, 000-00-0000
+Charles E. Mitchell, 000-00-0000
+M.J. Mitchell, 000-00-0000
+*Michael A. Mitchell, 000-00-0000
+Scott E. Mitchell, 000-00-0000
+Kenneth D. Moak, 000-00-0000
+Matthew M. Modleski, 000-00-0000
+Kennon J. Moen, 000-00-0000
+Bjorn P. Moene, 000-00-0000
+Kathryn M. Moene, 000-00-0000
+Mark H. Mol, 000-00-0000
+Matthew H. Molloy, 000-00-0000
+Christophe P. Monahan, 000-00-0000
+Keith L. Mondy, 000-00-0000
+David R. Monismith, 000-00-0000
+Michael J. Monroe, 000-00-0000
+Michele S. Monroe, 000-00-0000
+Karen J. Montanye, 000-00-0000
+John P. Montgomery, 000-00-0000
+Kent R. Montgomery, 000-00-0000
+Robert E. Montgomery, 000-00-0000
+SAM H. MONTGOMERY, JR., 000-00-0000
+MANUEL R. MONTOYA, 000-00-0000
+JAY H. MONTROSS, 000-00-0000
+*DAVID J. MOORE, 000-00-0000
+JAMES W. MOORE, 000-00-0000
+KEVIN R. MOORE, 000-00-0000
+KEVIN R. MOORE, 000-00-0000
+RICKY V. MOORE, 000-00-0000
+SCOTT A. MOORE, 000-00-0000
+VERNON L. MOORE, 000-00-0000
+*WINFRED G. MOORE, 000-00-0000
+STEVEN J. MORANI, 000-00-0000
+SUSAN N. MORELAND, 000-00-0000
+GEORGE G. MORETTI, 000-00-0000
+DAVID W. MORGAN, 000-00-0000
+JAMES A. MORGAN, 000-00-0000
+KEITH W. MORGAN, 000-00-0000
+MARYDARLENE MORGAN, 000-00-0000
+MATTHEW E. MORGAN, 000-00-0000
+MICHAEL B. MORGAN, 000-00-0000
+ROBERT K. MORING, 000-00-0000
+JOHN C. MORLEY, 000-00-0000
+PATRICK D. MORONEY, 000-00-0000
+BRETT E. MORRIS, 000-00-0000
+CHARLES R. MORRISON, 000-00-0000
+*WILLIAM J. MORROW, JR., 000-00-0000
+LLOYD K. MOSEMANN III, 000-00-0000
+BARBARA I. MOSSL, 000-00-0000
+WILLIAM H.V. MOTT, 000-00-0000
+STEPHEN K. MOULTON, 000-00-0000
+*MARIO N. MOYA, 000-00-0000
+LONNY G. MOYER, 000-00-0000
+ROBERT J. MOYNIHAN, 000-00-0000
+ANDRES E. MUKK, 000-00-0000
+MICHAEL L. MULDOON, 000-00-0000
+KEVIN M. MULVIHILL, 000-00-0000
+STEVEN E. MUNDINE, 000-00-0000
+KEVEN M. MURNANE, 000-00-0000
+ANTHONY R. MURPHY, 000-00-0000
+MARK MURPHY, 000-00-0000
+MONTE J. MURPHY, 000-00-0000
+CARLLEEN MURRAY, 000-00-0000
+JAMES E. MURRAY, 000-00-0000
+MELVIN R. MUSSER, 000-00-0000
+JEFFREY L. MUTCHMORE, 000-00-0000
+GREGORY J. MYERS, 000-00-0000
+GREGORY J. MYERS, 000-00-0000
+JOHN E. MYERS, 000-00-0000
+STUART L. MYKRANTZ, 000-00-0000
+EDWARD P. NAGLER, 000-00-0000
+DAVID A. NAGY, 000-00-0000
+MARK K. NAKANISHI, 000-00-0000
+JUAN C. NARVID, 000-00-0000
+EARL R. NASON, 000-00-0000
+MARK A. NAUMANN, 000-00-0000
+JAMES B. NAZAR, 000-00-0000
+GUY C. NEDDO, 000-00-0000
+BRIAN K. NELSON, 000-00-0000
+CLYDE A. NELSON, 000-00-0000
+ERIC T. NELSON, 000-00-0000
+JEFFREY E. NELSON, 000-00-0000
+JEFFREY S. NELSON, 000-00-0000
+KENNETH L. NELSON, 000-00-0000
+PAUL D. NELSON, 000-00-0000
+PAUL F. NELSON, 000-00-0000
+RANDALL R. NELSON, 000-00-0000
+*KURT M. NEUMAN, 000-00-0000
+SCOTT A. NEUMANN, 000-00-0000
+WILEY R. NEWBY, 000-00-0000
+HAROLD I. NEWHOUSE III, 000-00-0000
+LOREN G. NEWKIRK, 000-00-0000
+*STEPHEN A. NEWLON, 000-00-0000
+MICHAEL J. NEWMAN, 000-00-0000
+RANDALL E. NEWMAN, 000-00-0000
+DALLAS N. NEWSOME, 000-00-0000
+HARRY N. NEWTON, 000-00-0000
+HIAWATHA K. NEWTON, 000-00-0000
+TIMOTHY J. NEWTON, 000-00-0000
+HOANG X. NGUYEN, 000-00-0000
+KEITH E. NICKLES, 000-00-0000
+CRAIG K. NIIYA, 000-00-0000
+*RICHARD NITZBERG, 000-00-0000
+ROBERT J. NORDBERG II, 000-00-0000
+ALAN J. NORTHRUP, 000-00-0000
+RONALD B. NORTON, 000-00-0000
+PERRY L. NOUIS, 000-00-0000
+*JEFFREY L. NOVAK, 000-00-0000
+MICHAEL R. NOVITSKE, 000-00-0000
+WILLIAM K. NUGENT, JR., 000-00-0000
+DANIEL C. NUGTEREN, 000-00-0000
+THOMAS L. NUNAMAKER, 000-00-0000
+JEROME P. NUTTER, 000-00-0000
+CHRISTOPHER J. NUZZO, 000-00-0000
+CRAIG M. NYGAARD, 000-00-0000
+PERRY R. OAKS, 000-00-0000
+DONALD R. OBERDIECK, 000-00-0000
+THOMAS A. OBERG, 000-00-0000
+JAMES W. O'BRIEN, 000-00-0000
+JOHN L. O'BRIEN, 000-00-0000
+TIMOTHY J. O'BRIEN, 000-00-0000
+*JOHN O'CONNELL, 000-00-0000
+KEVIN W. O'DAY, 000-00-0000
+RICHARD A. ODDO, 000-00-0000
+*CHRISTOPHER J. O'DELL, 000-00-0000
+MICHAEL S. O'DOWD, 000-00-0000
+TEDDY D. OELFKE, 000-00-0000
+JAMES R. OELGOETZ, JR., 000-00-0000
+WILLIAM F. OGDEN, 000-00-0000
+MICHAEL L. OGLE, 000-00-0000
+REX E. OGLE, JR., 000-00-0000
+THOMAS R. O'HARA, 000-00-0000
+MICHAEL J. O'KEEFE, 000-00-0000
+DON I. OLDS, JR., 000-00-0000
+*JAMES K. OLSON, 000-00-0000
+WAYNE R. OLSON, 000-00-0000
+WESLEY A. OLSON, 000-00-0000
+PEDRO R. OMS, 000-00-0000
+LISA A.H. ONAGA, 000-00-0000
+MICHAEL F. O'NEAL, 000-00-0000
+*STUART K.S. O'NEILL, 000-00-0000
+*STEVE A. ORDONIA, 000-00-0000
+STEPHEN E. OREAR, 000-00-0000
+SUZANNE M. O'REILLY, 000-00-0000
+RANDALL J. ORNE, 000-00-0000
+TERRENCE J. O'SHAUGHNESSY, JR., 000-00-0000
+CHARLES E. OSTEEN, 000-00-0000
+KEVIN D. OSTEN, 000-00-0000
+KATHLEEN O'SULLIVAN, 000-00-0000
+GREGORY S. OTEY, 000-00-0000
+CHRISTOPHER W. OVERMAN, 000-00-0000
+CHARLES A. OWEN, 000-00-0000
+BONNIE L. OWENS, 000-00-0000
+DEAN P. OWENS, 000-00-0000
+JONATHAN M. OWENS, 000-00-0000
+SCOTT A. OWENS, 000-00-0000
+RANDOLPH A. PAGAN, 000-00-0000
+JOHN S. PAGANONI, 000-00-0000
+FREDERIC C. PAGE, 000-00-0000
+GERALD L. PAGE, 000-00-0000
+JILL S. PAGE, 000-00-0000
+CLIVE A. PAIGE, 000-00-0000
+*GREGG M. PALMER, 000-00-0000
+JESS D. PALMER, 000-00-0000
+JEAN PAPROCKI, JR., 000-00-0000
+EARL W. PARCHMENT, JR., 000-00-0000
+MARK J. PARISI, 000-00-0000
+CHRISTOPHER L. PARKER, 000-00-0000
+LAMAR D. PARKER, 000-00-0000
+RANDALL C. PARKER, 000-00-0000
+WAYNE A. PARKINSON, 000-00-0000
+CARL W. PARRAMORE, 000-00-0000
+TERRY W. PARROTT, 000-00-0000
+STEPHANIE A. PARSON, 000-00-0000
+JAMES B. PARSONS, 000-00-0000
+TERRY A. PARSONS, 000-00-0000
+DAVID W. PASQUINI, 000-00-0000
+WILLIAM C. PASZKIEWICZ, 000-00-0000
+JOHN E. PATCHETT, 000-00-0000
+GEOFFREY C. PATTERSON, 000-00-0000
+ERIC J. PAUL, 000-00-0000
+JOHN M. PAUL, 000-00-0000
+ROBERT A. PAULUKAITIS, 000-00-0000
+ERIC R. PAYNE, 000-00-0000
+MARK H. PAYNE, 000-00-0000
+STEPHEN D. PEARCE, 000-00-0000
+*ANDREW H. PEARS, 000-00-0000
+GERALD M. PEASLEE, 000-00-0000
+FRANK S. PECHIN III, 000-00-0000
+JANICE C. PEGRAM, 000-00-0000
+IAN R. PELLETIER, 000-00-0000
+MICHAEL E. PELLETIER, 000-00-0000
+CHRISTIAN M. PELOZA, 000-00-0000
+PETER R. PEPIN, 000-00-0000
+THOMAS PEPPARD, 000-00-0000
+JAMES A. PEPPLER, 000-00-0000
+MICHAEL H. PERALES, 000-00-0000
+HAROLD S. PERDUE, 000-00-0000
+SANDRA M. PERDUE, 000-00-0000
+STEVEN J. PERENCHIO, 000-00-0000
+CARMEN F. PERONE, JR., 000-00-0000
+MELVYN T.J. PERREIRA, 000-00-0000
+CATHERINE M. PERRO, 000-00-0000
+WANDA C. PERRY, 000-00-0000
+JAMES J. PETERSEN, 000-00-0000
+MITCHELL A. PETERSEN, 000-00-0000
+CLARK D. PETERSON, 000-00-0000
+JAMES P. PETERSON, 000-00-0000
+JEFFREY L. PETERSON, 000-00-0000
+MARY E. PETERSON, 000-00-0000
+GREGORY J. PETREQUIN, 000-00-0000
+SANDRA L. PETRIE, 000-00-0000
+MICHAEL J. PETROSH, JR., 000-00-0000
+*JAMES P. PFARR, 000-00-0000
+TIMOTHY C. PHARRIS, 000-00-0000
+HERBERT PHILLIPS, JR., 000-00-0000
+*JAMES M. PHILLIPS, 000-00-0000
+JEFFREY B. PHILLIPS, 000-00-0000
+JOHN M. PHILLIPS, 000-00-0000
+PAUL E. PHILLIPS, 000-00-0000
+JAMES A. PICKLE, 000-00-0000
+DAVID R. PIERCE, 000-00-0000
+ALEXANDER S. PILIPOWSKYJ, 000-00-0000
+ANN M. PINC, 000-00-0000
+MICHAEL A. PIPAN, 000-00-0000
+MICHAEL A. PISCITELLI, 000-00-0000
+JOHN F. PISTOLESSI, 000-00-0000
+ANDREW M. PITTMAN, 000-00-0000
+*PHILIP A. PLATT, 000-00-0000
+JOHN A. PLAZA, 000-00-0000
+BRETT A. PLENTL, 000-00-0000
+BRIAN S. PLETCHER, 000-00-0000
+MICHAEL R. PLUMMER, 000-00-0000
+richard j. poel, 000-00-0000
+james pohorence, 000-00-0000
+claude j. poitras, 000-00-0000
+robert a. poli, 000-00-0000
+deborah c. pollard, 000-00-0000
+keith r. pond, 000-00-0000
+mark s. ponti, 000-00-0000
+margaret b. poore, 000-00-0000
+michael g. popovich, 000-00-0000
+michael r. poppert, 000-00-0000
+robert b. post, 000-00-0000
+*todd m. post, 000-00-0000
+mark s. postage, 000-00-0000
+gregory l. potter, 000-00-0000
+keith d. poulin, 000-00-0000
+gary w. pounder, 000-00-0000
+kelly j. powell, 000-00-0000
+*Jerry a. prass, 000-00-0000
+*dana r. pratt, 000-00-0000
+william d. preaskorn, 000-00-0000
+melvin r. prell, 000-00-0000
+steven j. preston, 000-00-0000
+joseph j. pridotkas, 000-00-0000
+john j. privette, 000-00-0000
+john w. probst, 000-00-0000
+douglas w. proctor, 000-00-0000
+karen a. pullen, 000-00-0000
+james r. pulliam, 000-00-0000
+paul f. pulse iii, 000-00-0000
+gregory a. pyke, 000-00-0000
+paul c. quigley, 000-00-0000
+russell j. quinn, 000-00-0000
+jimmie d. rabb, 000-00-0000
+gary r. rafferty, 000-00-0000
+
+[[Page S5701]]
+
+steven g. rafferty, 000-00-0000
+patrick j. raglow, 000-00-0000
+todd d. raines, 000-00-0000
+jon v. ramer, 000-00-0000
+rose a. ramirez, 000-00-0000
+mark j. randolph, 000-00-0000
+george m. rank, 000-00-0000
+*peter m. ranon, 000-00-0000
+edward r. raudenbush, 000-00-0000
+christian p. rauschenbach, 000-00-0000
+gregory c. ray, 000-00-0000
+timothy m. ray, 000-00-0000
+david m. raymo, 000-00-0000
+peter d. read, 000-00-0000
+philip c. reamy, 000-00-0000
+reid d. reasor, 000-00-0000
+james c. reavis, 000-00-0000
+michele e. reboulet, 000-00-0000
+joseph l. rector, 000-00-0000
+GREGORY M. REDICK, 000-00-0000
+FRANK J. REDNER, JR., 000-00-0000
+BARRY L. REED, 000-00-0000
+DARREN J. REED, 000-00-0000
+HENRY M. REED III, 000-00-0000
+JAMES F. REED, 000-00-0000
+JOHN C. REED, 000-00-0000
+GLENN C. REEDY, 000-00-0000
+REX W. REES, 000-00-0000
+ROBERT M. REESE, 000-00-0000
+KURT L. REESMAN, 000-00-0000
+JOSEPH T. REEVES, 000-00-0000
+* MICHAEL W. REGAN, 000-00-0000
+MICHAEL T. REHG, 000-00-0000
+MICHAEL J. REIN, 000-00-0000
+JOHN A. REISNER, 000-00-0000
+JEFFREY S. RENNER, 000-00-0000
+BRIAN A. RENO, 000-00-0000
+DAVID A. RETH, 000-00-0000
+* ROBERT C. REVILLE, 000-00-0000
+LEONIDAS D. REYES, 000-00-0000
+BART R. RHODES, 000-00-0000
+*ALAN G. RIBA, 000-00-0000
+ROBERT B. RICARTE, 000-00-0000
+JOHN F. RICHARDS, JR, 000-00-0000
+JAMES P. RICHTER, 000-00-0000
+DOUGLAS B. RIDER, 000-00-0000
+GEORGE E. RIEBLING, 000-00-0000
+JAMES G. RIEMENSVANLAARE, 000-00-0000
+DARRELL L. RIGGS, 000-00-0000
+* KENNETH E. RIGGS, 000-00-0000
+MICHAEL T. RINALDI, 000-00-0000
+* ROBERT E. RING, JR., 000-00-0000
+JAMES P. RIORDAN, 000-00-0000
+JOHN S. RIORDAN, 000-00-0000
+KEVIN T. RIORDAN, 000-00-0000
+* GEORGE A. RISSE, 000-00-0000
+THOMAS J. RITENOUR II, 000-00-0000
+MICHAEL P. RITS, 000-00-0000
+JOHN A. RITTER, 000-00-0000
+STEPHEN B. RITTER, 000-00-0000
+OSCAR M. RIVERA, 000-00-0000
+JAMES C. RIX, 000-00-0000
+KIMBERLEE FORBESS RIX, 000-00-0000
+STEPHEN C. ROACH, 000-00-0000
+ANTHONY D. ROAKE, 000-00-0000
+RICHARD F. ROBEL, JR., 000-00-0000
+TONCIE L. ROBERSON, 000-00-0000
+JULIAN R. ROBERTS, JR., 000-00-0000
+PAUL E. ROBERTS, 000-00-0000
+ALBERT E. ROBERTSON, JR., 000-00-0000
+ERICA ROBERTSON, 000-00-0000
+RICHARD M. ROBICHAUD, 000-00-0000
+ROBBIE D. ROBINETTE, 000-00-0000
+JEFFREY K. ROBINSON, 000-00-0000
+JOHN W. ROBINSON, JR., 000-00-0000
+JOSEPH H. ROBINSON, 000-00-0000
+PHILLIP L. ROBINSON, 000-00-0000
+KEVIN E. ROBITAILLE, 000-00-0000
+PATRICK R. ROCHE, 000-00-0000
+RICHARD K. ROCKWELL, 000-00-0000
+EVAN G. ROELOFS, 000-00-0000
+EUGENE P. ROGERS, 000-00-0000
+ROBERT D. ROGERS, JR., 000-00-0000
+JAMES G. ROLLINS, 000-00-0000
+DIANE M. ROMAN, 000-00-0000
+ANTHONY ROMANO, 000-00-0000
+CRAIG W. ROMERO, 000-00-0000
+AUTUMN K. ROSS, 000-00-0000
+CECIL L. ROSS, 000-00-0000
+GEORGE H. ROSS III, 000-00-0000
+MARK A. ROSS, 000-00-0000
+JOSEPH J. ROSSACCI, 000-00-0000
+CHRISTOPHER J. ROSSI, 000-00-0000
+FRANK J. ROSSI, 000-00-0000
+TERRENCE L. ROTERING, 000-00-0000
+MICHAEL S. ROTTMAN, 000-00-0000
+LAURIE M. ROUILLARD, 000-00-0000
+GLENN G. ROUSSEAU, 000-00-0000
+JAMES A. ROUSSEAU, 000-00-0000
+KEVIN J. ROUTHIER, 000-00-0000
+RONALD C. ROUX, 000-00-0000
+RICHARD P. ROWBURREY, 000-00-0000
+AMY M. ROWE, 000-00-0000
+BRUCE C. ROWE, 000-00-0000
+JAMES L. ROWE, JR., 000-00-0000
+MICHAEL S. ROWLAND, 000-00-0000
+DAVID B. ROYAL, 000-00-0000
+ARTHUR E. ROZIER, 000-00-0000
+BLAINE O. RUDOCK, 000-00-0000
+STANLEY RUFF, 000-00-0000
+SCOTT J. RUFLIN, 000-00-0000
+RICHARD J. RUGGIERO, 000-00-0000
+MARK H. RUMPH, 000-00-0000
+*JANE E. RUSSELL, 000-00-0000
+MARC D. RUSSICK, 000-00-0000
+SCOTT C. RUTHERFORD, 000-00-0000
+JOHN A. RUTKOWSKI, 000-00-0000
+CRAIG A. RUTLAND, 000-00-0000
+KATHLEEN D. RYAN, 000-00-0000
+MARK R. RYDELL, 000-00-0000
+LINDA MAUREEN RYERSE, 000-00-0000
+SAMUEL J. SABLAN, 000-00-0000
+RAYMOND A. SABLE, 000-00-0000
+BRAD L. SABO, 000-00-0000
+JOHN M. SAGHERA, 000-00-0000
+LAURA L. SAKOS, 000-00-0000
+LORI S. SALGADO, 000-00-0000
+JEFFREY M. SALING, 000-00-0000
+CHRISTOPHER SALVUCCI, 000-00-0000
+RONALD L. SAMIC, 000-00-0000
+PAUL L. SAMPANG, 000-00-0000
+CHARLES W. SAMUEL, 000-00-0000
+DANIEL SANCHEZ, 000-00-0000
+BRIAN SANDERS, 000-00-0000
+*MICHAEL W. SANDERS, 000-00-0000
+RONALD J. SANDERS, 000-00-0000
+MICHAEL D. SANDQUIST, 000-00-0000
+JOHN P. SANTACROCE, 000-00-0000
+HENRY J. SANTICOLA, 000-00-0000
+JOSEPH F. SANTORELLI, 000-00-0000
+WALTER J. SARAFIN, 000-00-0000
+MICHAEL D. SARCHET, 000-00-0000
+STEVEN R. SARTORE, 000-00-0000
+MARC H. SASSEVILLE, 000-00-0000
+DONALD T. SAUNDERS, 000-00-0000
+JOHN D. SCARBOROUGH, 000-00-0000
+BRIAN M. SCHAAF, 000-00-0000
+DAVID N. SCHAAF, 000-00-0000
+SCOTT A. SCHAEFFLER, 000-00-0000
+KEVIN M. SCHAFER, 000-00-0000
+JEFFREY L. SCHAFF, 000-00-0000
+DIRK D. SCHALCH, 000-00-0000
+MARK G. SCHEEN, 000-00-0000
+ERVIN G. SCHEETS, JR., 000-00-0000
+GERALD A. SCHEUCHNER, 000-00-0000
+THOMAS L. SCHIANO, 000-00-0000
+GREGORY J. SCHILLER, 000-00-0000
+JOSEPH V. SCHMIDT, 000-00-0000
+PAUL G. SCHMIDT, 000-00-0000
+ERIC W. SCHNAIBLE, 000-00-0000
+STEVEN M. SCHNEIDER, 000-00-0000
+THOMAS A. SCHNEIDER, 000-00-0000
+CRAIG W. SCHNEPF, 000-00-0000
+JON S.H. SCHOENBERG, 000-00-0000
+TERRY D. SCHONERT, 000-00-0000
+THOMAS M. SCHORSCH, 000-00-0000
+MARIA L. SCHREFFLER, 000-00-0000
+MICHAEL S. SCHULENBERG, 000-00-0000
+ROBERT J. SCHULTE II, 000-00-0000
+CHARLES SCHULTZ, JR., 000-00-0000
+LISA M. SCHULZLATSIS, 000-00-0000
+MICHAEL W. SCHWARTZ, 000-00-0000
+JAMES E. SCHWENKE, 000-00-0000
+ALTON J. SCOTT, 000-00-0000
+BRYAN E. SCOTT, 000-00-0000
+CARL W. SCOTT, 000-00-0000
+JOHN P. SCOTT, 000-00-0000
+*SHANE E. SCOTT, 000-00-0000
+TOI V. SCRENCI, 000-00-0000
+*KENNETH E. SCRITCHFIELD, 000-00-0000
+THOMAS B. SCRUGGS, 000-00-0000
+DEBORAH A. SEAMAN, 000-00-0000
+KEITH A. SEAMAN, 000-00-0000
+TERRY G. SEAMAN, 000-00-0000
+BRIAN G. SEARCY, 000-00-0000
+PATRICIA K.F. SEARCY, 000-00-0000
+ANTHONY J. SEELY, 000-00-0000
+HOWARD A. SEID, 000-00-0000
+PAUL S. SEKETA, 000-00-0000
+JOHN SELLERS, 000-00-0000
+JOHN G. SELLS, 000-00-0000
+BRYAN K. SELVAAG, 000-00-0000
+JOSEPH S. SEPESSY, 000-00-0000
+DANIEL J. SETTERGREN, 000-00-0000
+*WILLIAM E. SETTLEMIRE, 000-00-0000
+THOMAS J. SEXTON, 000-00-0000
+PAUL A. SEYMOUR, 000-00-0000
+ALAN L. SHAFER, 000-00-0000
+MARTHA T. SHAFFER, 000-00-0000
+BRUCE G. SHAPIRO, 000-00-0000
+ROBERT B. SHARP, JR., 000-00-0000
+PETRA L. SHARRETT, 000-00-0000
+GARY L. SHAW, 000-00-0000
+ROBERT S.H. SHAW, 000-00-0000
+RUSSELL J. SHAW, JR., 000-00-0000
+STUART J. SHAW, 000-00-0000
+KARL J. SHAWHAN, 000-00-0000
+*DANIEL F. SHEA, 000-00-0000
+STEPHEN E. SHEA, 000-00-0000
+RICHARD L. SHELLEY, 000-00-0000
+TIMOTHY L. SHELTON, 000-00-0000
+*STEVEN C. SHEPARD, 000-00-0000
+JIMMY SHEPPARD, JR., 000-00-0000
+JOHN T. SHEPPARD, 000-00-0000
+MICHAEL A. SHIELDS, 000-00-0000
+JOSEPH T. SHINNICK, 000-00-0000
+RICHARD P. SHIPMAN, 000-00-0000
+MICHAEL D. SHIRLEY, 000-00-0000
+THOMAS P. SHOAF, 000-00-0000
+EDWARD F. SHOCK, 000-00-0000
+THOMOTHY C. SHOCKLEY, 000-00-0000
+JAMES R. SHOEMAKER, 000-00-0000
+DOUGLAS G. SHRYOCK, 000-00-0000
+DENNIS W. SHUMAKER, 000-00-0000
+SANDRA J. SHURMAN, 000-00-0000
+RODNEY S. SIBILA, 000-00-0000
+GEORGE R. SICAY, 000-00-0000
+JOSEPH P. SIDOR 000-00-0000
+ALAN C. SIERICHS, 000-00-0000
+DANIEL W. SIETMAN, 000-00-0000
+JAMES K. SIKES, 000-00-0000
+DOROTHY A. SILVANIC, 000-00-0000
+MARK A. SILVANIC, 000-00-0000
+JAY B. SILVERIA, 000-00-0000
+JESSE T. SIMMONS, JR., 000-00-0000
+JOHN C. SIMMONS, 000-00-0000
+KIRBY E. W. SIMMONS, 000-00-0000
+THOMAS A. SIMPKINSON, 000-00-0000
+*CARL R SIMPSON, 000-00-0000
+DENNIS J. SIMPSON, 000-00-0000
+JON T. SIMS, JR., 000-00-0000
+MITCHELL A. SINGER, 000-00-0000
+ROBERT W. SINGLETON, 000-00-0000
+ROBERT E. SIPPEL, 000-00-0000
+KENNETH G. SIPPERLY, JR., 000-00-0000
+*DAVID G. SIZOO, 000-00-0000
+TRACEY S. SKELTON, 000-00-0000
+JADE A. SKINNER, 000-00-0000
+PAUL J. SKOWRONEK, 000-00-0000
+DANIEL P. SKROBIALOWSKI, 000-00-0000
+MIRO SKRODZKI, 000-00-0000
+MICHAEL D. SLATER, 000-00-0000
+MICHAEL C. SLEPICA, 000-00-0000
+CHARLES E. SLOAN, 000-00-0000
+WILLIAM E. SLUTTER, 000-00-0000
+BOBBY J. SMALL, JR., 000-00-0000
+JOHN H. SMART, 000-00-0000
+TRACY A. SMIEDENDORF, 000-00-0000
+ALLAN J. SMITH, 000-00-0000
+DANIEL L. SMITH, 000-00-0000
+DAVID C. SMITH, 000-00-0000
+DAVID R. SMITH, 000-00-0000
+DOUGLAS F. SMITH, 000-00-0000
+DOYLE D. SMITH, 000-00-0000
+GEORGE M. SMITH, 000-00-0000
+JURGEN W. SMITH, 000-00-0000
+KATHLEEN A. SMITH, 000-00-0000
+KENNETH J. SMITH, 000-00-0000
+KYLE M. SMITH, 000-00-0000
+MICHAEL S. SMITH, 000-00-0000
+PAUL L. SMITH, 000-00-0000
+PENNY E. SMITH, 000-00-0000
+ROBERT A. SMITH, 000-00-0000
+SUZANNE L. SMITH, 000-00-0000
+TIMOTHY F. SMITH, 000-00-0000
+ROBERT G. SMOTHERS, 000-00-0000
+ERICK A. SNELLMAN, 000-00-0000
+BRUCE D. SNYDER, 000-00-0000
+DAVID E. SNYDER, 000-00-0000
+GREGORY D. SNYDER, 000-00-0000
+CHERYL A. SOAT, 000-00-0000
+DAVID I.S. SOBRINO, 000-00-0000
+*MELVIN P. SODERLUND, 000-00-0000
+David M. Sofet, 000-00-0000
+Christopher T. Sorrentino, 000-00-0000
+Ezra A. Sosa, 000-00-0000
+Robin G. Soule, 000-00-0000
+Bradley D. Spacy, 000-00-0000
+John M. Spain, 000-00-0000
+Jon R. Spangler, 000-00-0000
+James A. Spaulding, 000-00-0000
+Jeffrey S. Spear, 000-00-0000
+Pamela S. Spearing, 000-00-0000
+Theodore M. Spencer, 000-00-0000
+William J. Spendley, Jr., 000-00-0000
+Adam G. Spenik, 000-00-0000
+Michael J. Spitz, 000-00-0000
+Kimberly A. Sponseller, 000-00-0000
+Bruce E. Springs, 000-00-0000
+Michael C. Staley, 000-00-0000
+*Steven R. Stallings, 000-00-0000
+*William L. Stallings III, 000-00-0000
+Roger D. Stamey, 000-00-0000
+Stephen W. Starks, 000-00-0000
+Scott A. Stefanov, 000-00-0000
+*John H. Stein, 000-00-0000
+Marcy A. Steinkefike, 000-00-0000
+Dean R. Stengl, 000-00-0000
+Jon R. Stephens, 000-00-0000
+Mark T. Stephens, 000-00-0000
+David R. Stephenson, 000-00-0000
+Robert J. Stevens, 000-00-0000
+Curtiss S. Stewart, 000-00-0000
+David F. Stewart, 000-00-0000
+Michael H. Stickney, 000-00-0000
+Edward S. Stinchcomb, 000-00-0000
+Charles K. Stitt, Jr., 000-00-0000
+Kevin B. Stmary, 000-00-0000
+George R. Stoller, Jr., 000-00-0000
+Eric J. Stone, 000-00-0000
+Patrick M. Stoneham, 000-00-0000
+Jeffrey N. Stout, 000-00-0000
+Leslie Stoute, 000-00-0000
+Tyrone A. Strachan, 000-00-0000
+Peter R. Straight, 000-00-0000
+Andrew J. Strampach, 000-00-0000
+John E. Strazzo, 000-00-0000
+Gerald E. Streff, 000-00-0000
+Stephen B. Strehle, 000-00-0000
+Stuart G. Strickland, 000-00-0000
+Terry D. Striha, 000-00-0000
+Stephen L. Strom, 000-00-0000
+Jack F. Stuart II, 000-00-0000
+*Darren L. Studer, 000-00-0000
+Scott A. Sturgill, 000-00-0000
+John J. Sullivan, 000-00-0000
+DONALD H. SUMMERLIN, 000-00-0000
+PAUL A. SUMMERS, 000-00-0000
+DAVID B. SUMRELL, 000-00-0000
+JON M. SUTTERFIELD, 000-00-0000
+CHRISTOPHER D. SWADENER, 000-00-0000
+MARK L. SWARD, 000-00-0000
+RICKY E. SWARD, 000-00-0000
+JAMES A. SWEENEY III, 000-00-0000
+KEITH A. SWENSEN, 000-00-0000
+STEVEN A. SWENSON, 000-00-0000
+THOMAS J. SWIDEREK, 000-00-0000
+*SHANNON W. SWITTS, 000-00-0000
+ROBERT L. SWORTZEL, 000-00-0000
+*DAVID M. SYNDERGAARD, 000-00-0000
+MARK A. SYZDEK, 000-00-0000
+
+[[Page S5702]]
+
+WILLIAM J. SZAREK, 000-00-0000
+JAMES J. SZCZUR, 000-00-0000
+RICHARD J. TAGLAND, JR., 000-00-0000
+MICHAEL L. TALBERT, 000-00-0000
+ROBERT A. TALBOT, 000-00-0000
+MARK S. TALLEY, 000-00-0000
+PAUL A. TANGUAY, 000-00-0000
+EDWARD J. TANNER, 000-00-0000
+MICHAEL D. TANNER, 000-00-0000
+MARTIN K. TATUM, 000-00-0000
+JAMES L.D. TAYLOR, 000-00-0000
+JON M. TAYLOR, 000-00-0000
+PAUL J. TAYLOR, JR., 000-00-0000
+SAMMIE B. TAYLOR, 000-00-0000
+SCOTT T. TAYLOR, 000-00-0000
+ROGER W. TEAGUE, 000-00-0000
+MICHAEL A. TEMPLE, 000-00-0000
+THOMAS J. TENPENNY, 000-00-0000
+CHRISTOPHER I. TERRY, 000-00-0000
+JAYEVAN J. TEVIS II, 000-00-0000
+*SCOTT D. THACHER, 000-00-0000
+MARK J. THARP, 000-00-0000
+BRIAN D. THEISEN, 000-00-0000
+GREGORY L. THEODOSS, 000-00-0000
+THOMAS J. THIBODEAU, 000-00-0000
+EDWIN R. THOELE, 000-00-0000
+ANTHONY C. THOMAS, 000-00-0000
+ANTONIO L. THOMAS, 000-00-0000
+GARY C. THOMAS, 000-00-0000
+CAREY S. THOMPSON, 000-00-0000
+CHARLES F. THOMPSON, 000-00-0000
+DARRELL L. THOMPSON, 000-00-0000
+IRENE I. THOMPSON, 000-00-0000
+RALPH THOMPSON, JR., 000-00-0000
+STEVEN L. THOMPSON, 000-00-0000
+TERRACE B. THOMPSON, 000-00-0000
+WADE J. THOMPSON, 000-00-0000
+IVAN E. THORSOS III, 000-00-0000
+clifford b. thorstenson, 000-00-0000
+roger d. trasher, 000-00-0000
+keene f. tiedemann, 000-00-0000
+thomas r. tighe, 000-00-0000
+bruce a. till, 000-00-0000
+barry c. tilton, 000-00-0000
+gregory w. tindall, 000-00-0000
+timothy a. tippett, 000-00-0000
+david m. tobin, 000-00-0000
+donald l. tobin, jr., 000-00-0000
+keith e. tobin, 000-00-0000
+richard d. todd, 000-00-0000
+kenneth e. todorov, 000-00-0000
+ralph c. tolle, 000-00-0000
+robert w. tomasino, 000-00-0000
+james j. tomaszewski, 000-00-0000
+edward r. tomme, 000-00-0000
+*john e. tomtschik, 000-00-0000
+kimberly k. toney, 000-00-0000
+william l. tongue, 000-00-0000
+*david f. toomey iii, 000-00-0000
+danny j. topp, 000-00-0000
+michael l. toyne, 000-00-0000
+john w. trainor, 000-00-0000
+dorothy j. tribble, 000-00-0000
+randall c. tritt, 000-00-0000
+christopher w. trotter, 000-00-0000
+timothy g. trueheart, 000-00-0000
+*harry a. truhn, 000-00-0000
+eric p. trumble, 000-00-0000
+marc truumees, 000-00-0000
+james m. tucci, 000-00-0000
+carey f. tucker, 000-00-0000
+keith t. tucker, 000-00-0000
+steven j. turechek, 000-00-0000
+bryan d. turner, 000-00-0000
+david l. turner, 000-00-0000
+monte d. turner, 000-00-0000
+*warren w. turner, 000-00-0000
+*dennis j. tuthill, 000-00-0000
+randy b. tymofichuk, 000-00-0000
+constantine tzavaras, 000-00-0000
+michael ulisse, 000-00-0000
+kathy r. ullrich, 000-00-0000
+stephan m. urbanczyk, 000-00-0000
+eradio e. uresti, 000-00-0000
+william h. uttrich, 000-00-0000
+stephen g. uyehata, 000-00-0000
+scott r. vadnais, 000-00-0000
+christopher r. valle, 000-00-0000
+robin p. vanderberry, 000-00-0000
+scott a. vanderhamm, 000-00-0000
+JANET C. VANDERLEY, 000-00-0000
+*DEBORAH L. VANDEVEN, 000-00-0000
+PHILIP M. VANEAU, 000-00-0000
+GLENN E. VANKNOWE, 000-00-0000
+SCOTT M. VANNESS, 000-00-0000
+KENNETH J. VANRAVENSWAAY, 000-00-0000
+BRUCE M. VANZUIDEN, 000-00-0000
+JOHNNY B. VARNEDORE, 000-00-0000
+WILLIAM J. VAUGHT, JR., 000-00-0000
+JANET L. VEESART, 000-00-0000
+JOSEPH A. VENEZIANO, 000-00-0000
+JEFFREY J. VERDONE, 000-00-0000
+DAVID G. VERRETT, 000-00-0000
+EDUARDO L. VICENCIO, 000-00-0000
+JAMES G. VICK, 000-00-0000
+TODD T. VIKAN, 000-00-0000
+ANDREW T. VINCENT, 000-00-0000
+ANGELA M. VINCENT, 000-00-0000
+STEPHEN MICHAEL VINICA, 000-00-0000
+RONNIE L. VINSON, 000-00-0000
+STEPHEN M. VISEL, 000-00-0000
+JEAN N. VITE, 000-00-0000
+JOHN B. VITTRUP, 000-00-0000
+SCOTT R. VOSKOVITCH, 000-00-0000
+*HAI C. VU, 000-00-0000
+MICHAEL C. WADDEL, 000-00-0000
+BARRY M. WADDELL, 000-00-0000
+JERRY T. WAGNER, JR., 000-00-0000
+*FRANKLIN S. WALDEN, 000-00-0000
+PHILIP E. WALGREN, 000-00-0000
+GORDON J. WALKER, 000-00-0000
+JAMES C. WALKER, 000-00-0000
+ROBERT H. WALKER, 000-00-0000
+ROBERT M. WALKER, 000-00-0000
+ROBERT M. WALKER, 000-00-0000
+GERALD B. WALKINGTON, 000-00-0000
+DION R. WALL, 000-00-0000
+KEVIN J. WALLACE, 000-00-0000
+NANCY R. WALLACE, 000-00-0000
+JAMES E. WALTRIP, 000-00-0000
+JON D. WALZ, 000-00-0000
+CHRISTOPHER A. WARACK, 000-00-0000
+BRIAN K. WARD, 000-00-0000
+CHARLES H. WARD, JR., 000-00-0000
+MICHAEL P. WARD, 000-00-0000
+PHILIP N. WARD, 000-00-0000
+RAYMOND C. WARD, 000-00-0000
+*THOMAS B. WARD, 000-00-0000
+WARREN G. WARD, 000-00-0000
+RALPH D. WARDROUP, 000-00-0000
+RICHARD E. WARREN, 000-00-0000
+JAY J. WARWICK, 000-00-0000
+ROBERT A. WASHBURN II, 000-00-0000
+Joyce D. Washington, 000-00-0000
+Robert A. Wasserman, 000-00-0000
+Donald P. Waters, 000-00-0000
+Harold E. Waters, Jr., 000-00-0000
+Barbara K. Watkins, 000-00-0000
+Roger H. Watkins, 000-00-0000
+Terry Watkins, 000-00-0000
+Gregory C. Watson, 000-00-0000
+William G. Watson, 000-00-0000
+Charles F. Watterson, 000-00-0000
+William A. Waugaman, 000-00-0000
+Dale E. Weaver, 000-00-0000
+Kenneth M. Weaver, 000-00-0000
+Paul a. Webb, 000-00-0000
+Janine T. Weber, 000-00-0000
+Raymond W. Weeth, 000-00-0000
+Christopher P. Weggeman, 000-00-0000
+Gregory T. Wehking, 000-00-0000
+Joseph A. Weinberger, Jr., 000-00-0000
+Gordon A. Weiss, 000-00-0000
+Jerry K. Weldon II, 000-00-0000
+Douglas E. Wells, 000-00-0000
+Michael D. Wells, 000-00-0000
+James A. Wentworth, 000-00-0000
+Jay M. Wentzell, 000-00-0000
+Joseph D. Wercinski, 000-00-0000
+William J. Wertley, 000-00-0000
+Joel S. Westa, 000-00-0000
+Peter E. Westendorff, 000-00-0000
+Philip V. Westerfield, 000-00-0000
+Mark W. Westergren, 000-00-0000
+Barbara J. Wheaton, 000-00-0000
+Matthew T. Whelan, 000-00-0000
+Peter A. Whelan, 000-00-0000
+John W. Whisenhunt, 000-00-0000
+Douglas A. White, 000-00-0000
+Douglas D. White, 000-00-0000
+Douglas R. White, 000-00-0000
+Douglas W. White II, 000-00-0000
+Oveta M. White, 000-00-0000
+Steven C. White, 000-00-0000
+Keith G. Whyte, 000-00-0000
+Michael a. Widhammer, 000-00-0000
+Scott G. Wierschke, 000-00-0000
+*Timothy M. Wiesmann, 000-00-0000
+George J. Wiggins, Jr., 000-00-0000
+Stephen D. Wilbur, 000-00-0000
+*Jimmy D. Wiley, 000-00-0000
+*David A. Wilkins, 000-00-0000
+*Eric W. Wilks, 000-00-0000
+Albert H. Williams, Jr., 000-00-0000
+David W. Williams, 000-00-0000
+Edward M. Williams, 000-00-0000
+FRANK Q. WILLIAMS, 000-00-0000
+JAMES B. WILLIAMS, 000-00-0000
+JEAN C.M. WILLIAMS, 000-00-0000
+JOSEPH S. WILLIAMS, 000-00-0000
+RICHARD K. WILLIAMS, 000-00-0000
+*ROGER E. WILLIAMS, JR., 000-00-0000
+SALLY D. WILLIAMS, 000-00-0000
+TIMOTHY J. WILLIAMS, 000-00-0000
+TODD A. WILLIAMS, 000-00-0000
+DAVID L. WILLIAMSEN, 000-00-0000
+ROBERT D. WILLIAMSON, 000-00-0000
+MARY A. WILLMON, 000-00-0000
+BURKE E. WILSON, 000-00-0000
+HENRY T. WILSON, 000-00-0000
+JOHNNY T. WILSON, 000-00-0000
+MICHAEL R. WILSON, 000-00-0000
+PATRICK A. WILSON, 000-00-0000
+SCOTT A. WILSON, 000-00-0000
+CARY B. WINDLER, 000-00-0000
+STEVEN P. WINKLMANN, 000-00-0000
+MARK G. WINTON, 000-00-0000
+MICHAEL E. WISMER, 000-00-0000
+JEFFREY A. WITKO, 000-00-0000
+ROBERT J. WITTMANN, 000-00-0000
+ELIZABETH A. WOISH, 000-00-0000
+GARY M. WOLBERT, 000-00-0000
+MICHAEL K. WOLF, 000-00-0000
+DALLAS A. WOLFE, 000-00-0000
+DEAN A. WOLFORD, 000-00-0000
+JEFFREY R. WOOD, 000-00-0000
+*JOHN C. WOOD, 000-00-0000
+JOHNNY L. WOOD, 000-00-0000
+WILLIAM D. WOOD, 000-00-0000
+THOMAS D. WOODEN, 000-00-0000
+ROBERT R. WOODLEY, 000-00-0000
+LOUANN J. WOODS, 000-00-0000
+*EDWIN R. WOODWARD, 000-00-0000
+TYRONE M. WOODYARD, 000-00-0000
+DANIEL B. WOOLDRIDGE, 000-00-0000
+RICHARD A. WOOLEY, 000-00-0000
+KEVIN B. WOOTON, 000-00-0000
+*GUY T. WORTHINGTON, 000-00-0000
+STANLEY S. WORTHINGTON, 000-00-0000
+LORI A. WORTMAN, 000-00-0000
+BROOKS D. WRIGHT, 000-00-0000
+JOHN D. WRIGHT, 000-00-0000
+RICHARD N. WRIGHT, 000-00-0000
+VICTORIA L. WUCHNICK, 000-00-0000
+ERIC J. WYDRA, 000-00-0000
+ROBERT T. WYNN, 000-00-0000
+THOMAS B. WYNN, 000-00-0000
+*LAINE R. WYRICK, 000-00-0000
+KAREN A. YACKIEL, 000-00-0000
+*DAVID L. YANG, 000-00-0000
+EDWARD K. YANKSON, 000-00-0000
+KENNETH L. YAPHE, 000-00-0000
+KIMBERLY L. YODER, 000-00-0000
+DARRELL E. YOST, 000-00-0000
+DOUGLAS E. YOUNG, 000-00-0000
+MARK R. YOUNG, 000-00-0000
+SAMUEL D. YOUNG, 000-00-0000
+MICHAEL V. YUILL, 000-00-0000
+*RONALD YURCHISHIN, 000-00-0000
+PAUL J. ZABBO, 000-00-0000
+DANIEL R. ZAHIRNIAK, 000-00-0000
+ROBERT J. ZALESKE, 000-00-0000
+ANDREW ZAPRZALA, 000-00-0000
+*JOHN L. ZAWASKY, 000-00-0000
+MICHAEL K. ZECH, 000-00-0000
+EDWARD C. ZICK, 000-00-0000
+JOHN J. ZIEGLER, III 000-00-0000
+DONALD M. ZIMMERMAN, 000-00-0000
+GARY R. ZIMMERMAN, 000-00-0000
+DANIEL C. ZOOK, 000-00-0000
+KIMBERLEE B. ZORICH, 000-00-0000
+LOUIS V. ZUCCARELLO, 000-00-0000
+THOMAS M. ZUCCARO, 000-00-0000
+
+       I nominate the following-named officers for promotion in 
+     the United States Air Force, under the appropriate provisions 
+     of section 624, title 10, U.S.C., as amended, with dates of 
+     rank to be determined by the Secretary of the Air Force, and 
+     those officers identified by an asterisk for appointment in 
+     the Regular Air Force under the provisions of section 531, 
+     title 10, U.S.C., with a view to designation under the 
+     provisions of section 8067, title 10, U.S.C., to perform 
+     duties indicated provided that in no case shall the following 
+     officers be appointed in a grade higher than indicated.
+
+
+                              nurse corps
+
+                              To be major
+
+MICHELLE D. ADAMS, 000-00-0000
+*JUSTINIANO J. ALBINO, 000-00-0000
+BRIAN D. ANDERSON, 000-00-0000
+LORENE R. ANDERSON, 000-00-0000
+TAMY D. ARCHAMBAULT, 000-00-0000
+ERICA J. AUERBACH, 000-00-0000
+WILHELMA J. BADGER, 000-00-0000
+MICHAEL E. BAGWELL, 000-00-0000
+KEVIN D. BALLARD, 000-00-0000
+ELLEN W. BARGER, 000-00-0000
+denise m. barlow, 000-00-0000
+jill e. barnes, 000-00-0000
+lisa k. barnett, 000-00-0000
+debra l. benson, 000-00-0000
+lista m. benson, 000-00-0000
+thomas m. bergmann, 000-00-0000
+jeffrey p. blise, 000-00-0000
+joyce k. borgfeld, 000-00-0000
+gloria s. bowden, 000-00-0000
+judithalison k. broeking, 000-00-0000
+valerie a. brooks, 000-00-0000
+mark j. brown, 000-00-0000
+patricia a. brown, 000-00-0000
+darlene r. brunner, 000-00-0000
+*Marla d. buckles, 000-00-0000
+ralph t. buddemeyer jr., 000-00-0000
+susan j. burnett, 000-00-0000
+elaina l. campbell, 000-00-0000
+erin p. carlisle, 000-00-0000
+colleen a. carmody, 000-00-0000
+ward r. cassels, 000-00-0000
+teresa g. chaney, 000-00-0000
+debbie j. cobb, 000-00-0000
+*Raymond d. coddington, 000-00-0000
+stephanie a. condron, 000-00-0000
+roger l. cox, 000-00-0000
+janet m. creelman, 000-00-0000
+carolyn a. cummings, 000-00-0000
+*Larry r. curtis, 000-00-0000
+gretchen a. cusack, 000-00-0000
+judith m. daly, 000-00-0000
+*Georgine dankberg, 000-00-0000
+jo a. danowski, 000-00-0000
+dean f. degner, 000-00-0000
+mary c. delucia, 000-00-0000
+tracy a. dewoody, 000-00-0000
+*Diane l. deyak, 000-00-0000
+dorothy e. dizmang, 000-00-0000
+edna e. domino, 000-00-0000
+kathry l. doty, 000-00-0000
+leslie k. droege, 000-00-0000
+marvin e. early, 000-00-0000
+richard h. eaves, 000-00-0000
+deborah l. echanis, 000-00-0000
+janet l. egan, 000-00-0000
+ardythe k. ellison, 000-00-0000
+christine r. elmendorf, 000-00-0000
+robert e. emerson, 000-00-0000
+harriett erickson, 000-00-0000
+glenn r. ermer, 000-00-0000
+
+[[Page S5703]]
+
+*Philip f. ernst iv, 000-00-0000
+jose a. estela, jr., 000-00-0000
+paula m. evans, 000-00-0000
+*THOMAS J. EVANS, 000-00-0000
+*BETH A. EWING, 000-00-0000
+JOHN R. EWING, 000-00-0000
+MATTHEW A. FAGERT, 000-00-0000
+CYNTHIA L. FERGUSON, 000-00-0000
+DEBORAH K. FLAGG, 000-00-0000
+JEANETTE A. FORTUNA, 000-00-0000
+JAIME B. GAPASIN, 000-00-0000
+RENE GARCIA, 000-00-0000
+GARY J. GARDNER, 000-00-0000
+LINDA S. GHANEM, 000-00-0000
+TOMMI L. GILL, 000-00-0000
+*KIMBERLY D. GLENN, 000-00-0000
+MICHELLE E. GOLDING, 000-00-0000
+JORGE L. GOMEZDIAZ, 000-00-0000
+MARC, J. GRENIER, 000-00-0000
+SHIRLEY D. GUILLORY, 000-00-0000
+PATRICIA M. GUNTER, 000-00-0000
+SCOTT W. GUTHLAND, 000-00-0000
+EVELYN M. GWYNNBROWN, 000-00-0000
+LAURIE A. HALL, 000-00-0000
+BRIDGET B. HARRELL, 000-00-0000
+VIVIAN C. HARRIS, 000-00-0000
+SUSAN L. HEGLAR, 000-00-0000
+*DONNA M. HEITER, 000-00-0000
+JANE C. HENDRICKS, 000-00-0000
+MARY M. HIGGINS, 000-00-0000
+CYNTHIA K. HILSHER, 000-00-0000
+CHARLES W. HOAG, JR., 000-00-0000
+MARK S. HOLLAND, 000-00-0000
+ROBIN E. HUNT, 000-00-0000
+ELLIS R. JACKSON, 000-00-0000
+MARY T. JACO, 000-00-0000
+CARLEIGH JEANNE JACOBS, 000-00-0000
+MARILYN H. JIGGITTS, 000-00-0000
+DIANA E. JOHNS, 000-00-0000
+CHARLES M. JOHNSON, 000-00-0000
+CAROL A. KHATER, 000-00-0000
+KAREN M. KINNE, 000-00-0000
+LYLE L. KINNEY, 000-00-0000
+JEFFREY J. KNIGHT, 000-00-0000
+MAUREEN A. KOCH, 000-00-0000
+*BARBARA L. KUHN, 000-00-0000
+MOLLY J. KUSIK, 000-00-0000
+BRIDGET L. LAREW, 000-00-0000
+BETH S. LECKEY, 000-00-0000
+RICHARD LEDESMA, 000-00-0000
+MARYBETH S. LENZ, 000-00-0000
+CHRISTINE A. LIDDLE, 000-00-0000
+BARBARA J. LIPPARD, 000-00-0000
+NANCY J. MAGNUSSON, 000-00-0000
+MELINDA S. MANDRILLO, 000-00-0000
+KIRK MARTIN, 000-00-0000
+MARIATHERESA G. MARTINEZ, 000-00-0000
+BARBARA M. MASON, 000-00-0000
+CATHERINE F. MATTIE, 000-00-0000
+STEPHEN J. MAZER, 000-00-0000
+EUGENE A. MC ADOO, 000-00-0000
+*KELLEY A. MC CARTHY, 000-00-0000
+CAROL L. MC CASKILL, 000-00-0000
+*VIVIAN P. MC CORMICK, 000-00-0000
+IRMA L. MC NAMEE, 000-00-0000
+RICHARD T. MELCHIOR, 000-00-0000
+VICKI LYNN MEYSENBURG, 000-00-0000
+DEBORAH K. MILANO, 000-00-0000
+DONNA L. MILLER, 000-00-0000
+PATRICIA M. MILLER, 000-00-0000
+VIVIAN B. MILLS, 000-00-0000
+*GUY H. MONSON, 000-00-0000
+SUSAN D. MORGAN, 000-00-0000
+CAREY A.C. MORRILL, 000-00-0000
+BEATRIX L. MOTE, 000-00-0000
+LINDA C. MOZER, 000-00-0000
+IVONNE Q. MUEHLENWEG, 000-00-0000
+CAROLE M. MURRAY, 000-00-0000
+JOHN Z. NAGY, 000-00-0000
+VALERIE R. NELSON, 000-00-0000
+*ALVIN J. NEWCOMER, 000-00-0000
+BARBARA R. NITZ, 000-00-0000
+WILLIAM R. OSBORNE, 000-00-0000
+ANN L. PALENSHUS, 000-00-0000
+ELLEN U. PALMER, 000-00-0000
+MICHAEL A. PAPIO, 000-00-0000
+VALERIE S. PARKER, 000-00-0000
+CAROLINE C. PARMANN, 000-00-0000
+PHILLIP E. PARR, 000-00-0000
+GARY E. PARSONS, 000-00-0000
+BARBARA A. PATRICK, 000-00-0000
+DINAH L. PINNEY, 000-00-0000
+LORENDA A. POISSANTSALLING, 000-00-0000
+ANN K. POLHLOPEK, 000-00-0000
+IU DOK PREMOE, 000-00-0000
+PATRICIA J. PRENTICEAUSTIN, 000-00-0000
+MARK G. PRESCOTT, 000-00-0000
+PHILLIP M. PRIDDY, 000-00-0000
+LISA M.A. RANDALL, 000-00-0000
+NIMA D. REAVIS, 000-00-0000
+CHERYL A. REILLY, 000-00-0000
+KATHERINE J. REINECKE, 000-00-0000
+THOMAS A. RENTER, 000-00-0000
+CATHERINE A. RICE, 000-00-0000
+LORI A. RILEY, 000-00-0000
+*RICKY E. ROBERTS, 000-00-0000
+MARY E. ROBINSON, 000-00-0000
+*ROBERT RODRIGUEZ, 000-00-0000
+THOMAS F. ROSHETKO, 000-00-0000
+MARJORIE L. RUCHHOEFT, 000-00-0000
+PATRICIA A. RUTTER, 000-00-0000
+WILLIAM M. SANBORN, 000-00-0000
+SHERRY J. SASSER, 000-00-0000
+*DAVID T. SAYLE, 000-00-0000
+ELSIE M. SCHASZBERGER, 000-00-0000
+*REBECCA SCHLICK, 000-00-0000
+DENISE R. SCHRADER, 000-00-0000
+SHARON A. SIMMONS, 000-00-0000
+PATRICIA A. SKELTON, 000-00-0000
+BEVERLY J. SMITH, 000-00-0000
+DELAINE R. SMITH, 000-00-0000
+PATRICIA A. SMITH, 000-00-0000
+STEPHANIE D. SMITH, 000-00-0000
+ALISON L. SOLBERG, 000-00-0000
+PATRICK G. SPENCER, 000-00-0000
+ROBIN E. SQUELLATI, 000-00-0000
+LOIS J. STAUFFER, 000-00-0000
+REBECCA L. STECKEL, 000-00-0000
+*ELIZABETH A. STONE, 000-00-0000
+BRENDA J. STRAND, 000-00-0000
+HEIDI M. SUMMERS, 000-00-0000
+CECELIA W. SUTTON, 000-00-0000
+WILLETTE E. SWANN, 000-00-0000
+JOHNNY L. SWINDLE, 000-00-0000
+DEBORAH A. TARLETON, 000-00-0000
+CLINTON A. THIEL, 000-00-0000
+FRED D. THOMPSON, 000-00-0000
+SANDRA C. TYNES, 000-00-0000
+ROWENA M. VALENCIA, 000-00-0000
+CHARLES R. VARNER, 000-00-0000
+PEDRO M. VILLAMIN II, 000-00-0000
+DENNIS R. VILORIA, 000-00-0000
+DOROTHY A. VINCENT, 000-00-0000
+RICK L. WADE, 000-00-0000
+JANICE D. WALLACE, 000-00-0000
+JUDY L. WARD, 000-00-0000
+ROSEANNE C. WARNER, 000-00-0000
+WENDY J. WARNER, 000-00-0000
+DAVID M. WEISS, 000-00-0000
+ELEANOR T. WEST, 000-00-0000
+MARIAN A. WHITE, 000-00-0000
+THOMAS E. WILLIAMS, 000-00-0000
+MARY A. WILLIAMSGRANT, 000-00-0000
+CATHY S. WINTERBOTHAM, 000-00-0000
+DIANE B. WOJCIESZAK, 000-00-0000
+PAULINE L. WRUBEL, 000-00-0000
+KERRI L. WYBLE, 000-00-0000
+JONI E. YOUNG, 000-00-0000
+
+```
