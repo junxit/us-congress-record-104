@@ -1,0 +1,441 @@
+---
+granule: CREC-1996-07-11-pt1-PgH7374-3
+date: 1996-07-11
+edition: CREC
+section: HOUSE
+page: H7374
+citation: 142 Cong. Rec. H7374
+---
+
+# TABLE SHOWING AMOUNTS IN H.R. 3755, DEPARTMENT OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 1997, AS PASSED BY THE HOUSE
+
+**Speaking:** Porter, John Edward (P000444) [R-IL], Canady, Charles T. (C000107) [R-FL]
+
+**Measures:** H.R. 2428, H.R. 3755
+
+```
+  TABLE SHOWING AMOUNTS IN H.R. 3755, DEPARTMENT OF LABOR, HEALTH AND 
+HUMAN SERVICES, AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 
+                      1997, AS PASSED BY THE HOUSE
+
+  Mr. PORTER. Mr. Speaker, I ask unanimous consent to submit a table 
+showing the amounts included in the bill, as passed.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Illinois?
+  There was no objection.
+  The table referred to is as follows:
+
+[[Page H7375]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.000
+
+
+
+[[Page H7376]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.001
+
+
+
+[[Page H7377]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.002
+
+
+
+[[Page H7378]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.003
+
+
+
+[[Page H7379]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.004
+
+
+
+[[Page H7380]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.005
+
+
+
+[[Page H7381]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.006
+
+
+
+[[Page H7382]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.007
+
+
+
+[[Page H7383]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.008
+
+
+
+[[Page H7384]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.009
+
+
+
+[[Page H7385]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.010
+
+
+
+[[Page H7386]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.011
+
+
+
+[[Page H7387]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.012
+
+
+
+[[Page H7388]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.013
+
+
+
+[[Page H7389]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.014
+
+
+
+[[Page H7390]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.015
+
+
+
+[[Page H7391]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.016
+
+
+
+[[Page H7392]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.017
+
+
+
+[[Page H7393]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.018
+
+
+
+[[Page H7394]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.019
+
+
+
+[[Page H7395]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.020
+
+
+
+[[Page H7396]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.021
+
+
+
+[[Page H7397]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.022
+
+
+
+[[Page H7398]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.023
+
+
+
+[[Page H7399]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.024
+
+
+
+[[Page H7400]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.025
+
+
+
+[[Page H7401]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.026
+
+
+
+[[Page H7402]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.027
+
+
+
+[[Page H7403]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.028
+
+
+
+[[Page H7404]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.029
+
+
+
+[[Page H7405]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.030
+
+
+
+[[Page H7406]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.031
+
+
+
+[[Page H7407]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.032
+
+
+
+[[Page H7408]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.033
+
+
+
+[[Page H7409]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.034
+
+
+
+[[Page H7410]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.035
+
+
+
+[[Page H7411]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.036
+
+
+
+[[Page H7412]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.037
+
+
+
+[[Page H7413]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.038
+
+
+
+[[Page H7414]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.039
+
+
+
+[[Page H7415]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.040
+
+
+
+[[Page H7416]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.041
+
+
+
+[[Page H7417]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.042
+
+
+
+[[Page H7418]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.043
+
+
+
+[[Page H7419]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.044
+
+
+
+[[Page H7420]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.045
+
+
+
+[[Page H7421]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.046
+
+
+
+[[Page H7422]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.047
+
+
+
+[[Page H7423]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.048
+
+
+
+[[Page H7424]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.049
+
+
+
+[[Page H7425]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.050
+
+
+
+[[Page H7426]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.051
+
+
+
+[[Page H7427]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.052
+
+
+
+[[Page H7428]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.053
+
+
+
+[[Page H7429]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.054
+
+
+
+[[Page H7430]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.055
+
+
+
+[[Page H7431]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.056
+
+
+
+[[Page H7432]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.057
+
+
+
+[[Page H7433]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.058
+
+
+
+[[Page H7434]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.059
+
+
+
+[[Page H7435]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.060
+
+
+
+[[Page H7436]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.061
+
+
+
+[[Page H7437]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.062
+
+
+
+[[Page H7438]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.063
+
+
+
+[[Page H7439]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.064
+
+
+
+[[Page H7440]]
+
+[GRAPHIC] [TIFF OMITTED] TH11JY96.065
+
+
+
+[[Page H7441]]
+
+
+
+ PERMISSION TO CONSIDER ON FRIDAY, JULY 12, 1996, H.R. 2428, FOOD AND 
+          GROCERY DONATION ACT, UNDER SUSPENSION OF THE RULES
+
+  Mr. CANADY of Florida. Mr. Speaker, I ask unanimous consent that on 
+Friday, July 12, 1996, the Speaker be authorized to entertain a motion, 
+offered by the gentleman from Pennsylvania, Mr. Goodling, or his 
+designee, to suspend the rules and pass H.R. 2428 as amended, a bill to 
+encourage the donation of food and grocery products.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Florida?
+  There was no objection.
+
+                          ____________________
+```
