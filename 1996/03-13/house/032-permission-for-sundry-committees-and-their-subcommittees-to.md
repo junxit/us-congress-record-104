@@ -1,0 +1,33 @@
+---
+granule: CREC-1996-03-13-pt1-PgH2129-4
+date: 1996-03-13
+edition: CREC
+section: HOUSE
+page: H2129
+citation: 142 Cong. Rec. H2129
+---
+
+# PERMISSION FOR SUNDRY COMMITTEES AND THEIR SUBCOMMITTEES TO SIT TODAY DURING THE 5-MINUTE RULE
+
+**Speaking:** Pryce, Deborah (P000555) [R-OH]
+
+```
+                              {time}  1130
+ PERMISSION FOR SUNDRY COMMITTEES AND THEIR SUBCOMMITTEES TO SIT TODAY 
+                        DURING THE 5-MINUTE RULE
+
+  Ms. PRYCE. Mr. Speaker, I ask unanimous consent that the following 
+committees and their subcommittees be permitted to sit today while the 
+House is meeting in the Committee on the Whole House under the 5-minute 
+rule: Committee on Banking and Financial Services; Committee on 
+Commerce; Committee on Government Reform and Oversight; Committee on 
+International Relations; Committee on National Security; Committee on 
+Resources; and Committee on Transportation and Infrastructure.
+  It is my understanding that the minority has been consulted and that 
+there is no objection to these requests.
+  The SPEAKER pro tempore (Mr. Everett). Is there objection to the 
+request of the gentlewoman from Ohio?
+  There was no objection.
+
+                          ____________________
+```
