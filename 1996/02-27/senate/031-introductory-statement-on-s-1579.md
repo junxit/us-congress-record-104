@@ -1,0 +1,831 @@
+---
+granule: CREC-1996-02-27-pt1-PgS1362
+date: 1996-02-27
+edition: CREC
+section: SENATE
+page: S1362
+citation: 142 Cong. Rec. S1362
+---
+
+# Introductory Statement on S. 1579
+
+**Speaking:** Glenn, John H., Jr. (G000236) [D-OH]
+
+**Measures:** S. 1579
+
+```
+      By Mr. GLENN (for himself, Mr. Stevens, Mr. Levin, Mr. Cochran, 
+        Mr. Pryor, Mr. Cohen, Mr. Lieberman, and Mr. Brown):
+  S. 1579. A bill to streamline and improve the effectiveness of 
+chapter 75 of title 31, United States Code (commonly referred to as the 
+``Single Audit Act``); to the Committee on Governmental Affairs.
+
+
+                the single audit act amendments of 1996
+
+  Mr. GLENN. Mr. President, today, I am introducing legislation to 
+amend the Single Audit Act of 1984. This legislation will both improve 
+financial management of Federal funds and reduce paperwork burdens on 
+State and local governments, universities and other nonprofit 
+organizations that receive Federal assistance. I am happy that the 
+chairman of the Governmental Affairs Committee, Senator Stevens, joins 
+with me in cosponsoring the bill, as do Senators Levin, Cochran, Pryor, 
+Cohen, Lieberman, and Brown, all fellow members of the Governmental 
+Affairs Committee.
+  Over the last several years we have made great strides in reforming 
+the sloppy and wasteful state of Federal financial management. The 
+Chief Financial Officers Act of 1990, which I strongly support, was a 
+major accomplishment in this regard. Much more remains to be done, 
+however, to achieve greater accountability for the hundreds of billions 
+of dollars of Federal assistance that go to or through State and local 
+governments and nonprofit organizations. Much more also remains to be 
+done to reduce the auditing and reporting burdens of the Federal 
+assistance management process. The Single Audit Act Amendments of 1996, 
+which I introduce today, goes a long way toward achieving these goals.
+  The Single Audit Act was enacted in 1984 to overcome serious gaps and 
+duplications that existed in audit coverage over Federal funds provided 
+to State and local governments, which now amount to about $200 billion 
+a year. Some governments rarely saw an auditor interested in examining 
+Federal funds, others were swamped by auditors, each looking at a 
+separate grant award. The Single Audit Act remedied that problem by 
+changing the audit focus from compliance with individual Federal grant 
+requirements to a periodic single overall audit of the entity receiving 
+Federal assistance. The act also set specific dollar thresholds to 
+exempt small grant recipients from regular audit requirements. This 
+structured approach of entity-wide audits simplified overlapping audit 
+requirements and improved grantee-organization administrative controls.
+  The Single Audit Act also served an important purpose of prompting 
+State and local governments to improve their general financial 
+management practices. The act encouraged the governments to review and 
+revise their financial management practices, including instituting 
+annual financial statement audits, installing new accounting systems, 
+and implementing monitoring systems. The improvements represented long-
+needed and long-lasting 
+
+[[Page S1363]]
+financial management reforms. Studies by the General Accounting Office 
+[GAO] confirmed these accomplishments. The success of the act also 
+prompted the Office of Management and Budget [OMB] to apply single 
+audit principles to educational institutions and other nonprofits that 
+receive or passthrough Federal funds (OMB Circular No. A-133, ``Audits 
+of Institutions of Higher Education and Other Nonprofit 
+Organizations,'' March 1990).
+  During my tenure as chairman of the Governmental Affairs Committee, I 
+requested that GAO study the implementation of the Single Audit Act and 
+suggest any needed changes. The resulting report, Single Audit: 
+Refinements Can Improve Usefulness (GAO/AIMD-94-133, June 1994), 
+reviewed the successes of the act, but also pointed out specific 
+modifications that could improve the act's usefulness. The legislation 
+I introduce today is based on GAO's findings, and in fact, was 
+developed in cooperation with GAO and OMB. Moreover, OMB is presently 
+revising its Circular A-133 consistent with the purposes of this 
+legislation. Finally, the bill also reflects comments received from 
+State, local and private sector accounting, and audit professionals, as 
+well as program managers. Altogether, the legislation will strengthen 
+the act, while simultaneously reducing its burdens.
+  First, the legislation extends the act to cover nonprofit entities 
+that receive Federal assistance. Again, these organizations are 
+currently subject to the single audit process under OMB Circular A-133. 
+Broadening the act's coverage in this way ensures that all nonFederal 
+grantee organizations will be covered uniformly by a single audit 
+process.
+  Second, the bill reduces audit and related paperwork burdens by 
+raising the single audit threshold from $100,000 to $300,000. This 
+would exempt thousands of smaller State and local governments and 
+nonprofits from Federal single audit requirements. It would still 
+ensure, however, that the vast majority of Federal funds would be 
+subject to audit testing. Needless to say, it would also not interfere 
+with the ability of Federal agencies to audit or investigate grantees 
+when needed to safeguard Federal funds.
+  Third, the bill would improve audit effectiveness by establishing a 
+risk-based approach for selecting programs to be tested during single 
+audits for adequacy of internal controls and compliance with Federal 
+program requirements, such as eligibility rules. The Single Audit Act 
+has required audit testing solely on the basis of dollar criteria. 
+Using the risk-based approach will ensure coverage of large programs, 
+as well as others that are actually more at risk.
+  Fourth, the legislation improves the contents and timeliness of 
+single audit reporting to make the reports more useful. Currently, 
+auditors often include a number of different documents in a single 
+audit report. These documents are designed to comply with auditing 
+standards but leave many confused. A summary document, written in plain 
+language, would greatly increase the usefulness of single audit 
+reports.
+  Shortening the reporting timeframes will also make the single audit 
+reports more useful. The current practice of filing reports 13 months 
+after the end of the year that was audited significantly reduces their 
+utility. An ideal period would be the Government Finance Officers 
+Association's standard of 6 months for timely reporting by State and 
+local governments. However, given the multiple audits that some State 
+auditors have to perform, the legislation establishes a 9-month 
+standard. Moreover, the legislation gives flexibility for extensions as 
+needed. The overall goal, still, is to shorten the reporting timeframe 
+to make the single audit reports more useful to assess the stewardship 
+of organizations entrusted with Federal funds and to prompt any needed 
+corrective actions.
+  Fifth, the legislation increases administrative flexibility. OMB is 
+authorized to issue rules to implement the act and may revise certain 
+audit requirements as needed, without seeking amendments to the act. 
+For example, OMB would be authorized to raise even higher the $300,000 
+threshold. Auditors also will have greater flexibility to target 
+programs at risk.
+  In these and other ways, the Single Audit Act Amendments of 1996 will 
+streamline the underlying Single Audit Act, update its requirements, 
+reduce burdens, and provide for more flexibility. This legislation 
+builds on the significant accomplishments of the 1984 act and I am 
+confident that the Senate will move the legislation expeditiously.
+  In December 1995, the Senate Committee on Governmental Affairs held a 
+hearing on the status of Federal financial management, including the 
+Single Audit Act. Charles Bowsher, the Comptroller General of the 
+United States and, Kurt Sjoberg, the California State auditor, 
+representing the National State Auditors Association, strongly 
+supported the legislation and recommended that it be enacted. Edward 
+DeSeve, Office of Management and Budget Controller, also applauded the 
+legislative effort.
+  The support of the Comptroller General and the State auditors is 
+especially important. The Comptroller General was instrumental in 
+advising the Congress when the original Single Audit Act was enacted. 
+He followed the subsequent implementation of the act and has made the 
+recommendations for improving the act that was the basis for the 
+current legislation. I give great weight to his recommendations for 
+amending the Single Audit Act. State auditors, for their part, are key 
+players in the single audit process. They conduct or arrange for 
+thousands of single audits each year. So, their views are also 
+critically important. Following the December hearing, the National 
+State Auditors Association met to discuss the legislation and decided 
+unanimously to support its enactment. I submit their letter of support 
+for the Record.
+  Finally, I commend to my colleagues the fact that this legislation is 
+bipartisan. Again, Senator Stevens, chairman of the Governmental 
+Affairs Committee, joins with me in cosponsoring the bill, as do 
+Senators Levin, Cochran, Pryor, Cohen, Lieberman, and Brown. This 
+bipartisanship also extends to the House of Representatives. With this 
+bipartisan support, I am sure that this good Government legislation can 
+soon become law.
+  Mr. President, I ask unanimous consent that additional material be 
+printed in the Record.
+
+                                S. 1579
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE; PURPOSES.
+
+       (a) Short Title.--This Act may be cited as the ``Single 
+     Audit Act Amendments of 1996''.
+       (b) Purposes.--The purposes of this Act are to--
+       (1) promote sound financial management, including effective 
+     internal controls, with respect to Federal awards 
+     administered by non-Federal entities;
+       (2) establish uniform requirements for audits of Federal 
+     awards administered by non-Federal entities;
+       (3) promote the efficient and effective use of audit 
+     resources;
+       (4) reduce burdens on State and local governments, Indian 
+     tribes, and nonprofit organizations; and
+       (5) ensure that Federal departments and agencies, to the 
+     maximum extent practicable, rely upon and use audit work done 
+     pursuant to chapter 75 of title 31, United States Code (as 
+     amended by this Act).
+
+     SEC. 2. AMENDMENT TO TITLE 31, UNITED STATES CODE.
+
+       Chapter 75 of title 31, United States Code, is amended to 
+     read as follows:
+
+              ``CHAPTER 75--REQUIREMENTS FOR SINGLE AUDITS
+
+``Sec.
+``7501. Definitions.
+``7502. Audit requirements; exemptions.
+``7503. Relation to other audit requirements.
+``7504. Federal agency responsibilities and relations with non-Federal 
+              entities.
+``7505. Regulations.
+``7506. Monitoring responsibilities of the Comptroller General.
+``7507. Effective date.
+
+     ``Sec. 7501. Definitions
+
+       ``(a) As used in this chapter, the term--
+       ``(1) `Comptroller General' means the Comptroller General 
+     of the United States;
+       ``(2) `Director' means the Director of the Office of 
+     Management and Budget;
+       ``(3) `Federal agency' has the same meaning as the term 
+     `agency' in section 551(1) of title 5;
+       ``(4) `Federal awards' means Federal financial assistance 
+     and Federal cost-reimbursement contracts that non-Federal 
+     entities receive directly from Federal awarding agencies or 
+     indirectly from pass-through entities;
+       ``(5) `Federal financial assistance' means assistance that 
+     non-Federal entities receive or administer in the form of 
+     grants, loans, loan guarantees, property, cooperative 
+     agreements, interest subsidies, insurance, 
+
+[[Page S1364]]
+     donated surplus property, food commodities, direct appropriations, or 
+     other assistance, but does not include amounts received as 
+     reimbursement for services rendered to individuals in 
+     accordance with guidance issued by the Director;
+       ``(6) `Federal program' means all Federal awards to a non-
+     Federal entity assigned a single number in the Catalog of 
+     Federal Domestic Assistance or encompassed in a group of 
+     numbers or other category as defined by the Director;
+       ``(7) `generally accepted government auditing standards' 
+     means the government auditing standards issued by the 
+     Comptroller General;
+       ``(8) `independent auditor' means--
+       ``(A) an external State or local government auditor who 
+     meets the independence standards included in generally 
+     accepted government auditing standards; or
+       ``(B) a public accountant who meets such independence 
+     standards;
+       ``(9) `Indian tribe' means any Indian tribe, band, nation, 
+     or other organized group or community, including any Alaskan 
+     Native village or regional or village corporation (as defined 
+     in, or established under, the Alaskan Native Claims 
+     Settlement Act) that is recognized by the United States as 
+     eligible for the special programs and services provided by 
+     the United States to Indians because of their status as 
+     Indians;
+       ``(10) `internal controls' means a process, effected by an 
+     entity's management and other personnel, designed to provide 
+     reasonable assurance regarding the achievement of objectives 
+     in the following categories:
+       ``(A) Effectiveness and efficiency of operations.
+       ``(B) Reliability of financial reporting.
+       ``(C) Compliance with applicable laws and regulations;
+       ``(11) `local government' means any unit of local 
+     government within a State, including a county, borough, 
+     municipality, city, town, township, parish, local public 
+     authority, special district, school district, intrastate 
+     district, council of governments, any other instrumentality 
+     of local government and, in accordance with guidelines issued 
+     by the Director, a group of local governments;
+       ``(12) `major program' means a Federal program identified 
+     in accordance with risk-based criteria prescribed by the 
+     Director under this chapter, subject to the limitations 
+     described under subsection (b);
+       ``(13) `non-Federal entity' means a State, local 
+     government, or nonprofit organization;
+       ``(14) `nonprofit organization' means any corporation, 
+     trust, association, cooperative, or other organization that--
+       ``(A) is operated primarily for scientific, educational, 
+     service, charitable, or similar purposes in the public 
+     interest;
+       ``(B) is not organized primarily for profit; and
+       ``(C) uses net proceeds to maintain, improve, or expand the 
+     operations of the organization;
+       ``(15) `pass-through entity' means a non-Federal entity 
+     that provides Federal awards to a subrecipient to carry out a 
+     Federal program;
+       ``(16) `program-specific audit' means an audit of one 
+     Federal program;
+       ``(17) `recipient' means a non-Federal entity that receives 
+     awards directly from a Federal agency to carry out a Federal 
+     program;
+       ``(18) `single audit' means an audit, as described under 
+     section 7502(d), of a non-Federal entity that includes the 
+     entity's financial statements and Federal awards;
+       ``(19) `State' means any State of the United States, the 
+     District of Columbia, the Commonwealth of Puerto Rico, the 
+     Virgin Islands, Guam, American Samoa, the Commonwealth of the 
+     Northern Mariana Islands, and the Trust Territory of the 
+     Pacific Islands, any instrumentality thereof, any multi-
+     State, regional, or interstate entity which has governmental 
+     functions, and any Indian tribe; and
+       ``(20) `subrecipient' means a non-Federal entity that 
+     receives Federal awards through another non-Federal entity to 
+     carry out a Federal program, but does not include an 
+     individual who receives financial assistance through such 
+     awards.
+       ``(b) In prescribing risk-based program selection criteria 
+     for major programs, the Director shall not require more 
+     programs to be identified as major for a particular non-
+     Federal entity, except as prescribed under subsection (c) or 
+     as provided under subsection (d), than would be identified if 
+     the major programs were defined as any program for which 
+     total expenditures of Federal awards by the non-Federal 
+     entity during the applicable year exceed--
+       ``(1) the larger of $30,000,000 or 0.15 percent of the non-
+     Federal entity's total Federal expenditures, in the case of a 
+     non-Federal entity for which such total expenditures for all 
+     programs exceed $10,000,000,000;
+       ``(2) the larger of $3,000,000, or 0.30 percent of the non-
+     Federal entity's total Federal expenditures, in the case of a 
+     non-Federal entity for which such total expenditures for all 
+     programs exceed $100,000,000 but are less than or equal to 
+     $10,000,000,000; or
+       ``(3) the larger of $300,000, or 3 percent of such total 
+     Federal expenditures for all programs, in the case of a non-
+     Federal entity for which such total expenditures for all 
+     programs equal or exceed $300,000 but are less than or equal 
+     to $100,000,000.
+       ``(c) When the total expenditures of a non-Federal entity's 
+     major programs are less than 50 percent of the non-Federal 
+     entity's total expenditures of all Federal awards (or such 
+     lower percentage as specified by the Director), the auditor 
+     shall select and test additional programs as major programs 
+     as necessary to achieve audit coverage of at least 50 percent 
+     of Federal expenditures by the non-Federal entity (or such 
+     lower percentage as specified by the Director), in accordance 
+     with guidance issued by the Director.
+       ``(d) Loan or loan guarantee programs, as specified by the 
+     Director, shall not be subject to the application of 
+     subsection (b).
+
+     ``Sec. 7502. Audit requirements; exemptions
+
+       ``(a)(1)(A) Each non-Federal entity that expends a total 
+     amount of Federal awards equal to or in excess of $300,000 or 
+     such other amount specified by the Director under subsection 
+     (a)(3) in any fiscal year of such non-Federal entity shall 
+     have either a single audit or a program-specific audit made 
+     for such fiscal year in accordance with the requirements of 
+     this chapter.
+       ``(B) Each such non-Federal entity that expends Federal 
+     awards under more than one Federal program shall undergo a 
+     single audit in accordance with the requirements of 
+     subsections (b) through (i) of this section and guidance 
+     issued by the Director under section 7505.
+       ``(C) Each such non-Federal entity that expends awards 
+     under only one Federal program and is not subject to laws, 
+     regulations, or Federal award agreements that require a 
+     financial statement audit of the non-Federal entity, may 
+     elect to have a program-specific audit conducted in 
+     accordance with applicable provisions of this section and 
+     guidance issued by the Director under section 7505.
+       ``(2)(A) Each non-Federal entity that expends a total 
+     amount of Federal awards of less than $300,000 or such other 
+     amount specified by the Director under subsection (a)(3) in 
+     any fiscal year of such entity, shall be exempt for such 
+     fiscal year from compliance with--
+       ``(i) the audit requirements of this chapter; and
+       ``(ii) any applicable requirements concerning financial 
+     audits contained in Federal statutes and regulations 
+     governing programs under which such Federal awards are 
+     provided to that non-Federal entity.
+       ``(B) The provisions of subparagraph (A)(ii) of this 
+     paragraph shall not exempt a non-Federal entity from 
+     compliance with any provision of a Federal statute or 
+     regulation that requires such non-Federal entity to maintain 
+     records concerning Federal awards provided to such non-
+     Federal entity or that permits a Federal agency, pass-through 
+     entity, or the Comptroller General access to such records.
+       ``(3) Every 2 years, the Director shall review the amount 
+     for requiring audits prescribed under paragraph (1)(A) and 
+     may adjust such dollar amount consistent with the purposes of 
+     this chapter, provided the Director does not make such 
+     adjustments below $300,000.
+       ``(b)(1) Except as provided in paragraphs (2) and (3), 
+     audits conducted pursuant to this chapter shall be conducted 
+     annually.
+       ``(2) A State or local government that is required by 
+     constitution or statute, in effect on January 1, 1987, to 
+     undergo its audits less frequently than annually, is 
+     permitted to undergo its audits pursuant to this chapter 
+     biennially. Audits conducted biennially under the provisions 
+     of this paragraph shall cover both years within the biennial 
+     period.
+       ``(3) Any nonprofit organization that had biennial audits 
+     for all biennial periods ending between July 1, 1992, and 
+     January 1, 1995, is permitted to undergo its audits pursuant 
+     to this chapter biennially. Audits conducted biennially under 
+     the provisions of this paragraph shall cover both years 
+     within the biennial period.
+       ``(c) Each audit conducted pursuant to subsection (a) shall 
+     be conducted by an independent auditor in accordance with 
+     generally accepted government auditing standards, except 
+     that, for the purposes of this chapter, performance audits 
+     shall not be required except as authorized by the Director.
+       ``(d) Each single audit conducted pursuant to subsection 
+     (a) for any fiscal year shall--
+       ``(1) cover the operations of the entire non-Federal 
+     entity; or
+       ``(2) at the option of such non-Federal entity such audit 
+     shall include a series of audits that cover departments, 
+     agencies, and other organizational units which expended or 
+     otherwise administered Federal awards during such fiscal year 
+     provided that each such audit shall encompass the financial 
+     statements and schedule of expenditures of Federal awards for 
+     each such department, agency, and organizational unit, which 
+     shall be considered to be a non-Federal entity.
+       ``(e) The auditor shall--
+       ``(1) determine whether the financial statements are 
+     presented fairly in all material respects in conformity with 
+     generally accepted accounting principles;
+       ``(2) determine whether the schedule of expenditures of 
+     Federal awards is presented fairly in all material respects 
+     in relation to the financial statements taken as a whole;
+       ``(3) with respect to internal controls pertaining to the 
+     compliance requirements for each major program--
+       ``(A) obtain an understanding of such internal controls;
+       ``(B) assess control risk; and
+       ``(C) perform tests of controls unless the controls are 
+     deemed to be ineffective; and
+       ``(4) determine whether the non-Federal entity has complied 
+     with the provisions of laws, regulations, and contracts or 
+     grants pertaining to Federal awards that have a direct and 
+     material effect on each major program.
+     
+[[Page S1365]]
+
+       ``(f)(1) Each Federal agency which provides Federal awards 
+     to a recipient shall--
+       ``(A) provide such recipient the program names (and any 
+     identifying numbers) from which such awards are derived, and 
+     the Federal requirements which govern the use of such awards 
+     and the requirements of this chapter; and
+       ``(B) review the audit of a recipient as necessary to 
+     determine whether prompt and appropriate corrective action 
+     has been taken with respect to audit findings, as defined by 
+     the Director, pertaining to Federal awards provided to the 
+     recipient by the Federal agency.
+       ``(2) Each pass-through entity shall--
+       ``(A) provide such subrecipient the program names (and any 
+     identifying numbers) from which such assistance is derived, 
+     and the Federal requirements which govern the use of such 
+     awards and the requirements of this chapter;
+       ``(B) monitor the subrecipient's use of Federal awards 
+     through site visits, limited scope audits, or other means;
+       ``(C) review the audit of a subrecipient as necessary to 
+     determine whether prompt and appropriate corrective action 
+     has been taken with respect to audit findings, as defined by 
+     the Director, pertaining to Federal awards provided to the 
+     subrecipient by the pass-through entity; and
+       ``(D) require each of its subrecipients of Federal awards 
+     to permit, as a condition of receiving Federal awards, the 
+     independent auditor of the pass-through entity to have such 
+     access to the subrecipient's records and financial statements 
+     as may be necessary for the pass-through entity to comply 
+     with this chapter.
+       ``(g)(1) The auditor shall report on the results of any 
+     audit conducted pursuant to this section, in accordance with 
+     guidance issued by the Director.
+       ``(2) When reporting on any single audit, the auditor shall 
+     include a summary of the auditor's results regarding the non-
+     Federal entity's financial statements, internal controls, and 
+     compliance with laws and regulations.
+       ``(h) The non-Federal entity shall transmit the reporting 
+     package, which shall include the non-Federal entity's 
+     financial statements, schedule of expenditures of Federal 
+     awards, corrective action plan defined under subsection (i), 
+     and auditor's reports developed pursuant to this section, to 
+     a Federal clearinghouse designated by the Director, and make 
+     it available for public inspection within the earlier of--
+       ``(1) 30 days after receipt of the auditor's report; or
+       ``(2)(A) for a transition period of at least 2 years after 
+     the effective date of the Single Audit Act Amendments of 
+     1996, as established by the Director, 13 months after the end 
+     of the period audited; or
+       ``(B) for fiscal years beginning after the period specified 
+     in subparagraph (A), 9 months after the end of the period 
+     audited, or within a longer timeframe authorized by the 
+     Federal agency, determined under criteria issued under 
+     section 7505, when the 9-month timeframe would place an undue 
+     burden on the non-Federal entity.
+       ``(i) If an audit conducted pursuant to this section 
+     discloses any audit findings, as defined by the Director, 
+     including material noncompliance with individual compliance 
+     requirements for a major program by, or reportable conditions 
+     in the internal controls of, the non-Federal entity with 
+     respect to the matters described in subsection (e), the non-
+     Federal entity shall submit to Federal officials designated 
+     by the Director, a plan for corrective action to eliminate 
+     such audit findings or reportable conditions or a statement 
+     describing the reasons that corrective action is not 
+     necessary. Such plan shall be consistent with the audit 
+     resolution standard promulgated by the Comptroller General 
+     (as part of the standards for internal controls in the 
+     Federal Government) pursuant to section 3512(c).
+       ``(j) The Director may authorize pilot projects to test 
+     alternative methods of achieving the purposes of this 
+     chapter. Such pilot projects may begin only after 
+     consultation with the Chair and Ranking Minority Member of 
+     the Committee on Governmental Affairs of the Senate and the 
+     Chair and Ranking Minority Member of the Committee on 
+     Government Reform and Oversight of the House of 
+     Representatives.
+
+     ``Sec. 7503. Relation to other audit requirements
+
+       ``(a) An audit conducted in accordance with this chapter 
+     shall be in lieu of any financial audit of Federal awards 
+     which a non-Federal entity is required to undergo under any 
+     other Federal law or regulation. To the extent that such 
+     audit provides a Federal agency with the information it 
+     requires to carry out its responsibilities under Federal law 
+     or regulation, a Federal agency shall rely upon and use that 
+     information.
+       ``(b) Notwithstanding subsection (a), a Federal agency may 
+     conduct or arrange for additional audits which are necessary 
+     to carry out its responsibilities under Federal law or 
+     regulation. The provisions of this chapter do not authorize 
+     any non-Federal entity (or subrecipient thereof) to 
+     constrain, in any manner, such agency from carrying out or 
+     arranging for such additional audits, except that the Federal 
+     agency shall plan such audits to not be duplicative of other 
+     audits of Federal awards.
+       ``(c) The provisions of this chapter do not limit the 
+     authority of Federal agencies to conduct, or arrange for the 
+     conduct of, audits and evaluations of Federal awards, nor 
+     limit the authority of any Federal agency Inspector General 
+     or other Federal official.
+       ``(d) Subsection (a) shall apply to a non-Federal entity 
+     which undergoes an audit in accordance with this chapter even 
+     though it is not required by section 7502(a) to have such an 
+     audit.
+       ``(e) A Federal agency that provides Federal awards and 
+     conducts or arranges for audits of non-Federal entities 
+     receiving such awards that are in addition to the audits of 
+     non-Federal entities conducted pursuant to this chapter 
+     shall, consistent with other applicable law, arrange for 
+     funding the full cost of such additional audits. Any such 
+     additional audits shall be coordinated with the Federal 
+     agency determined under criteria issued under section 7504 to 
+     preclude duplication of the audits conducted pursuant to this 
+     chapter or other additional audits.
+       ``(f) Upon request by a Federal agency or the Comptroller 
+     General, any independent auditor conducting an audit pursuant 
+     to this chapter shall make the auditor's working papers 
+     available to the Federal agency or the Comptroller General as 
+     part of a quality review, to resolve audit findings, or to 
+     carry out oversight responsibilities consistent with the 
+     purposes of this chapter. Such access to auditor's working 
+     papers shall include the right to obtain copies.
+
+     ``Sec. 7504. Federal agency responsibilities and relations 
+       with non-Federal entities
+
+       ``(a) Each Federal agency shall, in accordance with 
+     guidance issued by the Director under section 7505, with 
+     regard to Federal awards provided by the agency--
+       ``(1) monitor non-Federal entity use of Federal awards, and
+       ``(2) assess the quality of audits conducted under this 
+     chapter for audits of entities for which the agency is the 
+     single Federal agency determined under subsection (b).
+       ``(b) Each non-Federal entity shall have a single Federal 
+     agency, determined in accordance with criteria established by 
+     the Director, to provide the non-Federal entity with 
+     technical assistance and assist with implementation of this 
+     chapter.
+       ``(c) The Director shall designate a Federal clearinghouse 
+     to--
+       ``(1) receive copies of all reporting packages developed in 
+     accordance with this chapter;
+       ``(2) identify recipients that expend $300,000 or more in 
+     Federal awards or such other amount specified by the Director 
+     under section 7502(a)(3) during the recipient's fiscal year 
+     but did not undergo an audit in accordance with this chapter; 
+     and
+       ``(3) perform analyses to assist the Director in carrying 
+     out responsibilities under this chapter.
+
+     ``Sec. 7505. Regulations
+
+       ``(a) The Director, after consultation with the Comptroller 
+     General, and appropriate officials from Federal, State, and 
+     local governments and nonprofit organizations shall prescribe 
+     guidance to implement this chapter. Each Federal agency shall 
+     promulgate such amendments to its regulations as may be 
+     necessary to conform such regulations to the requirements of 
+     this chapter and of such guidance.
+       ``(b)(1) The guidance prescribed pursuant to subsection (a) 
+     shall include criteria for determining the appropriate 
+     charges to Federal awards for the cost of audits. Such 
+     criteria shall prohibit a non-Federal entity from charging to 
+     any Federal awards--
+       ``(A) the cost of any audit which is--
+       ``(i) not conducted in accordance with this chapter; or
+       ``(ii) conducted in accordance with this chapter when 
+     expenditures of Federal awards are less than amounts cited in 
+     section 7502(a)(1)(A) or specified by the Director under 
+     section 7502(a)(3), except that the Director may allow the 
+     cost of limited scope audits to monitor subrecipients in 
+     accordance with section 7502(f)(2)(B); and
+       ``(B) more than a reasonably proportionate share of the 
+     cost of any such audit that is conducted in accordance with 
+     this chapter.
+       ``(2) The criteria prescribed pursuant to paragraph (1) 
+     shall not, in the absence of documentation demonstrating a 
+     higher actual cost, permit the percentage of the cost of 
+     audits performed pursuant to this chapter charged to Federal 
+     awards, to exceed the ratio of total Federal awards expended 
+     by such non-Federal entity during the applicable fiscal year 
+     or years, to such non-Federal entity's total expenditures 
+     during such fiscal year or years.
+       ``(c) Such guidance shall include such provisions as may be 
+     necessary to ensure that small business concerns owned and 
+     controlled by socially and economically disadvantaged 
+     individuals will have the opportunity to participate in the 
+     performance of contracts awarded to fulfill the audit 
+     requirements of this chapter.
+
+     ``Sec. 7506. Monitoring responsibilities of the Comptroller 
+       General
+
+       ``(a) The Comptroller General shall review provisions 
+     requiring financial audits of non-Federal entities that 
+     receive Federal awards that are contained in bills and 
+     resolutions reported by the committees of the Senate and the 
+     House of Representatives.
+       ``(b) If the Comptroller General determines that a bill or 
+     resolution contains provisions that are inconsistent with the 
+     requirements of this chapter, the Comptroller General shall, 
+     at the earliest practicable date, notify in writing--
+       ``(1) the committee that reported such bill or resolution; 
+     and
+       ``(2)(A) the Committee on Governmental Affairs of the 
+     Senate (in the case of a bill or resolution reported by a 
+     committee of the Senate); or
+     
+[[Page S1366]]
+
+       ``(B) the Committee on Government Reform and Oversight of 
+     the House of Representatives (in the case of a bill or 
+     resolution reported by a committee of the House of 
+     Representatives).
+
+     ``Sec. 7507. Effective date
+
+       ``This chapter shall apply to any non-Federal entity with 
+     respect to any of its fiscal years which begin after June 30, 
+     1996.''.
+
+     SEC. 3. TRANSITIONAL APPLICATION.
+
+       Subject to section 7507 of title 31, United States Code (as 
+     amended by section 2 of this Act) the provisions of chapter 
+     75 of such title (before amendment by section 2 of this Act) 
+     shall continue to apply to any State or local government with 
+     respect to any of its fiscal years beginning before July 1, 
+     1996.
+                                                                    ____
+
+
+                  Single Audit Act Amendments of 1996
+
+       This bill amends the Single Audit Act of 1984 (P.L. 98-
+     502). The 1984 Act replaced multiple grant-by-grant audits 
+     with an annual entity-wide audit process for State and local 
+     governments that receive Federal assistance. The new bill 
+     would broaden the scope of the Act to cover universities and 
+     other nonprofit organizations, as well. It would also 
+     streamline the process. Thus, the bill would improve 
+     accountability for hundreds of billions of dollars of Federal 
+     assistance, while also reducing auditing and paperwork 
+     burdens on grant recipients.
+       The bill was developed on the basis of GAO review of 
+     implementation of the Single Audit Act ``Single Audit: 
+     Refinements Can Improve Usefulness,'' GAO/AIMD-94-133, June 
+     21, 1994). Major stakeholders in the single audit process 
+     were consulted during the drafting process. Support for the 
+     bill was confirmed at a December 14, 1995, hearing of the 
+     Senate Committee on Governmental Affairs.
+       The 10 years' experience under the 1984 Act demonstrated 
+     that the single audit concept promotes accountability over 
+     Federal Assistance and prompts related financial management 
+     improvements by covered entities. Experience also showed, 
+     however, that process can be strengthened. This bill would 
+     (1) improve audit coverage of federal assistance, (2) reduce 
+     Federal burden on non-Federal entities, (3) improve audit 
+     effectiveness, (4) improve single audit reporting, and (5) 
+     increase administrative flexibility.
+
+
+                         Improve Audit Coverage
+
+       The bill would improve audit coverage of Federal assistance 
+     by including in the single audit process all State and local 
+     governments and nonprofit organizations that receive Federal 
+     assistance. Currently, the Act only applies to State and 
+     local governments. Nonprofit organizations are subject 
+     administratively to single audits under OMB Circular A-133, 
+     ``Audits of Institutions of Higher Education and Other 
+     Nonprofit Organizations.'' -Including nonprofit organizations 
+     under the Act would result in a common set of single audit 
+     requirements for Federal assistance.
+
+
+                         Reduce Federal Burden
+
+       The bill would simultaneously reduce Federal burdens on 
+     thousands of State and local governments and nonprofits, and 
+     ensure audit coverage over the vast majority of Federal 
+     assistance provided to those organizations. It would do so by 
+     raising the dollar threshold for requiring a single audit 
+     from $100,000 to $300,000. While this would relieve many 
+     grantees of Federal single audit mandates, GAO estimated that 
+     a $300,000 threshold would cover, for example, 95% of direct 
+     Federal assistance to local governments. This is commensurate 
+     with the coverage provided at the $100,000 threshold when the 
+     Act was passed in 1984. Thus, exempting thousands of entities 
+     from single audits would reduce audit and paperwork burdens, 
+     but not significantly diminish the percentage of Federal 
+     assistance covered by single audits.
+
+
+                      Improve Audit Effectiveness
+
+       The bill would improve audit effectiveness by directing 
+     audit resources to the areas of greatest risk. Currently, 
+     auditors must perform audit testing on the largest--but not 
+     necessarily the riskiest--programs that an entity operates. 
+     The bill would require auditors to assess the risk of the 
+     programs an entity operates and select the riskiest programs 
+     for testing. As the President of the National State Auditors 
+     Association said, ``It makes good economic sense to 
+     concentrate audits where increased corrective action and 
+     recoveries are likely to result.''
+
+
+                     Improve Single Audit Reporting
+
+       The bill would greatly improve the usefulness of single 
+     audit reports by requiring auditors to provide a summary of 
+     audit results. The reports would also be due sooner--9 months 
+     after the year-end rather than the current 13 months. 
+     Interpretations of current rules lead auditors to include 7 
+     or more separate reports in each single audit report. Such a 
+     large number of reports tends to confuse rather than inform 
+     users. A summary of the audit results would highlight 
+     important information and thus enable users to quickly 
+     discern the overall results of an audit. Federal managers 
+     surveyed by GAO overwhelmingly support the summary reporting 
+     and faster submission of reports.
+
+
+                  Increase Administrative Flexibility
+
+       The bill would enable the single audit process to evolve 
+     with changing circumstances. For example, rather than lock 
+     specific dollar amount audit thresholds into law, OMB would 
+     have the authority to periodically revise the audit threshold 
+     above the new $300,000 threshold. OMB also could revise 
+     criteria for selecting programs for audit testing. By giving 
+     OMB such authority, specific requirements within the single 
+     audit process could be revised administratively to reflect 
+     changing circumstances that affect accountability for Federal 
+     financial assistance.
+
+
+                   Conclusion: Good Government Reform
+
+       Developed by GAO and endorsed by the National State 
+     Auditors Association, the Single Audit Act Amendments of 1996 
+     represents consensus good government legislation that will 
+     improve accountability over Federal funds and reduce burdens 
+     on State and local governments and nonprofit organizations.
+                                                                    ____
+
+                                                    National State
+
+
+                                         Auditors Association,
+
+                                  Baltimore, MD, January 29, 1996.
+     Hon. John Glenn,
+     Ranking Minority Member, Committee on Governmental Affairs, 
+         U.S. Senate, Dirksen Senate Office Building, Washington, 
+         DC.
+       Dear Senator Glenn: The National State Auditors Association 
+     has voted unanimously to support the proposed bill to amend 
+     the Single Audit Act of 1984. My state audit colleagues and I 
+     believe that the proposed legislation is an excellent measure 
+     that deserves to be passed into law as soon as possible.
+       The Single Audit Act amendments provide a unique 
+     opportunity to address the needs of federal, state and local 
+     government auditors and program managers. The original act is 
+     over 10 years old and the amendments address many of the 
+     changes that have occurred over the years in the auditing 
+     profession and in government financial management. The bill 
+     is the result of open and constructive dialog along the 
+     stakeholders. Over the last several months, we have worked 
+     closely with congressional staff as well as representatives 
+     of the General Accounting Office and the Office of Management 
+     and Budget. As currently drafted, the bill provides needed 
+     improvements to financial accountability over federal grant 
+     funds.
+       While there are several excellent provisions in the amended 
+     act, two are particularly noteworthy. First, the minimum 
+     threshold of receipts requiring any entity to have a single 
+     audit performed is raised in the bill to $300,000. Similarly, 
+     the thresholds for larger recipients are also adjusted. These 
+     modifications will relieve many state and local governments 
+     of unnecessary federal mandates and generate savings of audit 
+     costs. Second, the amendments allow federal and state 
+     governments to focus audit resources on ``high-risk'' grants 
+     where the potential for savings is the greatest. It makes 
+     good economic sense to concentrate audits where increased 
+     corrective action and recoveries are likely to result.
+       In summary, the National State Auditors Association is 
+     pleased to fully support the amendments to the Single Audit 
+     Act of 1984 and assist you in any way possible to facilitate 
+     its passage this year.
+           Sincerely,
+                                               Anthony Verdecchia,
+                                                        President.
+                                 ______
+```
