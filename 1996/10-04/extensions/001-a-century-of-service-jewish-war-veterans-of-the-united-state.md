@@ -1,0 +1,72 @@
+---
+granule: CREC-1996-10-04-pt1-PgE1921
+date: 1996-10-04
+edition: CREC
+section: EXTENSIONS
+page: E1921
+citation: 142 Cong. Rec. E1921
+---
+
+# A CENTURY OF SERVICE: JEWISH WAR VETERANS OF THE UNITED STATES OF AMERICA
+
+**Speaking:** Morella, Constance A. (M000941) [R-MD]
+
+```
+[[Page E1921]]
+
+
+   A CENTURY OF SERVICE: JEWISH WAR VETERANS OF THE UNITED STATES OF 
+                                AMERICA
+
+                                 ______
+                                 
+
+                       HON. CONSTANCE A. MORELLA
+
+                              of maryland
+
+                    in the house of representatives
+
+                        Friday, October 4, 1996
+
+  Mrs. MORELLA. Mr. Speaker, in 1894, articles appeared in numerous 
+newspapers and magazines portraying Jews as being unpatriotic. In 
+response, Jewish men who had served in the Civil War met at the 
+Lexington Avenue Opera House on 58th Street in New York, on March 15, 
+1896 and formed a new Jewish veterans organization. They called 
+themselves the Hebrew Union Veterans Association of the Civil War 
+Veterans, and their mission was to fight the vicious anti-Semitic lies.
+  Amazingly, these 78 Jewish veterans, who have been described as ``old 
+and infirmed'', not only fought these allegations against Jewish 
+participation in the Civil War, but caused Harper's Weekly to retract 
+its stories, and won an apology from Mark Twain, who had helped promote 
+this lie until presented with the facts.
+  Over the years, there have been changes in the organization's name to 
+recognize the Jewish soldiers who fought in the Spanish-American War 
+and World War I--then calling themselves the ``Hebrew Veterans of the 
+Wars of the Republic'', but since that time they have been known as the 
+Jewish War Veterans of the United States of America [JWV]. A thread 
+that remains from the past, however, is a continuing dedication toward 
+fighting anti-Semitism. They have worked closely with the Office of 
+Special Investigation in their efforts to prosecute Nazi war criminals 
+living in the United States, and in addition they have a JWV Reward 
+Fund which dispenses money to individuals who help in the arrest and 
+conviction of those responsible for acts of anti-Semitism and racism.
+  Remembering that their bond and strength is their experience as 
+veterans, the JWV honors their ancestors through the National Museum of 
+American Jewish Military History, located in Washington, DC, the only 
+museum in this country dedicated to chronicling Jewish participation in 
+the defense of this Nation. In addition to the many services they 
+provide for Jewish veterans, the JWV has close ties with Israel and has 
+built a Soldier's ``R and R'' home in Beersheba. Mindful of the 
+discrimination suffered by others, they were the only veterans' 
+organization to join the Reverend Martin Luther King in his historic 
+March on Washington.
+  Mr. Speaker, I honor and salute the Jewish War Veterans as they 
+celebrate their 100th birthday. On Veterans Day this November, they 
+will be the host at Arlington National Cemetery. They deserve our 
+respect and congratulations for all they have contributed to our 
+country and I wish them all good wishes for their next 100 years.
+
+                          ____________________
+```

@@ -1,0 +1,49 @@
+---
+granule: CREC-1996-10-04-pt1-PgH12281-2
+date: 1996-10-04
+edition: CREC
+section: HOUSE
+page: H12281
+citation: 142 Cong. Rec. H12281
+---
+
+# ENHANCING FAIRNESS IN COMPENSATING OWNERS OF PATENTS USED BY UNITED STATES
+
+**Speaking:** Solomon, Gerald B. H. (S000675) [R-NY]
+
+**Measures:** H.R. 632
+
+```
+                              {time}  1415
+  ENHANCING FAIRNESS IN COMPENSATING OWNERS OF PATENTS USED BY UNITED 
+                                 STATES
+
+  Mr. SOLOMON. Mr. Speaker, I ask unanimous consent to take from the 
+Speaker's table the bill (H.R. 632) to enhance fairness in compensating 
+owners of patents used by the United States, with Senate amendments 
+thereto, and concur in the Senate amendments.
+  The Clerk read the title of the bill.
+  The Clerk read the Senate amendments, as follows:
+
+       Senate amendments: Page 2, line 8, strike out all after 
+     ``States'.'' down to and including ``Acts.'' in line 13 and 
+     insert ``Notwithstanding the preceding sentences, unless the 
+     action has been pending for more than 10 years from the time 
+     of filing to the time that the owner applies for such costs 
+     and fees, reasonable and entire compensation shall not 
+     include such costs and fees if the court finds that the 
+     position of the United States was substantially justified or 
+     that special circumstances make an award unjust.''
+       Page 2, line 17, strike out ``January 1, 1995'' and insert 
+     ``the date of the enactment of this Act''.
+
+  The SPEAKER pro tempore (during the reading). Without objection, the 
+Senate amendments are considered as read and printed in the Record.
+  There was no objection.
+  The SPEAKER pro tempore. Is there objection to the initial request of 
+the gentleman from New York?
+  There was no objection.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
