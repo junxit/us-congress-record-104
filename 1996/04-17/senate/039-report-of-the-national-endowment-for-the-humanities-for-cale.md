@@ -1,0 +1,48 @@
+---
+granule: CREC-1996-04-17-pt1-PgS3485-3
+date: 1996-04-17
+edition: CREC
+section: SENATE
+page: S3485
+citation: 142 Cong. Rec. S3485
+---
+
+# REPORT OF THE NATIONAL ENDOWMENT FOR THE HUMANITIES FOR CALENDAR YEAR 1995--MESSAGE FROM THE PRESIDENT--PM 138
+
+```
+ REPORT OF THE NATIONAL ENDOWMENT FOR THE HUMANITIES FOR CALENDAR YEAR 
+                1995--MESSAGE FROM THE PRESIDENT--PM 138
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Labor and Human 
+Resources.
+
+To the Congress of the United States:
+  I am pleased to present to you the 1995 Annual Report of the National 
+Endowment for the Humanities (NEH). For 30 years, this Federal agency 
+has given Americans great opportunities to explore and share with each 
+other our country's vibrant and diverse cultural heritage. Its work 
+supports an impressive array of humanities projects.
+  These projects have mined every corner of our tradition, unearthing 
+all the distinct and different voices, emotions, and ideas that 
+together make up what is a uniquely American culture. In 1995, they 
+ranged from an award-winning television documentary on President 
+Franklin Delano Roosevelt, the radio production Wade in the Water, to 
+preservation projects that will rescue 750,000 important books from 
+obscurity and archive small community newspapers from every State in 
+the Union. Pandora's Box, a traveling museum exhibit of women and myth 
+in classical Greece, drew thousands of people.
+  The humanities have long helped Americans bridge differences, learn 
+to appreciate one another, shore up the foundations of our democracy, 
+and build strong and vital institutions across our country. At a time 
+when our society faces new and profound challenges, when so many 
+Americans feel insecure in the face of change, the presence and 
+accessibility of the humanities in all our lives can be a powerful 
+source of our renewal and our unity as we move forward into the 21st 
+century.
+                                                  William J. Clinton.  
+  The White House, April 17, 1996.
+
+                          ____________________
+```
