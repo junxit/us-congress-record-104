@@ -1,0 +1,1841 @@
+---
+granule: CREC-1996-01-22-pt1-PgS285-5
+date: 1996-01-22
+edition: CREC
+section: SENATE
+page: S285
+citation: 142 Cong. Rec. S285
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate January 22, 1996:
+
+
+                          department of state
+
+       Richard L. Morningstar, of Massachusetts, for the rank of 
+     Ambassador during his tenure of service as Special Advisor to 
+     the President and to the Secretary of State on Assistance to 
+     the New Independent States (NIS) of the Former Soviet Union 
+     and Coordinator of NIS Assistance.
+
+
+             corporation for national and community service
+
+       Mary Burrus Babson, of Illinois, to be a Member of the 
+     Board of Directors of the Corporation for National and 
+     Community Service for a term of 1 year. (New Position)
+
+
+           National Foundation on the Arts and the Humanities
+
+       Luis Valdez, of California, to be a Member of the National 
+     Council on the arts for a term expiring September 3, 2000, 
+     vice Peter deCourch Hero, term expired.
+
+
+                           in the coast guard
+
+       Vice Admiral James M. Loy, U.S. Coast Guard, to be Chief of 
+     Staff, U.S. Coast Guard, with the grade of vice admiral while 
+     so serving.
+       Vice Admiral Richard D. Herr, U.S. Coast Guard, to be Vice 
+     Commandant, U.S. Coast Guard, with the grade of admiral while 
+     so serving.
+       Vice Admiral Kent H. Williams, U.S. Coast Guard, to be 
+     Commander, Atlantic Area, U.S. Coast Guard, with the grade of 
+     admiral while so serving.
+       Rear Admiral Roger T. Rufe, Jr., U.S. Coast Guard, to be 
+     Commander, Pacific Area, U.S. Coast Guard, with the grade of 
+     vice admiral while so serving.
+       The following officer of the U.S. Coast Guard Reserve for 
+     promotion to the grade of rear admiral:
+
+Richard W. Schneider
+       The following officer of the U.S. Coast Guard Reserve for 
+     promotion to the grade of rear admiral (lower half):
+
+Jan T. Riker
+       The following officer of the U.S. Coast Guard Reserve for 
+     promotion to the grade indicated:
+
+                             To be captain
+
+     George J. Santa Cruz
+     Gregory E. Shapley
+
+                            To be commander
+
+     James E. Litsinger
+     Dale M. Rausch
+     Maury A. Weeks
+     Donald E. Bunn
+
+                       To be lieutenant commander
+
+     Pinkey J. Clark
+     Kevin M. Pratt
+
+
+                          in the marine corps
+
+       The following-named colonels of the U.S. Marine Corps for 
+     promotion to the grade of brigadier general, under the 
+     provisions of Section 624 of Title 10, United States Code:
+
+                        To be brigadier general
+
+Col. Robert R. Blackman, Jr., 000-00-0000, USMC.
+Col. William G. Bowdon III, 000-00-0000, USMC.
+Col. James T. Conway, 000-00-0000, USMC.
+Col. Keith T. Holcomb, 000-00-0000, USMC.
+Col. Harold Mashburn, Jr., 000-00-0000, USMC.
+Col. Gregory S. Newbold, 000-00-0000, USMC.
+
+       The following-named colonel of the U.S. Marine Corp Reserve 
+     for promotion to the grade of brigadier general, under the 
+     provisions of Section 5912 of Title 10, United States Code:
+
+                        To be brigadier general
+
+Col. Leo V. Williams III, 000-00-0000, USMCR.
+
+
+                              in the navy
+
+       The following-named officer to be placed on the retired 
+     list of the U.S. Navy in the grade indicated under section 
+     1370 of title 10, U.S.C.
+
+                           To be vice admiral
+
+Vice Adm. David B. Robinson, 000-00-0000.
+
+
+                            in the air force
+
+       The following-named Air National Guard officers for 
+     appointment as Reserve of the Air Force in the grade 
+     indicated under the provisions of Sections 12203 and 12212, 
+     title 10, United States Code, to perform duties as indicated.
+
+                        To be lieutenant colonel
+
+
+                                  line
+
+Jonathan S. Flaugher, 000-00-0000
+
+
+                             medical corps
+
+                        To be lieutenant colonel
+
+Walter L. Bogart III, 000-00-0000
+       The following individuals for Reserve of the Air Force 
+     appointment, in the grade indicated, under the provisions of 
+     title 10, United States Code, Section 12203 with a view to 
+     designation under the provisions of title 10, United States 
+     Code, Section 8067 to perform the duties indicated.
+
+
+                             medical corps
+
+                             To be colonel
+
+Donald R. Smith, 000-00-0000
+
+                        To be lieutenant colonel
+
+carlos w.m. bedrossian, 000-00-0000
+
+[[Page S286]]
+
+richard r. eckert, 000-00-0000
+harry f. farmer, jr., 000-00-0000
+frederick l. gilkey, 000-00-0000
+maecenas b. hendrix, 000-00-0000
+charles h. hubbert, 000-00-0000
+bruce a. johnson, 000-00-0000
+bruce m. morse, 000-00-0000
+saroja l. ranpura, 000-00-0000
+charles e. ross, 000-00-0000
+sadasiva p. setty, 000-00-0000
+christina m.k. zieno, 000-00-0000
+
+
+                              dental corps
+
+                        To be lieutenant colonel
+
+robert w. daniels, 000-00-0000
+gene p. kahn, 000-00-0000
+rodney d. phoenix, 000-00-0000
+
+
+                       biomedical sciences corps
+
+                        To be lieutenant colonel
+
+don c. bagwell, 000-00-0000
+thomas a. flynn, 000-00-0000
+gerald j. hensley, 000-00-0000
+kent j. neilsen, 000-00-0000
+
+
+                              nurse corps
+
+                        To be lieutenant colonel
+
+nedla j. ewen, 000-00-0000
+
+
+                             judge advocate
+
+                        To be lieutenant colonel
+
+john j. thrasher iii, 000-00-0000
+william k. underwood, 000-00-0000
+
+       the following individuals for reserve of the air force 
+     appointment in the grade indicated, under the provisions of 
+     title 10, United States code, section 12203.
+
+
+                                  line
+
+                        To be lieutenant colonel
+
+martha l. garito, 000-00-0000
+charles a.v. hobb, 000-00-0000
+richard c. holloman, 000-00-0000
+thomas a. hughes, 000-00-0000
+michael e. lebiedz, 000-00-0000
+mary k. luke, 000-00-0000
+lanny b.mc neely, 000-00-0000
+stephen g. moffett, 000-00-0000
+james l. o'neal, 000-00-0000
+
+       the following students of the uniformed services university 
+     of the health sciences class of 1996, for appointment in the 
+     regular air force in the grade of captain, effective upon 
+     their graduation under the provisions of section 2114, title 
+     10, u.s.c., if otherwise found qualified, with date of rank 
+     to be determined by the secretary of the air force.
+
+
+                             medical corps
+
+bradley s. abels, 000-00-0000
+per k. amundson, 000-00-0000
+jonathan w. briggs, 000-00-0000
+alesia c. carrizales, 000-00-0000
+scott c. carrizales, 000-00-0000
+matthew b. carroll, 000-00-0000
+pierre alain l. dauby, 000-00-0000
+kristen a. fultsganey, 000-00-0000
+vinod k. gidvanidiaz, 000-00-0000
+stephen a. gill, 000-00-0000
+paul d. gleason ii, 000-00-0000
+patrick m. grogan, 000-00-0000
+duncan g. hughes, 000-00-0000
+john f. james, 000-00-0000
+pamela d. johnson, 000-00-0000
+gregory a. kennebeck, 000-00-0000
+chetan u. kharod, 000-00-0000
+todd t. kobayashi, 000-00-0000
+darii al lane, 000-00-0000
+donald j. lane, 000-00-0000
+raymond j. legenza, 000-00-0000
+james d. lowe, 000-00-0000
+evan r. meeks, 000-00-0000
+janice l. moseley, 000-00-0000
+cabot s. murdock, 000-00-0000
+jeffrey g. nalesnik, 000-00-0000
+douglas a. nelson, 000-00-0000
+elizabeth m. norris, 000-00-0000
+donald t. osborn, 000-00-0000
+robert g. patterson, 000-00-0000
+christopher p. paulson, 000-00-0000
+barak perahia, 000-00-0000
+kenny j. peterson, 000-00-0000
+james a. phalen, 000-00-0000
+kimberly d. pietszak, 000-00-0000
+joseph a. pocreva, 000-00-0000
+david m. rogers, 000-00-0000
+daniel a. shoor, 000-00-0000
+robert e. thaxton, 000-00-0000
+james j. thomas, 000-00-0000
+daniel r. tuckey, 000-00-0000
+johann s. westphall, 000-00-0000
+sally m. wonderly, 000-00-0000
+charles p. wood, 000-00-0000
+mark a. yuspa, 000-00-0000
+
+       The following air national guard of the United States 
+     officers for promotion in the reserve of the air force under 
+     the provisions of sections 12203 and 8379, title 10 of the 
+     United States code. Promotions made under section 8379 and 
+     confirmed by the senate under section 12203 shall bear an 
+     effective date established in accordance with section 8374, 
+     title 10 of the United States code.
+
+
+                                  line
+
+                        To be lieutenant colonel
+
+joseph p. anello, 000-00-0000
+philip e. bray, 000-00-0000
+david n. burton, 000-00-0000
+joseph e. crites, 000-00-0000
+william s. cromer, 000-00-0000
+james f. dawson, jr., 000-00-0000
+michael g. green, 000-00-0000
+charles a. grimes, 000-00-0000
+kevin k. kindschuh, 000-00-0000
+michael r. leone, 000-00-0000
+john a. mcallister, 000-00-0000
+richard r. olivarez, 000-00-0000
+eddy l. payne, 000-00-0000
+CHARLES B. PORTIS, 000-00-0000
+MARTHA T. RAINVILLE, 000-00-0000
+DENISE O. SCHOFIELD, 000-00-0000
+WILLIAM F. SIMPSON, 000-00-0000
+DAVID K. TANAKA, 000-00-0000
+JAMES D. THOMPSON, 000-00-0000
+JEFFREY T. WILLIAMS, 000-00-0000
+
+
+                   JUDGE ADVOCATE GENERALS DEPARTMENT
+
+                        To be lieutenant colonel
+
+MICHAEL W. SANDERSON, 000-00-0000
+FRANK H. SHAW, JR., 000-00-0000
+
+
+                             CHAPLAIN CORPS
+
+                        To be lieutenant colonel
+
+NORMAN L. WILLIAMS, 000-00-0000
+
+
+                             MEDICAL CORPS
+
+                        To be lieutenant colonel
+
+JOHN D. ADAMS, 000-00-0000
+ARTHUR B. EISENBREY, 000-00-0000
+THOMAS E. HARRIS, 000-00-0000
+STEWART J. HAZEL, 000-00-0000
+JOHN PANKIEWICZ, JR., 000-00-0000
+JAN M. VANHOOMISSEN, 000-00-0000
+
+
+                              NURSE CORPS
+
+                        To be lieutenant colonel
+
+BARBARA T. MARTIN, 000-00-0000
+
+
+                              In the Army
+
+       THE FOLLOWING OFFICERS FOR APPOINTMENT AS PERMANENT 
+     PROFESSORS AT THE U.S. MILITARY ACADEMY UNDER THE PROVISIONS 
+     OF TITLE 10, UNITED STATES CODE, SECTION 4333(B):
+
+COL. WILLIAM G. HELD, 000-00-0000
+LT. COL. PATRICIA B. GENUNG, 000-00-0000
+
+
+                              In the Navy
+
+       THE FOLLOWING-NAMED DISTINGUISHED NAVAL GRADUATES TO BE 
+     APPOINTED PERMANENT ENSIGN IN THE LINE OR STAFF CORPS OF THE 
+     U.S. NAVY, PURSUANT TO TITLE 10, UNITED STATES CODE, SECTION 
+     531:
+
+CHARLES ARMSTRONG, 000-00-0000
+PHILLIP BLACK, 000-00-0000
+BYRON BOENING, 000-00-0000
+MATTHEW BURNS, 000-00-0000
+MICHAEL CAMDEN, 000-00-0000
+DARRELL CANADY, 000-00-0000
+CHAD CICCI, 000-00-0000
+JOSE CORDERO, 000-00-0000
+JOHN EDSON, 000-00-0000
+MARK ELLINGSON, 000-00-0000
+ANTHONY ERICKSON, 000-00-0000
+FRANCIS FRANKY, 000-00-0000
+TODD FREISCHLAG, 000-00-0000
+JASON GOOGE, 000-00-0000
+ROBERT LAWRENCE, 000-00-0000
+KYLE LEESE, 000-00-0000
+MALCOLM MARTIN, 000-00-0000
+TYLER MAW, 000-00-0000
+BRIAN PERKINS, 000-00-0000
+PETER RIES, 000-00-0000
+MICHAEL RUDZIENSKY, 000-00-0000
+BENJAMIN RYAN, 000-00-0000
+LUIS SANCHEZ, 000-00-0000
+DAVID SAUVE, 000-00-0000
+JAMES SHANE, 000-00-0000
+ANDRE SMOLENACK, 000-00-0000
+BENJAMIN SNELL, 000-00-0000
+ROB STEVENSON, 000-00-0000
+WILLIAM SUTTON, 000-00-0000
+JOHN TENCER, 000-00-0000
+JEFFREY VICARIO, 000-00-0000
+WINCESLAS WEEMS, 000-00-0000
+
+       THE FOLLOWING-NAMED NAVAL RESERVE OFFICERS TRAINING CORPS 
+     PROGRAM CANDIDATE TO BE APPOINTED PERMANENT ENSIGN IN THE 
+     STAFF CORPS OF THE U.S. NAVY, PURSUANT TO TITLE 10, UNITED 
+     STATES CODE, SECTION 531:
+
+CALEB POWELL, JR., 000-00-0000
+
+       THE FOLLOWING-NAMED NAVY ENLISTED COMMISSION PROGRAM 
+     CANDIDATES TO BE APPOINTED PERMANENT ENSIGN IN THE LINE OF 
+     THE U.S. NAVY, PURSUANT TO TITLE 10, UNITED STATES CODE, 
+     SECTION 531:
+
+ANDRE D. BROWN, 000-00-0000
+GARY G. ELVIK, 000-00-0000
+JAMES R. FELTS, 000-00-0000
+GARY L. JACOBSEN, 000-00-0000
+William J. Ossenfort, 000-00-0000
+bernard l. simonson, 000-00-0000
+
+       The following-named distinguished naval graduates to be 
+     appointed permanent ensign in the line of the u.s. navy, 
+     pursuant to title 10, United States code, section 531:
+
+kyle d. brady, 000-00-0000
+david d. decker, 000-00-0000
+evan l. morrison, 000-00-0000
+dale pulczinski, 000-00-0000
+alan wilcox, 000-00-0000
+
+       the following-named u.s. naval officers to be appointed 
+     permanent lieutenant in the judge advocate general corps of 
+     the u.s. navy, pursuant to title 10, United States code, 
+     section 531:
+
+erin e. daugherty, 000-00-0000
+tara m. lee, 000-00-0000
+anthony j. mazzeo, 000-00-0000
+gary e. sharp, 000-00-0000
+robert a. williams, 000-00-0000
+
+       the following-named former u.s. navy officer to be 
+     appointed permanent captain in the medical corps of the u.s. 
+     naval reserve, pursuant to title 10, United States code, 
+     section 12203:
+
+david l. goodman, 000-00-0000
+
+       the following-named u.s. navy officers to be appointed 
+     permanent commander in the medical corps of the u.s. naval 
+     reserve, pursuant to title 10, United States code, section 
+     12203:
+
+john k. burns, 000-00-0000
+paul j. juliano, 000-00-0000
+
+       the following-named medical college graduate to be 
+     appointed permanent commander in the dental corps of the u.s. 
+     naval reserve, pursuant to title 10, United States code, 
+     section 12203:
+
+timothy e. spencer, 000-00-0000
+
+       the following u.s. navy officer to be appointed permanent 
+     commander in the dental corps of the u.s. naval reserve, 
+     pursuant to title 10, United States code, section 12203:
+
+paul t. broere, 000-00-0000
+
+
+                            in the air force
+
+       THE FOLLOWING-NAMED OFFICERS FOR PROMOTION IN THE AIR FORCE 
+     RESERVE, UNDER THE PROVISIONS OF SECTIONS 12203, 8362 AND 
+     8371, TITLE 10, UNITED STATES CODE.
+
+
+                                  LINE
+
+                             To be colonel
+
+EDWARD A. ASKINS, 000-00-0000
+JOHN D. BAILEY, 000-00-0000
+ROBERT E. BAILEY, JR, 000-00-0000
+STEPHEN R. BARNES, 000-00-0000
+LAWRENCE N. BARTON, JR, 000-00-0000
+ARCHER B. BATTISTA, 000-00-0000
+DONALD E. BEERS, 000-00-0000
+MAUREEN H. BERGENFELD, 000-00-0000
+WILLIAM A. BLUMBERG, 000-00-0000
+JAMES E. BROWN, 000-00-0000
+JON A. BROWN, 000-00-0000
+WARREN E. BUCHER, 000-00-0000
+JOHN B. BUCHHEISTER, 000-00-0000
+JONATHAN F. BUSHNELL, JR, 000-00-0000
+RICHARD L. BUTEFISH, 000-00-0000
+JOSEPH C. BYNUM III, 000-00-0000
+JONATHAN W. CAMPBELL, 000-00-0000
+LARRY J. CARNAHAN, 000-00-0000
+FRED F. CASTLE, JR, 000-00-0000
+RICHARD W. CHAMPION, 000-00-0000
+JOHN R. CHURCH, 000-00-0000
+JOSEPH F. CIRRINCIONE, 000-00-0000
+ALAN B. CLUNE, 000-00-0000
+JOSEPH L. CORDINA, 000-00-0000
+ROBERT L. CORLEY, 000-00-0000
+HARLON D. CRIMM, 000-00-0000
+CARL M. CRUG, 000-00-0000
+ROBERT G. CUTLIP, 000-00-0000
+CHARLES L. EARLY, JR, 000-00-0000
+ROBERT T. EDWARDS, 000-00-0000
+JAMES J. EMMA, 000-00-0000
+FRANK R. FAULKNER, 000-00-0000
+JULIETTE C. FINKENAUER, 000-00-0000
+VADE G. FORRESTER, JR, 000-00-0000
+DAVID L. FROSTMAN, 000-00-0000
+OWEN C. GADEKEN, 000-00-0000
+MARIAN F. GETZELMAN, 000-00-0000
+RICHARD H. GIBBS, 000-00-0000
+IRIS C. GILBERT, 000-00-0000
+THOMAS M. GRAHAM, 000-00-0000
+HENRY L. GRAVES, JR, 000-00-0000
+EDWIN B. GRIGGS, 000-00-0000
+JOHN H. GRUESER, 000-00-0000
+STEVEN W. HARDEN, 000-00-0000
+WALTER W. HARRINGTON, 000-00-0000
+THOMAS H. HART, 000-00-0000
+MICHAEL P. HAYES, 000-00-0000
+MICHAEL J. HEIDINGSFIELD, 000-00-0000
+JEFFREY HOLSHOUSER, 000-00-0000
+CHARLES L. HOLSWORTH, 000-00-0000
+GEOFFRY S. HOWARD, 000-00-0000
+DANIEL M. KETTER, 000-00-0000
+FRANCIS B. LANE, 000-00-0000
+WILLIAM C. LAWRENCE, 000-00-0000 
+
+[[Page S287]]
+
+VALENTINE F. LYNCH, 000-00-0000
+LINDELL W. MABUS, 000-00-0000
+CHARLES G. MACDONALD, 000-00-0000
+WAYNE E. MAROTZ, 000-00-0000
+ELLEN C. MATZ, 000-00-0000
+DAVID J. MCCARTHY, 000-00-0000
+DIANNE R. MCILVOY, 000-00-0000
+RONALD V. MEILSTRUP, 000-00-0000
+JAMES L. MELIN, 000-00-0000
+KEITH W. MEURLIN, 000-00-0000
+MARK K. MILLER, 000-00-0000
+GARY P. MIXON, 000-00-0000
+LAURENCE P. MOLLOY, JR, 000-00-0000
+JOSEPH T. MOLYSON, JR, 000-00-0000
+JERRY L. MONTGOMERY, 000-00-0000
+FRANCIS M. MUNGAVIN, 000-00-0000
+MICHAEL P. MURPHEY, 000-00-0000
+JOSEPH NABOZNY, 000-00-0000
+BRADFORD C. NEAL, 000-00-0000
+GAIL H. NELSON, 000-00-0000
+MICHAEL T. OHALLORAN, 000-00-0000
+LANCE S. OKIMOTO, 000-00-0000
+ROBERT D. OLSON, 000-00-0000
+JOSEPH G. ONEILL, 000-00-0000
+NELSON E. OUTTEN, 000-00-0000
+JOHN PELLEGRINO, 000-00-0000
+WILLIAM M. RAJCZAK, 000-00-0000
+MARK R. REPKO, 000-00-0000
+DOUGLAS C. ROPER, 000-00-0000
+JAMES T. RUBEOR, 000-00-0000
+HENDRICK W. RUCK, 000-00-0000
+ALLAN J. SARRAT, JR, 000-00-0000
+RICHARD R. SEVERSON, 000-00-0000
+DOLORES K. SHERMAN, 000-00-0000
+JAMES M. SMITH, 000-00-0000
+JAMES W. SMOLKA, 000-00-0000
+ERIC L. STEPHENS, 000-00-0000
+RICHARD W. STINE, 000-00-0000
+DONALD J. SWANINGER, 000-00-0000
+THOMAS V. TAMEZ, 000-00-0000
+THOMAS D. TAVERNEY, 000-00-0000
+ROBERT P. VITRIKAS, 000-00-0000
+EDWARD R. VOGLER, 000-00-0000
+DANIEL A. WAKLEY, 000-00-0000
+PHILIP D. WEBB, 000-00-0000
+ROBERT D. WELSH, 000-00-0000
+JAMES W. WHITAKER, 000-00-0000
+DALE TIMOTHY WHITE, 000-00-0000
+ROBERT L. WHITE, 000-00-0000
+FLOYD C. WILLIAMS, 000-00-0000
+TIMOTHY J. WRIGHTON, 000-00-0000
+
+
+                             chaplain corps
+
+                             To be colonel
+
+ROGER L. BACON, 000-00-0000
+JOHN H. ELLEDGE, JR, 000-00-0000
+DONALD W. MUSSER, 000-00-0000
+MARK J. SPENCE, 000-00-0000
+
+
+                              dental corps
+
+                             To be colonel
+
+DONALD E. BERWANGER, 000-00-0000
+DAVID D. CRICHTON III, 000-00-0000
+DAVID T. EARNEST, 000-00-0000
+RICHARD D. HARMON, 000-00-0000
+ROBERT B. JAMES, 000-00-0000
+ROBERT S. JOHNSON, 000-00-0000
+
+
+                             judge advocate
+
+                             To be colonel
+
+DONALD A. ANDERSON, 000-00-0000
+CARL R. BEHRENS, 000-00-0000
+WILLIAM O. BRESNICK, 000-00-0000
+ALBERT C. DEPENBROCK, 000-00-0000
+EDMUND G. FLYNN, 000-00-0000
+DERRICK R. FRANCK, 000-00-0000
+BRUCE E. HAWLEY, 000-00-0000
+JOHN N. KULAS, 000-00-0000
+GREGORY E. MICHAEL, 000-00-0000
+KENNETH M. MURCHISON, 000-00-0000
+JOHN S. ODOM, JR, 000-00-0000
+JOHN B. SOUTHARD, JR, 000-00-0000
+RONALD R. STICKA, 000-00-0000
+
+
+                             medical corps
+
+                             To be colonel
+
+THOMAS L. ARNTSON, 000-00-0000
+JAMES F. BLAKELY, 000-00-0000
+WILLIAM M. CASKEY, 000-00-0000
+JOHN R. DIMAR II, 000-00-0000
+RICHARD O. DOLINAR, 000-00-0000
+VAL D. DUNN, 000-00-0000
+WILLIAM J. DUNN, 000-00-0000
+RODRIGO B. FLORO, 000-00-0000
+DOUGLAS K. HOLMES, 000-00-0000
+STEVEN R. HORN, 000-00-0000
+BRUCE W. JENSEN, 000-00-0000
+MAURICE D. LEVY, 000-00-0000
+YASH P. MALHOTRA, 000-00-0000
+LOUIS PANG, 000-00-0000
+FRANK SPARANDERO, 000-00-0000
+SEETHA G. SURYAPRASAD, 000-00-0000
+JAMES K. WRIGHT, 000-00-0000
+
+
+                              nurse corps
+
+                             To be colonel
+
+PATRICIA R. BALLENTINE, 000-00-0000
+PENELOPE A. BURNS, 000-00-0000
+LINDA L. CARNEAL, 000-00-0000
+CAROL G. ELLIOTT, 000-00-0000
+SANDRA L. ERICKSON, 000-00-0000
+LORI A. FICHMAN, 000-00-0000
+LOISANN M. HOPKIN, 000-00-0000
+MARY M. MARTIN, 000-00-0000
+JANICE M. MC KIBBAN, 000-00-0000
+PATRICIA M. MOSS, 000-00-0000
+SUSAN J. QUINN, 000-00-0000
+KAREN S. RIORDAN, 000-00-0000
+CLYDE A. ROKKE, 000-00-0000
+MARIAN B. SIDES, 000-00-0000
+RITA M. SOLANDER, 000-00-0000
+BETTY J. TAPP, 000-00-0000
+NANCY D. THOMPSON, 000-00-0000
+ROSALIE A. WAHLSTROM, 000-00-0000
+
+
+                         medical service corps
+
+                             To be colonel
+
+GERALD L. ANDRICK, 000-00-0000
+SEYMOUR WIENER, 000-00-0000
+
+
+                        biomedical service corps
+
+                             To be colonel
+
+LAWRENCE R. BARRETT, 000-00-0000
+MARSHA L. CHEESEMAN, 000-00-0000
+JEANINE G. COLBURN, 000-00-0000
+CHARLES W. JONES, 000-00-0000
+GEORGE W. SCHLOSSNAGLE, 000-00-0000
+JAMES L. SCOTT, 000-00-0000
+       THE FOLLOWING-NAMED OFFICERS FOR PROMOTION IN THE U.S. AIR 
+     FORCE, UNDER THE APPROPRIATE PROVISIONS OF SECTION 624, TITLE 
+     10, U.S.C., AS AMENDED, WITH DATES OF RANK TO BE DETERMINED 
+     BY THE SECRETARY OF THE AIR FORCE, AND THOSE OFFICERS 
+     IDENTIFIED BY AN ASTERISK FOR APPOINTMENT IN THE REGULAR AIR 
+     FORCE UNDER THE PROVISIONS OF SECTION 531, TITLE 10, U.S.C., 
+     WITH A. VIEW TO DESIGNATION UNDER THE PROVISIONS OF SECTION 
+     8067, TITLE 10, U.S.C., TO PERFORM DUTIES INDICATED PROVIDED 
+     THAT IN NO CASE SHALL THE FOLLOWING OFFICERS BE APPOINTED IN 
+     A GRADE HIGHER THAN INDICATED.
+
+
+                             judge advocate
+
+                        To be lieutenant colonel
+
+ANDREA M. ANDERSEN, 000-00-0000
+JACK L. ANDERSON, 000-00-0000
+HARRY J. BATEY, 000-00-0000
+RALPH A. BAUER, 000-00-0000
+STEPHEN H. BLEWETT, 000-00-0000
+WILLIAM E. BOYLE, 000-00-0000
+DAVID F. BRASH, 000-00-0000
+CHRISTOPHER F. BURNE, 000-00-0000
+JOHN S. CHAMBLEE, 000-00-0000
+LE ELLEN COACHER, 000-00-0000
+ROBERT E. COACHER, 000-00-0000
+PAUL J. COELUS, JR, 000-00-0000
+ROBERT V. COMBS II, 000-00-0000
+PAUL M. DANKOVICH, 000-00-0000
+MORRIS D. DAVIS, 000-00-0000
+ALLAN L. DETERT, 000-00-0000
+NORBERT J. DIAZ, 000-00-0000
+TERRENCE H. FARRELL, 000-00-0000
+WILLIAM GAMPEL, 000-00-0000
+GREGORY GIRARD, 000-00-0000
+WILLIE A. GUNN, 000-00-0000
+STEVEN A. HATFIELD, 000-00-0000
+BART HILLYER, 000-00-0000
+CHARLES P. KIELKOPF, 000-00-0000
+BEVERLY B. KNOTT, 000-00-0000
+JOHN H. KONGABLE, 000-00-0000
+MARIANNE O. LARIVEE, 000-00-0000
+PATRICK W. LINDEMANN, 000-00-0000
+JEFFREY C. LINDQUIST, 000-00-0000
+MARY J. LUDVIGSON, 000-00-0000
+MARGARET R. MC CORD, 000-00-0000
+JAMES E. MOODY, 000-00-0000
+ROGER W. OVERLAND, 000-00-0000
+GREGORY B. PORTER, 000-00-0000
+RAYMOND E. RISSLING, 000-00-0000
+MARK R. RUPPERT, 000-00-0000
+DAWN E. B. SCHOLZ, 000-00-0000
+KURT D. SCHUMAN, 000-00-0000
+SCOTT W. SINGER, 000-00-0000
+WALTER J. SKIERSKI, JR, 000-00-0000
+KEITH M. SORGE, 000-00-0000
+LAURENCE M. SOYBEL, 000-00-0000
+JOHN F. SPURLIN, 000-00-0000
+HOLLY M. STONE, 000-00-0000
+JO ANN STRINGFIELD, 000-00-0000
+STEVEN N. TOMANELLI, 000-00-0000
+JOSEPH V. TREANOR III, 000-00-0000
+DAVID R. VECERA, 000-00-0000
+ISRAEL B. WILLNER, 000-00-0000
+WAYNE WISNIEWSKI, 000-00-0000
+
+
+                              nurse corps
+
+                        To be lieutenant colonel
+
+MARIANNE B. AIRHART, 000-00-0000
+DALE E. ALLEN, 000-00-0000
+RUTH M. ANDERSON, 000-00-0000
+VINCENT P. BERNOTAS, 000-00-0000
+TERRY K. BLUE, 000-00-0000
+CECILLIA O. BOLAND, 000-00-0000
+THERESA M. BOSTWICK, 000-00-0000
+MARCI S. BOSWELL, 000-00-0000
+ELIZABETH L. BOWERS, 000-00-0000
+TYWANA F. C. BOWMAN, 000-00-0000
+TERESA A. CAMPBELL, 000-00-0000
+CHERYL A. CARROLL, 000-00-0000
+MARYLOU CARSON, 000-00-0000
+NANCY L. CHENEVEY, 000-00-0000
+BRIAN L. CLAYTON, 000-00-0000
+JOHNNIE M. COBWELL, 000-00-0000
+JANE E. COZIER, 000-00-0000
+FLORENCE B. CRUZ, 000-00-0000
+CINDY A. DAVIS, 000-00-0000
+RUTH DEPALANTINO, 000-00-0000
+STEPHEN R. DISTASIO, JR, 000-00-0000
+RUTH M. ECKERT, 000-00-0000
+MARGARET T. ELGIN, 000-00-0000
+KATHLYN M. EYDENBERG, 000-00-0000
+MARIE E. FERRELL, 000-00-0000
+BLAKE W. FOLDEN, 000-00-0000
+RICHARD L. FORTNER, 000-00-0000
+RENEE M. GREER, 000-00-0000
+CORNELIA A. GRIFFIN, 000-00-0000
+MARGARET A. GRIFFIN, 000-00-0000
+KATHRYN R. HAMILTON, 000-00-0000
+TERRY L. HAMMOND, 000-00-0000
+BETTY S. HARRIS, 000-00-0000
+J. WILLIAM HARTLEY, 000-00-0000
+KARLA K. HERRES, 000-00-0000
+CONSTANCE D. HICKMAN, 000-00-0000
+RICHARD M. HOLT, 000-00-0000
+BARBARA A. HOSTETLER, 000-00-0000
+LORI K. IRWIN, 000-00-0000
+VICKI D. JOHNSON, 000-00-0000
+LESLIE W. JOHNSTON, 000-00-0000
+JOHN A. KENNEY, 000-00-0000
+DENISE L. KLAPP, 000-00-0000
+KATHLEEN M. KOLES, 000-00-0000
+BETH M. KRISTENSON, 000-00-0000
+SUSAN M. LAHAIE, 000-00-0000
+JAMES L. LANGLOIS, JR, 000-00-0000
+STACY L. LANHAMLAHERA, 000-00-0000
+IRENE D. LARSON, 000-00-0000
+CHERYL A. MANEY, 000-00-0000
+MAURA S. MC AULIFFE, 000-00-0000
+PATRICIA J. MC CAFFREY, 000-00-0000
+MAUREEN A. MC HUGHCASTRO, 000-00-0000
+LINDA F. MILLER, 000-00-0000
+MARC W. MURPHY, 000-00-0000
+BARBARA AG NEDERVELT, 000-00-0000
+PATRICIA L. NESS, 000-00-0000
+CANDY J. NISTLER, 000-00-0000
+ANTHONY J. PINTO, 000-00-0000
+SYLVIA A. PRINGLE, 000-00-0000
+HARRIET A. QUESENBERRY, 000-00-0000
+ELIZABETH S. ROBISON, 000-00-0000
+IRMGARD RONDEAU, 000-00-0000
+CHARLES R. ROUNTREE, 000-00-0000
+RONALD E. RYDGREN, 000-00-0000
+SANDRA R. SCHMIDTBERRINGER, 000-00-0000
+MARY J. SNYDER, 000-00-0000
+JOEL P. SOLOMON, 000-00-0000
+LEWIS A. STANLEY, 000-00-0000
+BRIDGET S. STONUEY, 000-00-0000
+DONNA C. THERIOT, 000-00-0000
+GAIL M. THERRIEN, 000-00-0000
+KEIKO L. TORGERSEN, 000-00-0000
+CHARLES R. TUPPER, 000-00-0000
+STEPHEN H. TURNER, 000-00-0000
+CAROL L. VERMILLION, 000-00-0000
+LANETTE A. WATSON, 000-00-0000
+JANICE S. WILMOT, 000-00-0000
+LILLIANJOYCE STUCKEY WILSON, 000-00-0000
+
+
+                       biomedical sciences corps
+
+                        To be lieutenant colonel
+
+LORAINE H. ANDERSON, 000-00-0000
+WILLIAM S. ASTLEY, 000-00-0000
+MARY K. BALLENGEE, 000-00-0000
+NEAL BAUMGARTNER, 000-00-0000
+MARY A. BIGELOW, 000-00-0000
+CHARLES D. CAULKINS, 000-00-0000
+JOHN V. CIVITELLO, JR, 000-00-0000
+BRIAN K. DECKERT, 000-00-0000
+BRIAN W. DESANTIS, 000-00-0000
+JACKSON R. DOBBINS, 000-00-0000
+ROY T. FRANKLIN, 000-00-0000
+MARK F. GENTILMAN, 000-00-0000
+ALFRED S. GRAZIANO, JR, 000-00-0000
+JO A. HAGA, 000-00-0000
+HELEN M. HORNKINGERY, 000-00-0000
+WILLIAM B. HUFF, 000-00-0000
+EDWARD S. HUMPHREY, 000-00-0000
+BONNIE C. JOHNSON, 000-00-0000
+MICHAEL E. JOHNSON, 000-00-0000
+BARBARA J. LARCOM, 000-00-0000
+BRIAN L. LESTRANGE, 000-00-0000
+FRANK B. LIEBHABER, JR, 000-00-0000
+RUSSELL J. MEILING, 000-00-0000
+HARMON MELDRIM, 000-00-0000
+MARION C. MOHRI, 000-00-0000
+GEORGE NICOLAS, JR, 000-00-0000
+MICHAEL L. NORED, 000-00-0000
+MEADE PIMSLER, 000-00-0000
+STEPHEN G. REINHART, 000-00-0000
+PAULA S. SIMON, 000-00-0000
+SCOTT A. SIMPSON, 000-00-0000
+STEPHEN M. SMICKER, 000-00-0000
+JOHN D. STEIN, 000-00-0000
+GORDON B. SWAYZE, 000-00-0000
+MARK J. WELTER, 000-00-0000
+GREGORY Y. G. YOUNG, 000-00-0000
+MICHAEL E. YOUNG, 000-00-0000
+THOMAS M. ZAZECKIS, 000-00-0000
+
+       THE FOLLOWING-NAMED OFFICERS FOR PROMOTION IN THE U.S. AIR 
+     FORCE, UNDER THE APPROPRIATE PROVISIONS OF SECTION 624, TITLE 
+     10, U.S.C., AS AMENDED, WITH DATES OF RANK TO BE DETERMINED 
+     BY THE SECRETARY OF THE AIR FORCE, AND THOSE OFFICERS 
+     IDENTIFIED BY AN ASTERISK FOR APPOINTMENT IN THE REGULAR AIR 
+     FORCE UNDER THE PROVISIONS OF SECTION 531, TITLE 10, U.S.C., 
+     WITH A VIEW TO DESIGNATION UNDER THE PROVISIONS OF SECTION 
+     8067, TITLE 10, U.S.C., TO PERFORM DUTIES INDICATED PROVIDED 
+     THAT IN NO CASE SHALL THE FOLLOWING OFFICERS BE APPOINTED IN 
+     A GRADE HIGHER THAN INDICATED. 
+     
+[[Page S288]]
+
+
+
+                             judge advocate
+
+                              To be major
+
+THOMAS M. AYZE, 000-00-0000
+DARYL L. BELL, 000-00-0000
+DAVID L. BELL, 000-00-0000
+JERRI G. BREWER, 000-00-0000
+LEONARD L. BROSEKER, 000-00-0000
+GARY D. BROWN, 000-00-0000
+GERALD Q. BROWN, 000-00-0000
+JAMES C. BUCKELS, 000-00-0000
+JAMES V. CANNIZZO, 000-00-0000
+DONNA M. CLARK, 000-00-0000
+TIMOTHY J. COTHREL, 000-00-0000
+DAVID J. DICENSO, 000-00-0000
+MATTHEW L. DUFFIN, 000-00-0000
+KEVIN J. FLEMING, 000-00-0000
+TRACI D. GUARINIELLO, 000-00-0000
+CLARENCE P. GUILLORY, JR., 000-00-0000
+TAMARA S. HOLDER, 000-00-0000
+SHARON A. HOMOLKA, 000-00-0000
+ROBERT S. HOWARD, 000-00-0000
+CAROL L. HUBBARD, 000-00-0000
+CHARLIE M. JOHNSONWRIGHT, 000-00-0000
+STEVEN E. JONES, 000-00-0000
+ELIZABETH KELLY, 000-00-0000
+POLLY S. KENNY, 000-00-0000
+KEVIN P. KOEHLER, 000-00-0000
+WILLIAM R. KRAUS, 000-00-0000
+WILLIAM A. KURLANDER, 000-00-0000
+ANDREW S. LADE, 000-00-0000
+ROBERT P. MAGGARD, 000-00-0000
+KAREN E. MAYBERRY, 000-00-0000
+JOHN F. MC CUNE, 000-00-0000
+JOHN S. MEADOR, 000-00-0000
+CRAIG G. MILLER, 000-00-0000
+ROBERT M. MITCHELL, 000-00-0000
+DOUGLAS G. MURDOCK, 000-00-0000
+NANCY J. PAUL, 000-00-0000
+RONALD R. RATTON, 000-00-0000
+SHAUN T. RILEY, 000-00-0000
+JOSEPH P. SCHMITZ, 000-00-0000
+MICHAEL A. SCIALES, 000-00-0000
+LANCE B. SIGMON, 000-00-0000
+STANLEY R. SMITH, 000-00-0000
+RANDALL G. SNOW, 000-00-0000
+THOMAS R. SPARKS, 000-00-0000
+DAVID C. STEWART, 000-00-0000
+SHARON K. SUGHRU, 000-00-0000
+JOSE C. TAURO III, 000-00-0000
+CHERYL H. THOMPSON, 000-00-0000
+STEVEN B. THOMPSON, 000-00-0000
+MICHAELISA M. TOMASICLANDER, 000-00-0000
+JAMES B. WAGER, JR., 000-00-0000
+ROBERT E. WATSON, 000-00-0000
+BRYAN T. WHEELER, 000-00-0000
+
+       THE FOLLOWING-NAMED OFFICERS FOR PROMOTION IN THE U.S. AIR 
+     FORCE, UNDER THE APPROPRIATE PROVISIONS OF SECTION 624, TITLE 
+     10, U.S.C., AS AMENDED, WITH DATES OF RANK TO BE DETERMINED 
+     BY THE SECRETARY OF THE AIR FORCE, AND THOSE OFFICERS 
+     IDENTIFIED BY AN ASTERISK FOR APPOINTMENT IN THE REGULAR AIR 
+     FORCE UNDER THE PROVISIONS OF SECTION 531, TITLE 10, U.S.C., 
+     WITH A VIEW TO DESIGNATION UNDER THE PROVISIONS OF SECTION 
+     8067, TITLE 10, U.S.C., TO PERFORM DUTIES INDICATED PROVIDED 
+     THAT IN NO CASE SHALL THE FOLLOWING OFFICERS BE APPOINTED IN 
+     A GRADE HIGHER THAN INDICATED.
+
+
+                              DENTAL CORPS
+
+                             To be colonel
+
+STEPHEN W. ANDREWS, 000-00-0000
+DONALD M. BELLES, 000-00-0000
+JOHN B. BRILEY, 000-00-0000
+JAMES C. BROOME, JR., 000-00-0000
+MICHAEL R. BROWN, 000-00-0000
+MARK T. CARLSON, 000-00-0000
+DOUGLAS A. CLARKE, 000-00-0000
+WALTER C. DANIELS, 000-00-0000
+RICHARD D. DAVIS, 000-00-0000
+ALEX A. DEPERALTA, JR., 000-00-0000
+HERMAN S. DICKERSON, 000-00-0000
+DOUGLAS B. EVANS, 000-00-0000
+KENNETH R. EYE, 000-00-0000
+ROBERT M. GARRETT, 000-00-0000
+GEORGE J. GERDTS, 000-00-0000
+JAMES A. GLAESS, 000-00-0000
+JEFFREY C. HAMBLETON, 000-00-0000
+JEANNE HANSENBAYLESS, 000-00-0000
+JOHN S. HORNBURG, 000-00-0000
+BRUCE A. KENNEDY, 000-00-0000
+WALTER C. KIRK, JR., 000-00-0000
+ROBERT B. LARSEN, 000-00-0000
+KENNETH A. LEVIN, 000-00-0000
+MICHAEL W. MARTIN, 000-00-0000
+WILLIAM S. MOORE, 000-00-0000
+DAVID F. MURCHISON, 000-00-0000
+BRENT E. NELSEN, 000-00-0000
+STEVEN J. NEVINS, 000-00-0000
+ALAN D. NEWTON, 000-00-0000
+GLENDA E. S. NUCKOLS, 000-00-0000
+ROBERT A. OLSON, 000-00-0000
+JOHNIE D. OVERTON, 000-00-0000
+THOMAS J. PLAMONDON, 000-00-0000
+RONALD L. PLEIS, 000-00-0000
+FORREST R. POINDEXTER, 000-00-0000
+STEPHEN W. PORTER, 000-00-0000
+MARIA A. RABBIO, 000-00-0000
+WILLIAM H. RAINES, 000-00-0000
+REX T. RAPER, 000-00-0000
+JOHN J RICHTER III, 000-00-0000
+STEVEN A RUFFIN, 000-00-0000
+KIRK D. SATROM, 000-00-0000
+STEPHEN A SCHMIDT, 000-00-0000
+THOMAS R SCHNEID, 000-00-0000
+ERIC S SCHUERMER, 000-00-0000
+NATHAN W SCHWANDT, 000-00-0000
+RONALD K SCOVILLE, 000-00-0000
+JAY C SMITH, 000-00-0000
+MICHAEL W SMITH, 000-00-0000
+SUSAN J SMYTHE, 000-00-0000
+FAITH A THOMAS, 000-00-0000
+GARY V VIGIL, 000-00-0000
+DERICK K WILCHER, 000-00-0000
+
+
+                             MEDICAL CORPS
+
+                             To be colonel
+
+JOSEPH ARGYLE, 000-00-0000
+HANS E ARVIDSON, 000-00-0000
+THOMAS E BALDWIN, 000-00-0000
+THOMAS N BEACH, 000-00-0000
+FRANKLIN M BOYER, JR, 000-00-0000
+STEPHEN B CHRISMAN, 000-00-0000
+CRANDON F CLARK, JR, 000-00-0000
+GLENN C COCKERHAM, 000-00-0000
+KENNETH R DAVIS, 000-00-0000
+JEAN B DORVAL, 000-00-0000
+RANDALL E FELLMAN, 000-00-0000
+ALBERT P FISCHER, JR, 000-00-0000
+JAMES C FUNDERBURG, 000-00-0000
+SCHUYLER K GELLER, 000-00-0000
+TIMOTHY GEORGELAS, 000-00-0000
+WILLIAM J GERMANN, 000-00-0000
+JOAN R GRIFFITH, 000-00-0000
+WILLIAM K HAMILTON, 000-00-0000
+DAVID V HANSEN, 000-00-0000
+GARY K HARGROVE, 000-00-0000
+CRAIG T HATTON, 000-00-0000
+CHRISTOPHER N HEINRICHS, 000-00-0000
+ROBERT B HULL, 000-00-0000
+FREDERICK W JONES, 000-00-0000
+HALIFAX C KING, 000-00-0000
+PETER S KROGH III, 000-00-0000
+HARRY W KUBERG, 000-00-0000
+LEON W KUNDROTAS, 000-00-0000
+DAVID A LANTZ, 000-00-0000
+JAMES l LAUB, 000-00-0000
+JOHN D LESSER II, 000-00-0000
+MICHAEL W LISCHAK, 000-00-0000
+LARRY G MADEN, 000-00-0000
+MICHAEL R MAROHN, 000-00-0000
+DONALD C MC CURNIN, 000-00-0000
+GARRISON V MORIN, 000-00-0000
+RICHARD C NIEMTZOW, 000-00-0000
+THOMAS J O'DONNELL, 000-00-0000
+MICHAEL D PARKINSON, 000-00-0000
+JEB S PICKARD, 000-00-0000
+ROBERT W RECTENWALD, 000-00-0000
+GREGORY T REHE, 000-00-0000
+LONDE A RICHARDSON, 000-00-0000
+RUTH A ROBINSON, 000-00-0000
+RICHARD H ROWE, 000-00-0000
+SARLA K SAUJANI, 000-00-0000
+KATHERINE E SCHEIRMAN, 000-00-0000
+RASA S SILENAS, 000-00-0000
+DAVID H SUMMERS, 000-00-0000
+MARK G SWEDENBURG, 000-00-0000
+EDWARD TAXIN, 000-00-0000
+GREGORY J TOUSSAINT, 000-00-0000
+RODGER D VANDERBEEK, 000-00-0000
+STEPHEN G WALLER, 000-00-0000
+CARL L WILLIAMS, 000-00-0000
+RICHARD S WILLIAMS, 000-00-0000
+BRADLEY A YODER, 000-00-0000
+BUJUNG ZEN, 000-00-0000
+ROBERT G ZERULL, 000-00-0000
+
+
+                              DENTAL CORPS
+
+                        To be lieutenant colonel
+
+THOMAS W BECKMAN, 000-00-0000
+PAUL E BROWN, 000-00-0000
+TIMOTHY S CLASEMAN, 000-00-0000
+CORYDON L DOERR, 000-00-0000
+RANDALL C DUNCAN, 000-00-0000
+DOUGLAS M ERICKSON, 000-00-0000
+JAMES M GAMBILL, 000-00-0000
+MICHAEL C HALL, 000-00-0000
+GRANT R HARTUP, 000-00-0000
+ROBERT G KARKER, 000-00-0000
+JAMES E KING, JR, 000-00-0000
+JOHN C KRESIN, 000-00-0000
+GARY C MARTIN, 000-00-0000
+MARY ELLEN MC LEAN, 000-00-0000
+ERIK J MEYERS, 000-00-0000
+RICHARD R MILLER, 000-00-0000
+GARRY L MYERS, 000-00-0000
+ROBERT H POINDEXTER, 000-00-0000
+CHARLES A POWELL, 000-00-0000
+MARK S RASCH, 000-00-0000
+HOWARD W ROBERTS, 000-00-0000
+DAVID A STANCZYK, 000-00-0000
+VINCENT J TAKACS, 000-00-0000
+DOUGLAS C WILSON, 000-00-0000
+
+
+                             MEDICAL CORPS
+
+                        To be lieutenant colonel
+
+MICHAEL J. AINSCOUGH, 000-00-0000
+DENNA E. ALI, 000-00-0000
+RICHARD E. BACHMANN, JR., 000-00-0000
+MARGARET L. BARNESRIVERA, 000-00-0000
+STEVEN A. BARRINGTON, 000-00-0000
+WILLIAM H. BARTH, JR., 000-00-0000
+ALAN B. BERG, 000-00-0000
+CATHERINE E. BIERSACK, 000-00-0000
+JEFFREY M. BISHOP, 000-00-0000
+DOUGLAS F. BOLDA, 000-00-0000
+GEORGE T. BOLTON, 000-00-0000
+DEBORAH J. BOSTOCK, 000-00-0000
+JAMES A. BOURGEOIS, 000-00-0000
+MARK W. BOWYER, 000-00-0000
+DEBORAH N. BURGESS, 000-00-0000
+EDWARD C. CALLAWAY, 000-00-0000
+DEAN W. CARLSON, 000-00-0000
+JUNE A. CARRAHER, 000-00-0000
+DELOS D. CARRIER, 000-00-0000
+DOUGLAS J. CHADBOURNE, 000-00-0000
+CRAIGHTON CHIN, 000-00-0000
+JOHN T. CINCO, 000-00-0000
+STEVEN C. COGSWELL, 000-00-0000
+DAVID L. CULL, 000-00-0000
+DAVID L. DAWSON, 000-00-0000
+RICHARD J. DELORENZO, JR., 000-00-0000
+JEFFREY G. DEMAIN, 000-00-0000
+THOMAS H. DOUGHERTY, 000-00-0000
+PRESTON M. DUNNMON, 000-00-0000
+EUGENE D. EDDLEMON, 000-00-0000
+ROBERT W. ELLIS, 000-00-0000
+ANN E. FARASH, 000-00-0000
+CHARLES R. FISHER, JR., 000-00-0000
+WYATT C. FOWLER, 000-00-0000
+DANIEL C. GARNER, 000-00-0000
+THOMAS F. GEORGE, 000-00-0000
+ANTHONY T. GHIM, 000-00-0000
+KARA L. HAAS, 000-00-0000
+DAN R. HANSEN, 000-00-0000
+CRAIG D. HARTRANFT, 000-00-0000
+ANTHONY L. HATCHER, 000-00-0000
+AIMEE L. HAWLEY, 000-00-0000
+JAMES H. HENDERSON II, 000-00-0000
+JAMES H. HERIOT, 000-00-0000
+TODD D. HESS, 000-00-0000
+BRUCE T. HEWETT, 000-00-0000
+STEPHEN R. HOLT, 000-00-0000
+JOHN S. HUNT, 000-00-0000
+ROBERT R. IRELAND, 000-00-0000
+MARK A. JEFFRIES, 000-00-0000
+DAVID M. JENKINS, 000-00-0000
+LARRY N. JOHNSON, 000-00-0000
+VINCENT T. JONES, 000-00-0000
+KEVIN T. JORDAN, 000-00-0000
+LISA M. JUDGE, 000-00-0000
+EVAN Z. KAPP, 000-00-0000
+howard l. katz, 000-00-0000
+william b. klein, 000-00-0000
+christopher j. knapp, 000-00-0000
+Kathy a. lacivita, 000-00-0000
+timonthy j. ladner, 000-00-0000
+tomas f. lichauco, 000-00-0000
+christopher j. lisanti, 000-00-0000
+gael j. lonergan, 000-00-0000
+robert c. lowe, 000-00-0000
+matthew l. lukens, 000-00-0000
+karen m. mathews, 000-00-0000
+donald k. matthews, 000-00-0000
+kevin m. mc cabe, 000-00-0000
+mark d. miller, 000-00-0000
+elizabeth a. milum, 000-00-0000
+paul s. mueller, 000-00-0000
+peter m. murray, 000-00-0000
+david sydney nix, 000-00-0000
+kevin j. o'toole 000-00-0000
+martin g. ottolini, 000-00-0000
+robert a. panico, 000-00-0000
+michael s. paranka, 5000-00-0000
+dennis pearman, 000-00-0000
+bradley e. personius, 000-00-0000
+dangtuan pham, 000-00-0000
+arnyce r. pock, 000-00-0000
+thomas m. polidore, 000-00-0000
+steven m. princiotta, 000-00-0000
+mark k. reed, 000-00-0000
+michael j. reznicek, 000-00-0000
+david b. rhodes, 000-00-0000
+jose e. roman, 000-00-0000
+michael t. ryan, 000-00-0000
+terence d. ryan ii, 000-00-0000
+robert m. sadd, 000-00-0000
+edmund s. sabanegh, jr., 000-00-0000
+tracy l. samples, 000-00-0000
+vicente e. sanchezcastro, 000-00-0000
+michael schauber, 000-00-0000
+eric r. schwarz, 000-00-0000
+eric j. simko, 000-00-0000
+carl g. simpson, 000-00-0000
+gary d. Swain, 000-00-0000
+terry l. tomlinson, 000-00-0000
+laura a. torresreyes, 000-00-0000
+henry f. tripp, jr., 000-00-0000
+william j. valko, 000-00-0000
+marc a. valley, 000-00-0000
+david f. vanderburgh, 000-00-0000
+dennis d. weaver, 000-00-0000
+christopeher s. williams, 000-00-0000
+dorian j. wilson, 000-00-0000
+robert a. wilson, 000-00-0000
+mygleetus w. wright, 000-00-0000
+donald r. yoho jr., 000-00-0000
+
+
+                              dental corps
+
+                              To be major
+
+THADDEUS M. CHAMBERLAIN, 000-00-0000
+JAMES C. CHOI, 000-00-0000
+CHRISTOPHER CIAMBOTTI, 000-00-0000
+ANN M. COFFEY, 000-00-0000
+DOUGLAS B. CURRY, 000-00-0000
+JOHN A. DOLENZ, 000-00-0000
+LONNIE, D. EASTER, 000-00-0000
+BRUCE M. ERICKSON, 000-00-0000
+JAY E. FANDEL, 000-00-0000
+RICHARD R. FRAZIER, 000-00-0000
+ROGER J. GOLLON, 000-00-0000
+GUY F. GRABIAK, 000-00-0000
+DANIEL M. GREISING, 000-00-0000
+DANIEL HABERMAN, 000-00-0000
+
+[[Page S289]]
+
+MARISA H. HERMAN, 000-00-0000
+TRACY A. HUTCHISON, 000-00-0000
+GEORGE E. JOHNSON, 000-00-0000
+RICHARD L. JOHNSON, 000-00-0000
+BRIAN T. KERNAN, 000-00-0000
+ROBERT E. LANGSTEN, 000-00-0000
+ROBERT J. MALEK, 000-00-0000
+MICHAEL J. MAUGER, 000-00-0000
+RANDALL J. MC DANIEL, 000-00-0000
+MICHAEL F. MORRIS, 000-00-0000
+KEVIN J. MURPHY, 000-00-0000
+DAVID W. MURRAY, 000-00-0000
+MICHAEL D. MURRAY, 000-00-0000
+SUSAN M. OSOVITZPETERS, 000-00-0000
+DAVID F. PIERSON, 000-00-0000
+JOHN A. SAFAR, 000-00-0000
+SCOTT R. SCHUBKEGEL, 000-00-0000
+JAY S. TAYLOR, 000-00-0000
+MAREN DENNIS M. VAN, 000-00-0000
+JANE S. WALLACE, 000-00-0000
+MARK H. WRIGHT, 000-00-0000
+
+
+                             medical corps
+
+                              To be major
+
+MARTIN ABBINANTI, 000-00-0000
+GAIL D. ABBOTT, 000-00-0000
+LISA M. ADE, 000-00-0000
+MELISSA A. AERTS, 000-00-0000
+BRIAN D. AFFLECK, 000-00-0000
+EVAN C. ALLEN, 5000-00-0000
+NIMIA J. ALSTON, 000-00-0000
+FREDERICK J. ANDERSON, JR., 000-00-0000
+VALISIA A. ANDREWS, 000-00-0000
+BRYAN N. ANGLE, 000-00-0000
+JOHN L. ANTHONY, 000-00-0000
+EMILO A. ARISPE, 000-00-0000
+JAMES C ASHWORTH, 000-00-0000
+CARLOS R BAEZ, 000-00-0000
+MARY E BANE, 000-00-0000
+DAVID R BARNARD, 000-00-0000
+DOUGLAS E BARNES, 000-00-0000
+GEORGE T BARRON, JR, 000-00-0000
+CHARLES A BATEN, 000-00-0000
+TIMOTHY N BEAMESDERFER, 000-00-0000
+BRION J BEERLE, 000-00-0000
+DANIEL D BELLINGHAM, 000-00-0000
+JOHN R BENNETT, 000-00-0000
+BRAD Z BERGER, 000-00-0000
+DANNY P BERK, 000-00-0000
+MARTIN F BERTRAM, 000-00-0000
+LEROY G BEYER, JR, 000-00-0000
+KIP A BIDWELL, 000-00-0000
+WILLIAM A BIGGERS, JR, 000-00-0000
+JAY T BISHOFF, 000-00-0000
+MATTHEW F BITNER, 000-00-0000
+KAREN BLANKENBURG, 000-00-0000
+ELIZABETH STROH BLOOM, 000-00-0000
+JEFFREY A BOCK, 000-00-0000
+THOMAS S BOLAND, 000-00-0000
+WILLIAM T BOLEMAN, 000-00-0000
+JEFFREY R BORIS, 000-00-0000
+MARC W BOSTICK, 000-00-0000
+MARK A BRADSHAW, 000-00-0000
+CYNTHIA L BRANDENBURG, 000-00-0000
+WERNER C BROOKS, 000-00-0000
+DIANA P BROOMFIELD, 000-00-0000
+DAVID W BROUWER, 000-00-0000
+ANGELA M BROWN, 000-00-0000
+MARKHAM J BROWN, 000-00-0000
+TONYA R BROWN, 000-00-0000
+VICTORY Y M BROWN, 000-00-0000
+SCOTT M BROWNING, 000-00-0000
+LENARD C BRUNSDALE, 000-00-0000
+ANNE P BURGESS, 000-00-0000
+EDWIN K BURKETT, 000-00-0000
+HUGH A BURT, 000-00-0000
+ONIE BUSSEY, 000-00-0000
+JOSEPH A BUZOGANY, 000-00-0000
+DIANA R CAFARO, 000-00-0000
+JAMES T CALLAGHAN III, 000-00-0000
+KEVIN J CALLERAME, 000-00-0000
+DANILO O CANLAS, 000-00-0000
+KEVIN R CARPENTER, 000-00-0000
+FRANCISCO G CARPIO, 000-00-0000
+JOHN A CARRINO, 000-00-0000
+TODD E CARTER, 000-00-0000
+LANNIE J CATION, 000-00-0000
+JONATHAN T CHAI, 000-00-0000
+THOMAS D CHALLMAN, 000-00-0000
+BLAKE V CHAMBERLAIN, 000-00-0000
+BRYON CHAMBERLAIN, 000-00-0000
+GEORGE F CHIMENTO, 000-00-0000
+TODD E CHRISTENSEN, 000-00-0000
+ANDREW SUN WEN CHU, 000-00-0000
+MARILYN K CLARK, 000-00-0000
+STEVEN J CLARK, 000-00-0000
+MARCHEL W CLEMENTS, 000-00-0000
+MICHAEL EDWARD COGHLAN, 000-00-0000
+RAMON E COLINA, 000-00-0000
+DAVID R CONDIE, 000-00-0000
+JACQUES S COUSINEAU, 000-00-0000
+GEORGE B CREEL, 000-00-0000
+FRANK J CRIDDLE III, 000-00-0000
+WENDELL C DANFORTH, 000-00-0000
+LYNDA DANIELUNDERWOOD, 000-00-0000
+DEBORAH L DAUGHERTY, 000-00-0000
+JERRY E DAVIS, 000-00-0000
+MARY P DEFRANK, 000-00-0000
+RONALD N DELANOIS, 000-00-0000
+EUGENE F DELAUNE, 000-00-0000
+MARK A DEMOSS, 000-00-0000
+SCOT M DEPUE, 000-00-0000
+ANTHONY W DEUSTER, 000-00-0000
+DAVID W DEXTER, 000-00-0000
+JAIME L DICKERSON, 000-00-0000
+ROY J DILEO, 000-00-0000
+WILLIAM N DINENBERG, 000-00-0000
+JOSEPH A DINKINS, 000-00-0000
+FRANK G DITZ, 000-00-0000
+ALDO J DOMENICHINI, 000-00-0000
+ROBERT B DONEGAN, 000-00-0000
+GEORGE R DULABON, 000-00-0000
+BLACK RACHEL R DUNN, 000-00-0000
+THOMAS M DYE, 000-00-0000
+BRUCE M EDWARDS, 000-00-0000
+MARTIN G EDWARDS, 000-00-0000
+PETER J ELLIOTT, 000-00-0000
+KATHLEEN E EMPEN, 000-00-0000
+IREL S EPPICH, 000-00-0000
+MICHAEL J EPPINGER, 000-00-0000
+JAMES S EVANS, 000-00-0000
+JAMES W FARN, 000-00-0000
+PHILIP J FEARAHN, 000-00-0000
+ERIC B FEINBERG, 000-00-0000
+EDWARD L FIEG, 000-00-0000
+THOMAS G FIELD, 000-00-0000
+SCOTT P FIELDER, 000-00-0000
+MICHAEL D FIELDS, 000-00-0000
+ERIC M FINLEY, 000-00-0000
+STEPHANIE A FLESHER, 000-00-0000
+LESLIE R FLETCHER, JR, 000-00-0000
+RODERICK J FLOWERS, 000-00-0000
+DOUGLAS B FORSYTH, 000-00-0000
+PETER L FORT, 000-00-0000
+JOHN E FORTENBERRY, 000-00-0000
+DAVID R FOSS, 000-00-0000
+INDRA N FRANK, 000-00-0000
+KEVIN J FRANKLIN, 000-00-0000
+KURT E FRAUENPREIS, 000-00-0000
+STEVEN M FREED, 000-00-0000
+PAUL F FREITAS, 000-00-0000
+MICHAEL D FUGIT, 000-00-0000
+JULIEMARIE GERICK, 000-00-0000
+PAUL M GIBBS, 000-00-0000
+JOSEPH A GIOVANNINI, 000-00-0000
+RICHARD S GIST, 000-00-0000
+STEVEN P GOFF, 000-00-0000
+ROBIN S GOSSUM, 000-00-0000
+CARON JO GRAY, 000-00-0000
+GREGORY S GROSE, 000-00-0000
+BRIAN A GUNTER, 000-00-0000
+EVAN C GUZ, 000-00-0000
+KENT L HAGGARD, 000-00-0000
+RYAN T HAGINO, 000-00-0000
+JEFFREY L HAMILTON, 000-00-0000
+CYNTHIA K HAMPSON, 000-00-0000
+DENISE L HARKINS, 000-00-0000
+F THOMAS HARKINS, 000-00-0000
+STEVEN J HARLINE, 000-00-0000
+TYLER E HARRIS, 000-00-0000
+HOWARD S HAYNES, 000-00-0000
+JAMES W HAYNES, 000-00-0000
+TINA S HAYNES, 000-00-0000
+MICHAEL J HEARD, 000-00-0000
+AUGUST S HEIN, 000-00-0000
+MARK B HEINONEN, 000-00-0000
+ROBIN R HEMPHILL, 000-00-0000
+CHARLES A HENDERSON, 000-00-0000
+ALAN W HENLEY, 000-00-0000
+BARRY S HIGHBLOOM, 000-00-0000
+BARBARA A HILGENBERG, 000-00-0000
+PETER D HOLT, 000-00-0000
+CHARLES HOPE II 000-00-0000
+JOSEPH A HOWARD, 000-00-0000
+DANILO H HOYUMPA, 000-00-0000
+TADD T C HSIE, 000-00-0000
+IDA E HUANG, 000-00-0000
+MARK E HUBNER, 000-00-0000
+ROGER L HUMPHRIES, 000-00-0000
+PAUL W HUSER, 000-00-0000
+KIRK J HUTJENS, 000-00-0000
+RICHARD G IHNAT, 000-00-0000
+TERRI ANN IMUNDO, 000-00-0000
+LAURA O JACOBS, 000-00-0000
+JULI G JEFFREY, 000-00-0000
+JEFFERY R JENKINS, 000-00-0000
+LISA JOYCE JERVIS, 000-00-0000
+OLIVER W JERVIS, JR, 000-00-0000
+JAMES W JOHN, 000-00-0000
+CHARLES E JOHNSON, 000-00-0000
+DWIGHT C JOHNSON, 000-00-0000
+MICHAEL A JOHNSON, 000-00-0000
+KAY A JOHNSTON, 000-00-0000
+JOHN D JOSEPHS, 000-00-0000
+caesar a junker, 000-00-0000
+harold kaftan, 000-00-0000
+brent l kane, 000-00-0000
+timothy j kappel, 000-00-0000
+timothy e. kehn, 000-00-0000
+thomas e kehn, 000-00-0000
+daniel keleti, 000-00-0000
+mark j kellen, 000-00-0000
+toni c kilyk, 000-00-0000
+colin m kingston, 000-00-0000
+mary k klassen, 000-00-0000
+alexander klyashtorny, 000-00-0000
+mark a koeniger, 000-00-0000
+linda k kollross, 000-00-0000
+kim r koster, 000-00-0000
+andrea s kristofy, 000-00-0000
+timothy f kurt, 000-00-0000
+kristen j lancaster, 000-00-0000
+roger i lane, 000-00-0000
+keith r layne, 000-00-0000
+kari a leikert, 000-00-0000
+daniel j lenihan, 000-00-0000
+michael w lenihan, 000-00-0000
+william f. ligon, 000-00-0000
+timothy w lineberry, 000-00-0000
+richard j locicero, 000-00-0000
+kelly t locke, 000-00-0000
+don c loomer, 000-00-0000
+paul t lorentsen, 000-00-0000
+daniel l lott, 000-00-0000
+douglas a lougee, 000-00-0000
+laurie p lovely, 000-00-0000
+michael e lynch, 000-00-0000
+william s. maher, 000-00-0000
+patti w manning, 000-00-0000
+jeffrey a marchessault, 000-00-0000
+elizabeth a markowitz, 000-00-0000
+arevalo deandra l martin, 000-00-0000
+edward f martinek, 000-00-0000
+john c matteucci, 000-00-0000
+daniel e matthews, 000-00-0000
+marion b mazzola, 000-00-0000
+collom ance e mc,, 000-00-0000
+francis m mc cabe, 000-00-0000
+daryl m mc clendon, 000-00-0000
+thomas c mc fadden, jr, 000-00-0000
+joseph p mc graw, 000-00-0000
+scott e mc guire, 000-00-0000
+paul c mc loone, 000-00-0000
+shelly mewes mc nair, 000-00-0000
+jeffry p menzner, 000-00-0000
+cheryl a meyers, 000-00-0000
+eric d miller, 000-00-0000
+cynthia a moffett, 000-00-0000
+david c mooth, 000-00-0000
+charles e morris, 000-00-0000
+william b morrison, 000-00-0000
+GREGORY J MORSE, 000-00-0000
+MYRON E MORSE, 000-00-0000
+LINDA K NAKANISHI, 000-00-0000
+ROBERT J. NARDINO, 000-00-0000
+JEFFREY C NARY, 000-00-0000
+KAY M NELSEN, 000-00-0000
+ERIC A NELSON, 000-00-0000
+PAUL B NELSON, 000-00-0000
+ANN A T NGUYEN, 000-00-0000
+DUC C NGUYEN, 000-00-0000
+STEVEN A NGUYEN, 000-00-0000
+CAROL M NIBERT, 000-00-0000
+MARQUIS J NUBY, 000-00-0000
+CHRISTOPHER A NUSSER, 000-00-0000
+LAWRENCE R NYCUM, 000-00-0000
+JOHN W OBBINK, JR 000-00-0000
+ERIC T ORTINAU, 000-00-0000
+LAURA B OSTEZAN, 000-00-0000
+RORY G OWEN, 000-00-0000
+CHRISTOPHER G PALMER, 000-00-0000
+ANDREA L PANA, 000-00-0000
+PATRICK M PANCOAST, 000-00-0000
+DOMIAN PAONESSA, 000-00-0000
+MARK RANDALL PARSON, 000-00-0000
+ANJA A PATTON, 000-00-0000
+RHONDA L PERRY, 000-00-0000
+MICHAEL J PHILLIPS, 000-00-0000
+THOMAS R PIAZZA, 000-00-0000
+JOSEPH J PIERCE III, 000-00-0000
+EMILY W PIERCEFIELD, 000-00-0000
+LLOYD A PIERRE, JR, 000-00-0000
+JOHN A PILCHER, JR, 000-00-0000
+CHRISTOPHER D PITTS, 000-00-0000
+HELEN G POREMBA, 000-00-0000
+JOHN A POREMBA, 000-00-0000
+DANA E POWELL, 000-00-0000
+GEORGE E POWELL, 000-00-0000
+LEONARDO C PROFENNA, 000-00-0000
+DAVID M RASMUSSEN, 000-00-0000
+CYNTHIA L RAUH, 000-00-0000
+MARVIN LEE RAY, 000-00-0000
+DENNIS G REID, 000-00-0000
+RICHARD C RENO, 000-00-0000
+JENNIFER M RHODE, 000-00-0000
+STEVEN G RICHARDSON, 000-00-0000
+BRAD A RICHTER, 000-00-0000
+PHILLIP C RIDDLE, 000-00-0000
+MONICA J RIECKHOFF, 000-00-0000
+EDWIN D RISENHOOVER, 000-00-0000
+MEGAN A RITTER, 000-00-0000
+ANTHONY S ROBBINS, 000-00-0000
+KENNETH C ROBERTS, 000-00-0000
+DALE C ROBINSON, 000-00-0000
+KATHLEEN M RODRIGUEZ, 000-00-0000
+JOHN D ROGERS, 000-00-0000
+DANIEL N RONEL, 000-00-0000
+melanie a roscoe, 000-00-0000
+peter w ross, 000-00-0000
+david m rowles, 000-00-0000
+barbara a rugo, 000-00-0000
+robert e rupp, 000-00-0000
+steven r sabo, 000-00-0000
+john d salmon, 000-00-0000
+lee g saltzgaber, 000-00-0000
+tom j sauerwein, 000-00-0000
+kevin s l j sawchuk, 000-00-0000
+ross j scalese, 000-00-0000
+eric m schackmuth, 000-00-0000
+william g schaeffer, 000-00-0000
+lena c schaffer, 000-00-0000
+robert l schelonka, 000-00-0000
+joseph c schmidt, 000-00-0000
+russell d schroeder, 000-00-0000
+dean a schultz, 000-00-0000
+john r schultz, 000-00-0000
+randall h schuster, 000-00-0000
+jay p schwartz, 000-00-0000
+scott m sell, 000-00-0000
+mark e shaffrey, 000-00-0000
+steven m sharp, 000-00-0000
+paul j shaughnessy, 000-00-0000
+michele t sibley, 000-00-0000
+chung m siedlecki, 000-00-0000
+marc anthony silberbusch, 000-00-0000
+mario a silva, 000-00-0000
+theodore p skaarup, 000-00-0000
+stephen x skapek, 000-00-0000
+scott c slattery, 000-00-0000
+ann e sneiders, 000-00-0000
+
+[[Page S290]]
+
+michael d soe, 000-00-0000
+david d spaulding, 000-00-0000
+richard e standaert, jr, 000-00-0000
+richard t steffen, 000-00-0000
+bruce e sternke, 000-00-0000
+william a stinnette, 000-00-0000
+eric b stone, 000-00-0000
+stephen e stonehouse, 000-00-0000
+keith r storts, 000-00-0000
+praveen k suchdev, 000-00-0000
+judith a sutter, 000-00-0000
+steven g sutton, 000-00-0000
+susan l swardcomunelli, 000-00-0000
+todd c swathwood, 000-00-0000
+john n sweeney, 000-00-0000
+edward j szabo, 000-00-0000
+robert f takacs, 000-00-0000
+eric a taylor, 000-00-0000
+neal r taylor, 000-00-0000
+michael d teague, 000-00-0000
+denise j teasley, 000-00-0000
+angela r thomas, 000-00-0000
+jerry r thomas ii, 000-00-0000
+WILLIAM A. THOMAS, JR., 000-00-0000
+CHRISTOPHER M. THOMPSON, 000-00-0000
+TOMMY C. THOMPSON, 000-00-0000
+DOUGLAS S. TICE, 000-00-0000
+CHRIST J. TOCORAS, 000-00-0000
+ROGER L. TOLAR, JR, 000-00-0000
+GEOFFREY Y. TOM, 000-00-0000
+RAFAEL TORRES, 000-00-0000
+CHRISTINE M. TOTH, 000-00-0000
+TERRENCE L. TRENTMAN, 000-00-0000
+LYNETTE K. TUN, 000-00-0000
+DANIEL R. TURNER, 000-00-0000
+JAMES P. VANDECAR, 000-00-0000
+DAVID A. VELLING, 000-00-0000
+JEFF P. VISTA, 000-00-0000
+DAVID M. WALKER, 000-00-0000
+RUSSELL L. WALKER, 000-00-0000
+ANDREW J. WALTER, 000-00-0000
+ELIZABETH A. WALTER, 000-00-0000
+JOHN M. WARNER, 000-00-0000
+BILL P. WATSON, 000-00-0000
+GERALD S. WELKER, 000-00-0000
+JOHN W. WHELAN, JR, 000-00-0000
+MICHAEL R. WILMINGTON, 000-00-0000
+SCOTT L. WILSON, 000-00-0000
+TRACY J. WINTERS, 000-00-0000
+JOHN C. WITT, 000-00-0000
+LINDA L. WOLBERS, 000-00-0000
+DANNY A. WOLFGRAM, 000-00-0000
+RANDY J. WOODS, 000-00-0000
+LUN S. YAN, 000-00-0000
+LYNNE MILLER YANCEY, 000-00-0000
+EDWARD L. YANG, 000-00-0000
+JESSICA R. YBANEZMORLAND, 000-00-0000
+CHI HWA YEH, 000-00-0000
+CHRISTOPHER T. YOUNG, 000-00-0000
+SCOTT ZAGER, 000-00-0000
+PAUL R. ZIMNIK, 000-00-0000
+RICHARD M. ZWIRKO, 000-00-0000
+
+
+                              in the army
+
+       THE FOLLOWING-NAMED OFFICERS, ON THE ACTIVE DUTY LIST, FOR 
+     PROMOTION TO THE GRADE INDICATED IN THE U.S. ARMY IN 
+     ACCORDANCE WITH SECTION 624 OF TITLE 10, U.S.C. THE OFFICERS 
+     MARKED BY AN ASTERISK (*) ARE ALSO NOMINATED FOR REGULAR 
+     APPOINTMENT IN ACCORDANCE WITH SECTION 531 OF TITLE 10, 
+     U.S.C.
+
+
+                              DENTAL CORPS
+
+                             To be colonel
+
+LOREN D. ALVES, 000-00-0000
+WILLIAM R. BACHAND, 000-00-0000
+MICHAEL K. BAISDEN, 000-00-0000
+JOHN H. BARKER, 000-00-0000
+MICHAEL S. BARTELT, 000-00-0000
+RICHARD A. BASS, 000-00-0000
+MARK H. BEACH, 000-00-0000
+SIDNEY A. BROOKS, 000-00-0000
+JOHN S. BROUSSEAU, 000-00-0000
+PAUL J. BUCCIGROSS, 000-00-0000
+MARY H. BURKE, 000-00-0000
+JOHN M. CARUSO, 000-00-0000
+ANDREW J. CASSIDY, 000-00-0000
+ANDREW D. CHANDLER, 000-00-0000
+HUNTER R. CLOUSE, 000-00-0000
+JOHN M. DHANE, 000-00-0000
+EGGLESTON J. FAULK, 000-00-0000
+CARLTON J. FLOYD, 000-00-0000
+JEFFREY G. FOERSTER, 000-00-0000
+JAMES M. GERGELY, 000-00-0000
+DAVID G. GILLON, 000-00-0000
+BILL G. GOBLE, 000-00-0000
+JAMES N. HAMILTON, 000-00-0000
+WILLIAM S. JOHNSON, 000-00-0000
+JOSEPH J. JURCAK, 000-00-0000
+DAVID G. KERNS, 000-00-0000
+VAL L. KUDRYK, 000-00-0000
+BYRON W. LINDSAY, 000-00-0000
+WILSON J. LUCIANO, 000-00-0000
+PAUL A. LUTTRELL, 000-00-0000
+JOHN D. MAYO, 000-00-0000
+RICHARD J. MC CLAVE, 000-00-0000
+MICHAEL J. MC GOWAN, 000-00-0000
+STANLEY J. MC NEME, 000-00-0000
+ROBERT D. MEYER, 000-00-0000
+RONALD W. MIKALOFF, 000-00-0000
+BARRY D. MOORE, 000-00-0000
+FRANCIS E. NASSER, 000-00-0000
+NORMAN W. OTT, 000-00-0000
+DANIEL M. PIETZ, 000-00-0000
+KEVIN D. PLUMMER, 000-00-0000
+DIANE M. POLLICK, 000-00-0000
+JOSEPH R. POTOKY, 000-00-0000
+THOMAS C. RAKER, 000-00-0000
+DANIEL R. RAVEL, 000-00-0000
+ROBERT B. REICHL, 000-00-0000
+ROBERT B. SCHANZER, 000-00-0000
+MICHAEL H. SHAHAN, 000-00-0000
+GURBHAJAN SINGH, 000-00-0000
+EDWARD A. SOUZA, 000-00-0000
+THOMAS A. SULLIVAN, 000-00-0000
+MC COMBS K. TILLMAN, 000-00-0000
+GARY J. VALIANT, 000-00-0000
+MACK A. WARREN, 000-00-0000
+MICHAEL E. WERNER, 000-00-0000
+EUGENE WEST, 000-00-0000
+LESLEY A. WEST, 000-00-0000
+DAVID C. WILLIAMS, 000-00-0000
+JOSEPH A. WINEMAN, 000-00-0000
+TERRY ZETTLEMOYER, 000-00-0000
+
+
+                             MEDICAL CORPS
+
+                             To be colonel
+
+ARNOLD A. ASP, 000-00-0000
+DONALD D. * BAILEY, 000-00-0000
+RICHARD * BEDNARCZYK, 000-00-0000
+PAUL M. BENSON, 000-00-0000
+SAMUEL P. * BOEHM, 000-00-0000
+MICHAEL E. COATS, 000-00-0000
+LYDIA A. COFFMAN, 000-00-0000
+LIMONE C. * COLLINS, 000-00-0000
+WILLIAM F. * DAVITT, 000-00-0000
+NANCY A. DAWSON, 000-00-0000
+MARGRETTA M. * DIEMER, 000-00-0000
+THOMAS A. * DILLARD, 000-00-0000
+DAVID P. * DOOLEY, 000-00-0000
+MARSHALL V. * DRESSEL, 000-00-0000
+EDWARD M. EITZEN, JR, 000-00-0000
+ARN H. * ELIASSON, 000-00-0000
+NATHAN ERTESCHIK, 000-00-0000
+DOUGLAS W. * FELLOWS, 000-00-0000
+CHARLES W. FOX, 000-00-0000
+DEAN R. * GIULITTO, 000-00-0000
+LARRY J. * GODFREY, 000-00-0000
+DANIEL GORDON, 000-00-0000
+STEVEN F. GOUGE, 000-00-0000
+WILLIAM J. GRABSKI, 000-00-0000
+ELDER GRANGER, 000-00-0000
+STEVEN A. GREENWELL, 000-00-0000
+MILO L. * HIBBERT, 000-00-0000
+RALPH M. HINTON, 000-00-0000
+KENNETH J. HOFFMAN, 000-00-0000
+GWENDOLYN * HOLEMAN, 000-00-0000
+RAYMOND A. * HOWARD, 000-00-0000
+STEPHEN C. INSCORE, 000-00-0000
+JONATHAN H. JAFFIN, 000-00-0000
+KEVIN T. * JAMES, 000-00-0000
+JAMES E. JOHNSON, 000-00-0000
+DELBERT E. * JONES, 000-00-0000
+STEPHEN R. * JONES, 000-00-0000
+MARTIN G. JOURDEN, 000-00-0000
+JOHN M. KIRK, 000-00-0000
+MARGARET J. KNAPP, 000-00-0000
+DANIEL H. KNODEL, 000-00-0000
+JENICE N. * LONGFIELD, 000-00-0000
+DAVE E. LOUNSBURY, 000-00-0000
+PHILLIP L. MALLORY, 000-00-0000
+SAMUEL K. * MARTIN, 000-00-0000
+MICHAEL D. * MATSON, 000-00-0000
+RONALD A. MAUL, 000-00-0000
+MARTHA MC COLLOUGH, 000-00-0000
+THOMAS C. * MICHELS, 000-00-0000
+JAMES G. MILLER, 000-00-0000
+OPHELIA * PATTERSON, 000-00-0000
+THOMAS * PENNINGTON, 000-00-0000
+JAMES A. PFAFF, 000-00-0000
+THOMAS * QUARNSTROM, 000-00-0000
+KRISTIN B. RAINES, 000-00-0000
+KATY L. * REYNOLDS, 000-00-0000
+PAUL B. * ROCK, 000-00-0000
+JOSE L. SANCHEZ, 000-00-0000
+WAYNE A. SCHIRNER, 000-00-0000
+GILBERTO * SOSTRE, 000-00-0000
+LEONARD C. SPERLING, 000-00-0000
+MERLE S. SPRAGUE, 000-00-0000
+LAIRIE O. * STABLER, 000-00-0000
+ROGER W. STRICKLAND, 000-00-0000
+RITA L. * SVEC, 000-00-0000
+GREGG W. TAYLOR, 000-00-0000
+MARK S. * TAYLOR, 000-00-0000
+RAY U. TOMKINS, 000-00-0000
+RONALD P. * TURNICKY, 000-00-0000
+PHILIP VOLPE, 000-00-0000
+WILLIAM O. WALKER, 000-00-0000
+HERBERT G. WHITLEY, 000-00-0000
+JOSEPH F. * YETTER, 000-00-0000
+
+```
